@@ -8,3 +8,7 @@ Forge:
 
 Mody: 
 (viz adresar MODS)
+
+Dalsi:
+
+V souboru yuccaland.txt je par poznamek (vcetne TP prikazu pro navstiveni nekterych obydlenych oblasti)
