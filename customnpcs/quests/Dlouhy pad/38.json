@@ -1,0 +1,66 @@
+{
+    "CompleterNpc": "Hlidac",
+    "NextQuestId": -1,
+    "RandomReward": 0b,
+    "QuestRepeat": 0,
+    "QuestCompletion": 0,
+    "IgnoreNBT": 0b,
+    "Title": "28. Takticka porada",
+    "Text": "Nasel jsem vzkaz. Mel bych si o jejim obsahu promluvit s hlidacem.",
+    "QuestFactionPoints": {
+        "DecreaseFaction1Points": 0b,
+        "OptionFaction2Points": 100,
+        "OptionFactions1": -1,
+        "OptionFactions2": -1,
+        "OptionFaction1Points": 100,
+        "DecreaseFaction2Points": 0b
+    },
+    "RewardExp": 0,
+    "QuestCommand": "",
+    "ModRev": 18,
+    "Type": 0,
+    "QuestMail": {
+        "Sender": "",
+        "BeenRead": 0b,
+        "Message": {
+        },
+        "MailItems": [
+        ],
+        "MailQuest": -1,
+        "TimePast": 1554907999675L,
+        "Time": 0L,
+        "Subject": ""
+    },
+    "IgnoreDamage": 0b,
+    "Rewards": {
+        "NpcMiscInv": [
+        ]
+    },
+    "Items": {
+        "NpcMiscInv": [
+            {
+                "Slot": 0b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "minecraft:written_book",
+                "Count": 1b,
+                "tag": {
+                    "pages": [
+                        "{\"text\":\"Nechci to delat, ale nemame na vyber.\\n\\nVem svoji partu a vezmete jim ten cukr.\\n\\nBez nej neprezijeme.\\n\\nA pokud tam nekdo bude, tak ho hlavne nezabijejte!\\n\"}",
+                        "{\"text\":\"Az budete mit cukr, najdete nas v sousednim udoli smerem na sever od jejich vesnice.\\n\\nDa se tam pohodlne dostat, pokud jizni udoli opustite nejlevjejsim tunelem smerem na sever. Hlavne nechodte po ceste!\"}",
+                        "{\"text\":\"Hodne stesti, panove...\"}"
+                    ],
+                    "author": "Neznamy",
+                    "title": "Instrukce",
+                    "resolved": 1b
+                },
+                "Damage": 0s
+            }
+        ]
+    },
+    "LeaveItems": 0b,
+    "CompleteText": "Nasel jsem hlidace.",
+    "NextQuestTitle": ""
+}

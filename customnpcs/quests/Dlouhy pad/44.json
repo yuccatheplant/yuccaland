@@ -1,0 +1,44 @@
+{
+    "CompleterNpc": "Velitel Orku",
+    "NextQuestId": 45,
+    "QuestLocation3": "",
+    "RandomReward": 0b,
+    "QuestLocation2": "Ukryt spehu",
+    "QuestRepeat": 0,
+    "QuestCompletion": 1,
+    "Title": "32. Nezadana pozornost",
+    "Text": "Na vychod od tabora orku se rozprostira velke jezero. U nej byla nalezena zmasakrovana skupina orskych uprchliku. Na brehu tohoto jezera byly videny trosky domu.
+
+Mym ukolem je prozkoumat ruiny tohoto domu a pokusit se zjistit, kde se ukryvaji nepratelsti zvedove.",
+    "QuestFactionPoints": {
+        "DecreaseFaction1Points": 0b,
+        "OptionFaction2Points": 100,
+        "OptionFactions1": -1,
+        "OptionFactions2": -1,
+        "OptionFaction1Points": 100,
+        "DecreaseFaction2Points": 0b
+    },
+    "RewardExp": 0,
+    "QuestCommand": "",
+    "ModRev": 18,
+    "Type": 3,
+    "QuestMail": {
+        "Sender": "",
+        "BeenRead": 0b,
+        "Message": {
+        },
+        "MailItems": [
+        ],
+        "MailQuest": -1,
+        "TimePast": 1550667158754L,
+        "Time": 0L,
+        "Subject": ""
+    },
+    "Rewards": {
+        "NpcMiscInv": [
+        ]
+    },
+    "CompleteText": "",
+    "NextQuestTitle": "33. Utek z vezeni",
+    "QuestLocation": "Zniceny dum"
+}

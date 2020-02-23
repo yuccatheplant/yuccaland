@@ -1,0 +1,192 @@
+Vehilske kralovstvi
+  Aramoor - hlavni mesto  	/tp @p 2407 62 3412
+  Ramshorne 				/tp @p 1625 63 2012		Opevneni		/tp @p 1773 64 2427
+  Aerilon					/tp @p 2688 63 2589		Opevneni		/tp @p 2473 85 2062
+  Northast					/tp @p 2468 63 1767
+  
+Hobiti republika
+  Dorthlove					/tp @p 224 62 1979
+/clone 1558 61 2019 1558 61 2020 2527 61 1678
+Darkwellske imperium
+  Lunaris - hlavni mesto
+  Velka bazina
+  
+Windforge
+  Demeldur - Hlavni mesto
+  Dandarim - Ztracene mesto
+  
+Fast travel: 				/tp @p -552 62 2616
+
+
+/clone 2314 62 3493 2290 80 3517 
+/tp @p 2831 94 2437
+
+Leroi Musk je Lord
+Angelin alias je Kaela Raevenova
+
+
+Kapitola 1 - Kdo jsem a kde jsem?
+Kapitola 2 - Problemy v raji
+Kapitola 3 - Boure na obzoru
+Kapitola 4 - Plny uder
+Kapitola 5 - Dlouhy pad
+
+
+
+/spawnpoint @a[r=10] 1876 38 3285
+/tp @p 1876 38 3285
+
+/tp @a[x=1876,y=1,z=3239,r=4] ~814 ~60 ~-622
+
+1554 146 2845
+
+/title @a[x=1875,y=38,z=3254,r=2] times 0 100 0
+/title @a[x=1875,y=38,z=3254,r=2] subtitle {"text":"test"}
+/title @a[x=1875,y=38,z=3254,r=2] title {"text":" "}
+
+
+/fill 1863 43 3268 1863 43 3268 minecraft:air
+
+
+/tp @e[type=customnpcs:customnpc,x=,y=70,z=,r=1,c=1] ~ 85 ~
+
+
+/tp @e[type=customnpcs:customnpc,name=Strazny,x=2475,y=65,z=2064,r=10] ~ 95 ~
+
+
+/tp @e[type=customnpcs:customnpc,name=Angela,x=1537,y=49,z=1994,r=1,c=1] ~ 63 ~
+
+
+/title @a[x=377,y=63,z=1926,r=1] times 0 20 0
+/title @a[x=377,y=63,z=1926,r=1] subtitle {"text":"Problemy v raji"}
+/title @a[x=377,y=63,z=1926,r=1] title {"text":"kapitola 2"}
+
+
+
+/clone 2832 92 2438 2854 111 2460 ~ ~ ~ replace force
+
+
+Tabor nemrtvych u hrebenu
+
+/tp @e[type=customnpcs:customnpc,name=Kostlivec,x=1788,y=24,z=2414,r=20] ~ 95 ~
+
+/tp @e[type=customnpcs:customnpc,name=Mrtvola,x=2835,y=61,z=2428,r=20] ~ 89 ~
+
+
+Misto napadeni
+Angelininy stopy
+
+
+Lore:
+-30 let 	- Valka mezi lidmi a trpasliky kvuli ukradenym zasobam surovin, Northast je v oblezeni, ale ubranen, spousta civilistu byla zabita
+-29 let 	- Lide znici Trpaslici mesto, trpaslici vyhlasi primeri a oznami, ze opousteji kontinent.
+-28 let 	- Lidska kolonizace hor - neuspesna, hory se stavaji zemi nikoho.
+-20 let 	- Elfove po valce otevrou hranice Trpaslikum, Lidem taji jejich pritomnost.
+-10 let 	- Elfove objevi na ostrove ruiny stare civilizace
+-9  let 	- Erik a Angela se ucastni vyzkumne operace
+-8  let 	- Erik odhali uveznenou bytost, ktera ho ovladne
+-7  let 	- Erik a Angela zacinaji tajne pracovat na Nekromantickych vedach
+-6  let 	- Erik a Angela zjisti jak vyvolavat mrtve a ovladat je na kratkou vzdalenost
+-5  let 	- Erik zacne vyvijet loutkovou bytost, ktera muze ridit nemrtve v poli
+-4  let 	- Angela opusti vyzkumnou operaci a usadi se v Ramshorne. Kdyz se to Erik dozvi, ozivi nemrtve a vybije vyzkumny tym
+-3  let 	- Erikovo vojsko s prvni loutkovou bytosti zautoci na Elfy. Neuspesny. Elfove domnivajice se ze maji situaci pod kontrolou nic trpaslikum ani lidem nereknou
+-2  let 	- Erik brani ostrov a vyviji loutkovou bytost, dostane napad na lidskou verzi. 
+-1  let 	- Prvni prototyp bytosti je vyslan na sever po mori a vylodi se na vychodni strane trpaslicich hor.
+Bod 0	 	- Jeden z prototypu se vzbudi a zacne se potloukat po laboratori. Dotkne se krystalu, ktery jej prenese do blizkosti Ramshorne.
+
+Kapitola 1 - Kdo jsem a kde jsem?:
+1.  den 	- Lovec najde PC a zachrani ho.
+4.  den 	- PC se vzbudi a nic si nepamatuje (ve skutecnosti si nema co pamatovat)
+5.  den 	- PC vypomaha v Ramshorne
+6.  den 	- Karavana prepadena, PC najde ukryt banditu v hradu
+7.  den 	- Utok na hrad
+8.  den 	- Odjezd s Angelou do Dorthlove
+
+Kapitola 2 - Problemy v raji:
+10. den 	- PC pomaha Robinovi zachranit syna
+12. den 	- PC se vrati s Robinovym synem
+13. den 	- PC navaze kontakt s Orky
+15. den 	- PC je zajat Orky
+16. den 	- PC se vraci do Dorthlove, Angela je povolana do Aramooru
+17. den 	- Odjezd s Angelou, Bernardem a Lovcem do Aramooru
+
+Kapitola 3 - Boure na obzoru:
+18. den 	- PC dorazi do Aramooru
+19. den 	- PC najde nemrtve a mrtve posly
+20. den 	- PC sbira rostliny a soul sand
+22. den 	- PC je povolan k vysetrovani vypaleni samoty
+23. den 	- PC vypije lektvar a ma vizi budoucnosti
+
+Kapitola 4 - Plny uder:
+26. den 	- PC se vzbudi v Aerilonu, zacina valka, PC si poslechne briefing
+27. den 	- PC donese nastroje do prusmyku
+28. den		- Opevneni prusmyku je dokonceno
+29. den 	- Tabor nemrtvych objeven
+30. den 	- Utok na Tabor, ukaze se, ze jde o past, PC prekroci prusmyk a dostane se do prusmyku
+31. den 	- Prvni bitva o prusmyk
+32. den		- PC dorazi do Aerilonu, zjisti, ze Eda je mrtvy, Aerilon a prusmyk je pod utokem
+33. den 	- Aerilon a prusmyk je ubranen, Leroi utrzi tezke ztraty, Angela je unesena
+34. den 	- Chicco vyrazi k Northastu a postavi tabor
+36. den 	- Zacne oblehani
+37. den		- Nemrtvi zkousi protiutok
+38. den		- Utok je odrazen, Angela je unesena
+39. den 	- PC najde trpaslici mrtvolu se zapisky
+40. den 	- Zacina oblehani Northastu
+
+/tp @e[type=customnpcs:customnpc,name=Kostlivec,x=1789,y=80,z=2412,r=20] 1774 42 2418
+
+/tp @e[type=customnpcs:customnpc,name=Kostlivec,x=1774,y=42,z=2418,r=10] 1798 64 2406
+
+/tp @e[type=customnpcs:customnpc,name=Kostlivec,x=1793,y=37,z=2416,r=10] ~ 65 ~
+
+/clone 2478 41 1732 2487 43 1734 2478 63 1726
+/clone 2478 41 1732 2487 43 1734 2478 63 1732
+
+
+
+/testforblock 2529 63 1804 wooden_button 10
+/setblock 2531 66 1807 air 0 replace stone 0
+/summon item 2531 66.5 1807 {Item:{id:stone,Count:1b,tag:{display:{Name:"BOULDER"}}},Passengers:[{id:"falling_block",Block:stone,Data:0,Time:1,DropItem:0}],Motion:[0.0,1.5,-2.0]}
+/setblock 2529 63 1804 minecraft:wooden_button 2
+/scoreboard players tag @e[type=Item] add EXPLODE {OnGround:1b,Item:{id:"minecraft:stone",Count:1b,tag:{display:{Name:"BOULDER"}}}}
+/execute @e[tag=EXPLODE] ~ ~ ~ kill @e[type=falling_block,c=1]
+/execute @e[tag=EXPLODE] ~ ~ ~ /summon creeper ~ ~ ~ {ignited:1,ExplosionRadius:20,Fuse:0}
+/kill @e[tag=EXPLODE]
+
+
+
+/testforblock 2470 50 1767 minecraft:lit_redstone_lamp
+/setblock 2478 65 1727 minecraft:air 0 replace minecraft:stone 0
+/summon item 2478 65.5 1727 {Item:{id:stone,Count:1b,tag:{display:{Name:"BOULDER1"}}},Passengers:[{id:"falling_block",Block:stone,Data:0,Time:1,DropItem:0}],Motion:[1.0,1.5,0.0]}
+/clone 2478 41 1726 2487 43 1728 2478 63 1726
+
+/testforblock 2470 50 1767 minecraft:lit_redstone_lamp
+/setblock 2478 65 1733 minecraft:air 0 replace minecraft:stone 0
+/summon item 2478 65.5 1733 {Item:{id:stone,Count:1b,tag:{display:{Name:"BOULDER1"}}},Passengers:[{id:"falling_block",Block:stone,Data:0,Time:1,DropItem:0}],Motion:[1.5,1.5,0.0]}
+/clone 2478 41 1726 2487 43 1728 2478 63 1732
+
+/scoreboard players tag @e[type=Item] add EXPLODE1 {OnGround:1b,Item:{id:"minecraft:stone",Count:1b,tag:{display:{Name:"BOULDER1"}}}}
+/execute @e[tag=EXPLODE1] ~ ~ ~ kill @e[type=falling_block,c=1]
+/execute @e[tag=EXPLODE1] ~ ~ ~ /summon creeper ~ ~ ~ {ignited:1,ExplosionRadius:20,Fuse:0}
+/kill @e[tag=EXPLODE1]
+
+
+
+/tp @e[type=customnpcs:customnpc,x=,y=50,z=,r=1,c=1,dx=0,dz=0] ~ 60 ~
+/tp @e[type=customnpcs:customnpc,x=,y=60,z=,r=1,c=1,dx=0,dz=0] ~ 50 ~
+
+/tp @e[type=customnpcs:customnpc,name=Strazny,x=2468,y=-17,z=1767,r=65] ~ 65 ~
+/tp @e[type=customnpcs:customnpc,name=Strazny,x=2468,y=122,z=1767,r=65] ~ 43 ~
+
+
+Quiljotova vyprava
+
+
+
+
+
+
+
+
+
+

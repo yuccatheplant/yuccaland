@@ -1,0 +1,83 @@
+{
+    "DialogShowWheel": 0b,
+    "AvailabilityQuestId": -1,
+    "Options": [
+        {
+            "OptionSlot": 0,
+            "Option": {
+                "DialogCommand": "",
+                "Dialog": 67,
+                "Title": "To je uzasna analyza, v to jsem ani nedoufal! Diky!",
+                "DialogColor": 14737632,
+                "OptionType": 1
+            }
+        }
+    ],
+    "AvailabilityScoreboardType": 1,
+    "DialogHideNPC": 0b,
+    "AvailabilityFactionStance": 0,
+    "AvailabilityScoreboard2Value": 1,
+    "DialogId": 66,
+    "AvailabilityQuest": 0,
+    "AvailabilityDialog4": 0,
+    "AvailabilityScoreboardObjective": "",
+    "AvailabilityDialog3": 0,
+    "AvailabilityQuest2": 0,
+    "AvailabilityQuest3": 0,
+    "AvailabilityScoreboard2Objective": "",
+    "AvailabilityQuest4": 0,
+    "ModRev": 18,
+    "DecreaseFaction1Points": 0b,
+    "DialogQuest": -1,
+    "AvailabilityDialog2": 0,
+    "OptionFactions1": -1,
+    "AvailabilityDayTime": 0,
+    "OptionFactions2": -1,
+    "AvailabilityFaction2Id": -1,
+    "OptionFaction1Points": 100,
+    "AvailabilityScoreboardValue": 1,
+    "DialogDisableEsc": 0b,
+    "AvailabilityFaction": 0,
+    "DialogTitle": "banditiUkryt03",
+    "AvailabilityDialog": 0,
+    "AvailabilityScoreboard2Type": 1,
+    "AvailabilityFaction2": 0,
+    "AvailabilityFactionId": -1,
+    "AvailabilityFaction2Stance": 0,
+    "DialogCommand": "",
+    "AvailabilityDialogId": -1,
+    "OptionFaction2Points": 100,
+    "DialogText": "Prvni co mne napadlo je stara tvrz na svahu jizne odsud.
+Ale ta to urcite nebude, protoze je to tam neobyvatelny a kazdou chvili se to muze zritit.
+Taky to nemuze bejt moc daleko od utoku, protoze by se s tim urcite netahali takovou dalku pryc...
+Pockej...
+Nemuze to bejt ani primo v tech skalach, kde k tomu doslo, protoze tam neni kde normalne postavit tabor.
+Nebude to na vychode od skal, udoli je tam priliz uzke a nekdo by si jich vsiml.
+Sever to taky nebude, protoze jsme tu my a nic moc vic se sem nevejde.
+Takze jediny dva smery jsou Jih a Zapad.
+Nemyslim si, ze to bude Zapad. Je tam skoro neprojitelna stena skal.
+Ne ze by to na Jih bylo lepsi, ale urcite se tama nejak projit da.
+A kdyz nad tim premyslim, byl jsem tam pred tydnem a videl jsem stan. Myslel jsem, ze jen nekdo nocuje, ale urcite je to vhodne prozkoumat.
+Takze, pujdes z vesnice na jih pres cele udoli, dokud nenarazis na dalsi reku. A kousek od mista kde vyvera by melo bejt stare taboriste.
+Zkus to tam, a pokud nepochodis, zkus jit vic na zapad.",
+    "AvailabilityQuest4Id": -1,
+    "AvailabilityQuest3Id": -1,
+    "AvailabilityQuest2Id": -1,
+    "AvailabilityDialog2Id": -1,
+    "AvailabilityDialog3Id": -1,
+    "AvailabilityDialog4Id": -1,
+    "AvailabilityMinPlayerLevel": 0,
+    "DecreaseFaction2Points": 0b,
+    "DialogMail": {
+        "Sender": "",
+        "BeenRead": 0b,
+        "Message": {
+        },
+        "MailItems": [
+        ],
+        "MailQuest": -1,
+        "TimePast": 1548067695517L,
+        "Time": 0L,
+        "Subject": ""
+    }
+}

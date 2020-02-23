@@ -1,0 +1,43 @@
+- dungeon_name: Mouldering Keep
+  entrance_height: 14
+  entrance_pos: !!python/object:utils.Vec
+    x: 0
+    y: 0
+    z: 1
+  fill_caves: false
+  full_name: Mouldering Keep
+  levels: 2
+  portal_exit: !!python/object:utils.Vec
+    x: 3
+    y: -20
+    z: 20
+  position: !!python/object:utils.Vec
+    x: 1120
+    y: 98
+    z: 1504
+  timestamp: 1549195143
+  version: 0.18.0
+  xsize: 5
+  zsize: 5
+- dungeon_name: Cairn
+  entrance_height: 8
+  entrance_pos: !!python/object:utils.Vec
+    x: 0
+    y: 0
+    z: 3
+  fill_caves: false
+  full_name: Cairn
+  levels: 3
+  portal_exit: !!python/object:utils.Vec
+    x: 16
+    y: -6
+    z: 48
+  position: !!python/object:utils.Vec
+    x: 1120
+    y: 66
+    z: 1040
+  timestamp: 1550420642
+  version: 0.18.0
+  xsize: 4
+  zsize: 4
+

@@ -1,0 +1,86 @@
+{
+    "DialogShowWheel": 0b,
+    "AvailabilityQuestId": 10,
+    "Options": [
+        {
+            "OptionSlot": 0,
+            "Option": {
+                "DialogCommand": "",
+                "Dialog": -1,
+                "Title": "Vyrazim co nejdriv.",
+                "DialogColor": 14737632,
+                "OptionType": 0
+            }
+        }
+    ],
+    "AvailabilityScoreboardType": 1,
+    "DialogHideNPC": 0b,
+    "AvailabilityFactionStance": 0,
+    "AvailabilityScoreboard2Value": 1,
+    "DialogId": 49,
+    "AvailabilityQuest": 1,
+    "AvailabilityDialog4": 0,
+    "AvailabilityScoreboardObjective": "",
+    "AvailabilityDialog3": 0,
+    "AvailabilityQuest2": 1,
+    "AvailabilityQuest3": 1,
+    "AvailabilityScoreboard2Objective": "",
+    "AvailabilityQuest4": 2,
+    "ModRev": 18,
+    "DecreaseFaction1Points": 0b,
+    "DialogQuest": 14,
+    "AvailabilityDialog2": 0,
+    "OptionFactions1": -1,
+    "AvailabilityDayTime": 0,
+    "OptionFactions2": -1,
+    "AvailabilityFaction2Id": -1,
+    "OptionFaction1Points": 100,
+    "AvailabilityScoreboardValue": 1,
+    "DialogDisableEsc": 0b,
+    "AvailabilityFaction": 0,
+    "DialogTitle": "Karavana01",
+    "AvailabilityDialog": 0,
+    "AvailabilityScoreboard2Type": 1,
+    "AvailabilityFaction2": 0,
+    "AvailabilityFactionId": -1,
+    "AvailabilityFaction2Stance": 0,
+    "DialogCommand": "",
+    "AvailabilityDialogId": -1,
+    "OptionFaction2Points": 100,
+    "DialogText": "Takze k veci.
+
+Dnes zrana mela prijet karavana, ale nestalo se tak.
+Vyslali jsme hlidky smerem na jih - odtud mela prijet.
+A karavanu jsme nasli - vykradenou, zadne mrtvoly ani prezivsi nebyli pritomni.
+Na miste jsou stopy krve, takze jsou pravdepodobne mrtvi.
+V teto fazi pruseru uz zbyva jen projit oblast a najit mrtvoly, at tam zbytecne nehnijou.
+
+Tvoje instrukce jsou:
+- Dojit na misto nehody a prohledat to tam jeste jednou. Ne, ze bysme to uz neudelali, ale mozna te neco napadne.
+- Projit blizke okoli, jestli nenajdes ty mrtve chudaky.
+
+Pokud te neco napadne, tak to nepodnikej sam a dojdi sem a prodiskutujeme to. Ti chudaci jsou pravdepodobne mrtvi, takze neni kam spechat.
+A hlavne tam nechod neozbrojenej, vezmi si tuhle zbroj a byt tebou, zainvestoval bych do stitu.
+
+Tak uz jdi. Ja tu jeste pockam na par dobrovolniku.",
+    "AvailabilityQuest4Id": 13,
+    "AvailabilityQuest3Id": 11,
+    "AvailabilityQuest2Id": 9,
+    "AvailabilityDialog2Id": -1,
+    "AvailabilityDialog3Id": -1,
+    "AvailabilityDialog4Id": -1,
+    "AvailabilityMinPlayerLevel": 0,
+    "DecreaseFaction2Points": 0b,
+    "DialogMail": {
+        "Sender": "",
+        "BeenRead": 0b,
+        "Message": {
+        },
+        "MailItems": [
+        ],
+        "MailQuest": -1,
+        "TimePast": 1551119136799L,
+        "Time": 0L,
+        "Subject": ""
+    }
+}

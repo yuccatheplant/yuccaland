@@ -1,0 +1,80 @@
+{
+    "DialogShowWheel": 0b,
+    "AvailabilityQuestId": -1,
+    "Options": [
+        {
+            "OptionSlot": 0,
+            "Option": {
+                "DialogCommand": "",
+                "Dialog": 208,
+                "Title": "Ale kdyz se vydate na utek, budete jeste vice zranitelni.",
+                "DialogColor": 14737632,
+                "OptionType": 1
+            }
+        }
+    ],
+    "AvailabilityScoreboardType": 1,
+    "DialogHideNPC": 0b,
+    "AvailabilityFactionStance": 0,
+    "AvailabilityScoreboard2Value": 1,
+    "DialogId": 207,
+    "AvailabilityQuest": 0,
+    "AvailabilityDialog4": 0,
+    "AvailabilityScoreboardObjective": "",
+    "AvailabilityDialog3": 0,
+    "AvailabilityQuest2": 0,
+    "AvailabilityQuest3": 0,
+    "AvailabilityScoreboard2Objective": "",
+    "AvailabilityQuest4": 0,
+    "ModRev": 18,
+    "DecreaseFaction1Points": 0b,
+    "DialogQuest": -1,
+    "AvailabilityDialog2": 0,
+    "OptionFactions1": -1,
+    "AvailabilityDayTime": 0,
+    "OptionFactions2": -1,
+    "AvailabilityFaction2Id": -1,
+    "OptionFaction1Points": 100,
+    "AvailabilityScoreboardValue": 1,
+    "DialogDisableEsc": 0b,
+    "AvailabilityFaction": 0,
+    "DialogTitle": "problem02",
+    "AvailabilityDialog": 0,
+    "AvailabilityScoreboard2Type": 1,
+    "AvailabilityFaction2": 0,
+    "AvailabilityFactionId": -1,
+    "AvailabilityFaction2Stance": 0,
+    "DialogCommand": "",
+    "AvailabilityDialogId": -1,
+    "OptionFaction2Points": 100,
+    "DialogText": "Je mi to lito, clovece.
+Dohala nas nase minulost.
+Me jmeno je Dur not Harr.
+Jsem nejstarsi syn nacelnika Hur yet Harra, nacelnika velkeho klanu orku.
+Bohuzel, muj otec pred nedavnem skonal, a muj mladsi bratr ucitil prilezitost a poslal sve hrdlorezy, aby se mne zbavili.
+Nastesti mezi orky, na ktere se obratil se nachazeli i mi verni, kteri nafingovali moji smrt a pomohli mi utect spolecne s mymi nejvernejsimi vojaky.
+Plan uteku ale nevysel idealne a byli jsme odhaleni. Sice jsme utekli, ale bratr vedel, ze jsme pobliz.
+Nemohl riskovat ze az naberu sily ve vyhnanstvi, tak se vratim a sesadim ho z trunu, ktery mi nalezi.
+Proto poslal pruzkumnou skupinu po mych stopach. Myslel jsem, ze jsme je setrasli a proto jsme se utaborili zde. Ale jedna z mych pruzkumnych a loveckych skupin byla prepadena a zmasakrovana. Nasli jsme je, kdyz vy jste predaval omluvu ve vesnici.
+To znamena, ze pruzkumnici vedi, ze jsme tu a brzy na nas zautoci.",
+    "AvailabilityQuest4Id": -1,
+    "AvailabilityQuest3Id": -1,
+    "AvailabilityQuest2Id": -1,
+    "AvailabilityDialog2Id": -1,
+    "AvailabilityDialog3Id": -1,
+    "AvailabilityDialog4Id": -1,
+    "AvailabilityMinPlayerLevel": 0,
+    "DecreaseFaction2Points": 0b,
+    "DialogMail": {
+        "Sender": "",
+        "BeenRead": 0b,
+        "Message": {
+        },
+        "MailItems": [
+        ],
+        "MailQuest": -1,
+        "TimePast": 1550424668445L,
+        "Time": 0L,
+        "Subject": ""
+    }
+}

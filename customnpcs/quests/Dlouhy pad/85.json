@@ -1,0 +1,48 @@
+{
+    "CompleterNpc": "Kapitan Chicco",
+    "NextQuestId": -1,
+    "QuestLocation3": "",
+    "RandomReward": 0b,
+    "QuestLocation2": "Pruzkum veze",
+    "QuestRepeat": 0,
+    "QuestCompletion": 1,
+    "Title": "64. Vez",
+    "Text": "Kapitan Chicco mne navedl k vezi, kterou jsem videl ve vizi.
+Mela by byt kilometr severozapadne od Aramooru.
+Jde videt z cesty v udoli na severozapad od Aramooru.
+(Souradnice: X=1615 Z=2886)
+
+Mel bych ji jit prozkoumat.",
+    "QuestFactionPoints": {
+        "DecreaseFaction1Points": 0b,
+        "OptionFaction2Points": 100,
+        "OptionFactions1": -1,
+        "OptionFactions2": -1,
+        "OptionFaction1Points": 100,
+        "DecreaseFaction2Points": 0b
+    },
+    "RewardExp": 0,
+    "QuestCommand": "",
+    "ModRev": 18,
+    "Type": 3,
+    "QuestMail": {
+        "Sender": "",
+        "BeenRead": 0b,
+        "Message": {
+        },
+        "MailItems": [
+        ],
+        "MailQuest": -1,
+        "TimePast": 1561823571383L,
+        "Time": 0L,
+        "Subject": ""
+    },
+    "Rewards": {
+        "NpcMiscInv": [
+        ]
+    },
+    "CompleteText": "Trpaslik?! Co tady dela trpaslik?
+Mel bych ho prohledat.",
+    "NextQuestTitle": "",
+    "QuestLocation": "Stara vez"
+}
