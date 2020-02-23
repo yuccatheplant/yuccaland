@@ -29,7 +29,8 @@ Kapitola 1 - Kdo jsem a kde jsem?
 Kapitola 2 - Problemy v raji
 Kapitola 3 - Boure na obzoru
 Kapitola 4 - Plny uder
-Kapitola 5 - Dlouhy pad
+Kapitola 5 - Nezhojene rany
+Kapitola 6 - Dlouhy pad
 
 
 
@@ -77,37 +78,54 @@ Misto napadeni
 Angelininy stopy
 
 
-Lore:
--30 let 	- Valka mezi lidmi a trpasliky kvuli ukradenym zasobam surovin, Northast je v oblezeni, ale ubranen, spousta civilistu byla zabita
+Lore - SPOILERY:
+-30 let 	- Trpaslici narknou lidi kvuli zmizele karavane zlata
+            Valka mezi lidmi a trpasliky, Northast je v oblezeni, ale ubranen, spousta civilistu byla zabita
 -29 let 	- Lide znici Trpaslici mesto, trpaslici vyhlasi primeri a oznami, ze opousteji kontinent.
--28 let 	- Lidska kolonizace hor - neuspesna, hory se stavaji zemi nikoho.
+-27 let 	- Quilljotova kolonizace hor - neuspesna, hory se stavaji zemi nikoho.
 -20 let 	- Elfove po valce otevrou hranice Trpaslikum, Lidem taji jejich pritomnost.
 -10 let 	- Elfove objevi na ostrove ruiny stare civilizace
--9  let 	- Erik a Angela se ucastni vyzkumne operace
--8  let 	- Erik odhali uveznenou bytost, ktera ho ovladne
--7  let 	- Erik a Angela zacinaji tajne pracovat na Nekromantickych vedach
--6  let 	- Erik a Angela zjisti jak vyvolavat mrtve a ovladat je na kratkou vzdalenost
--5  let 	- Erik zacne vyvijet loutkovou bytost, ktera muze ridit nemrtve v poli
--4  let 	- Angela opusti vyzkumnou operaci a usadi se v Ramshorne. Kdyz se to Erik dozvi, ozivi nemrtve a vybije vyzkumny tym
--3  let 	- Erikovo vojsko s prvni loutkovou bytosti zautoci na Elfy. Neuspesny. Elfove domnivajice se ze maji situaci pod kontrolou nic trpaslikum ani lidem nereknou
--2  let 	- Erik brani ostrov a vyviji loutkovou bytost, dostane napad na lidskou verzi. 
--1  let 	- Prvni prototyp bytosti je vyslan na sever po mori a vylodi se na vychodni strane trpaslicich hor.
-Bod 0	 	- Jeden z prototypu se vzbudi a zacne se potloukat po laboratori. Dotkne se krystalu, ktery jej prenese do blizkosti Ramshorne.
+-9  let 	- Erik a Kaela se ucastni vyzkumne operace
+-7  let 	- Erik a Kaela zacinaji pracovat na Nekromantickych vedach
+-6  let 	- Erik a Kaela zjisti jak vyvolavat mrtve a ovladat je na kratkou vzdalenost
+-5  let 	- Elfove se dozvi o nekromancii a utnou vyzkumny projekt. 
+            Erik odmitne skoncit s projektem, po pohruzce nasili zvedne armadu mrtvych a zabije vsechny v ruine krome sebe a Kaely.
+            Kaela ukradne zapisky z vyzkumu a skryba se pred Erikem v dosud neprozkoumane casti ruin.
+            Kaela najde teleportacni krystaly a nevedomky jeden pouzije.
+            Kaelu najde v bezvedomi Bernard v Dorthlove.   
+            Elfove oblehnou ostrov, ale jsou odrazeni nemrtvymi
+-4  roky  - Erik najde krystaly, a zacne je opatrne zkoumat
+            Kaela se prestehuje do Ramshorne, kde pod jmenem Angela pracuje jako alchymistka
+-3  roky  - Erik najde klonovaci kade a rozlusti material, jak s nimi pracovat
+            Erik zacina s vyvojem prvniho klonu.
+            Angela za pomoci znalosti z ruiny objevi penicilin, aby osetrila smrtelne zraneneho Lorda Muska
+-2  roky  - Erik ovladne prvni klon, zacne jej ucit nekromancii
+            Erik zjistuje jak preprogramovat a uchovat teleportacni krystal. Nedokaze jej vsak vyrobit
+-1  rok   - Erik pomoci teleportacnich krystalu posle prvni klon na hranice mezi Vehilskym (lidskym) a Darkwellskym (elfim) teritoriem
+            Klon vybije pomoci nemrtvych par malych farem a tela farmaru posle zpet
+            Erik ze vzorku mrtvol udela dalsi klony
+-1 mesic  - Erik rozesle klony do Darkwellu, Windforge a k Northastu
+            Jeden klon neni jeste pripraven pro vyslani
+            
+Bod 0	 	  - Posledni klon se vzbudi a zacne se potloukat po laboratori. Dotkne se krystalu, ktery jej prenese do blizkosti Ramshorne.
 
 Kapitola 1 - Kdo jsem a kde jsem?:
 1.  den 	- Lovec najde PC a zachrani ho.
-4.  den 	- PC se vzbudi a nic si nepamatuje (ve skutecnosti si nema co pamatovat)
+3.  den 	- PC se vzbudi a nic si nepamatuje (ve skutecnosti si nema co pamatovat)
 5.  den 	- PC vypomaha v Ramshorne
 6.  den 	- Karavana prepadena, PC najde ukryt banditu v hradu
 7.  den 	- Utok na hrad
 8.  den 	- Odjezd s Angelou do Dorthlove
+            Darkwell je silne napaden a je nucen stahnout zalohy z hranic s Vehilem. 
+            Elfove se skryji lidem a prerusi veskery kontakt
 
 Kapitola 2 - Problemy v raji:
 10. den 	- PC pomaha Robinovi zachranit syna
-12. den 	- PC se vrati s Robinovym synem
+12. den 	- PC se vraci s Robinovym synem
+            PC se potkava s Donem Quilljotem a jeho spolecnikem Legolandem pri patrani po trpaslicich ruinach
 13. den 	- PC navaze kontakt s Orky
 15. den 	- PC je zajat Orky
-16. den 	- PC se vraci do Dorthlove, Angela je povolana do Aramooru
+16. den 	- PC se vraci do Dorthlove, Angela je povolana Lordem Muskem do Aramooru
 17. den 	- Odjezd s Angelou, Bernardem a Lovcem do Aramooru
 
 Kapitola 3 - Boure na obzoru:
@@ -115,23 +133,72 @@ Kapitola 3 - Boure na obzoru:
 19. den 	- PC najde nemrtve a mrtve posly
 20. den 	- PC sbira rostliny a soul sand
 22. den 	- PC je povolan k vysetrovani vypaleni samoty
-23. den 	- PC vypije lektvar a ma vizi budoucnosti
+23. den 	- PC vypije Angelinin lektvar a ma vizi "planu nekromancera"
+            Jeden klon unese Lorda Northastu, z nej je rychlou procedurou vytvoren klon a poslan zpet do Northastu
+
+Vize:
+PC vidi Aerilon, zniceny Northast, opustenou strazni vez a Angelu a Erika vladnouci nemrtvym
 
 Kapitola 4 - Plny uder:
-26. den 	- PC se vzbudi v Aerilonu, zacina valka, PC si poslechne briefing
-27. den 	- PC donese nastroje do prusmyku
+26. den 	- PC se vzbudi v Aerilonu, zacina valka s nemrtvymi, PC skryva pravdu pred Angelou
+27. den 	- PC donese nastroje do Ramshornskeho prusmyku
 28. den		- Opevneni prusmyku je dokonceno
 29. den 	- Tabor nemrtvych objeven
 30. den 	- Utok na Tabor, ukaze se, ze jde o past, PC prekroci prusmyk a dostane se do prusmyku
 31. den 	- Prvni bitva o prusmyk
 32. den		- PC dorazi do Aerilonu, zjisti, ze Eda je mrtvy, Aerilon a prusmyk je pod utokem
 33. den 	- Aerilon a prusmyk je ubranen, Leroi utrzi tezke ztraty, Angela je unesena
+            Bernard priznava, ze vedel, ze Angela vedela o nekromancii
+            PC naleha, ze musi prozkoumat opustenou strazni vez z vize
 34. den 	- Chicco vyrazi k Northastu a postavi tabor
-36. den 	- Zacne oblehani
-37. den		- Nemrtvi zkousi protiutok
-38. den		- Utok je odrazen, Angela je unesena
-39. den 	- PC najde trpaslici mrtvolu se zapisky
-40. den 	- Zacina oblehani Northastu
+            Zacne oblehani Northastu
+            PC ve vezi objevi mrtvolu Trpaslika, ktery monitoroval situaci
+35. den   - PC se vraci k Northastu
+            Chicco se od PC dozvi teorii, ze trpaslici neopustili hory
+            PC chce kontaktovat Quilljota kvuli Trpaslikum
+36. den   - PC dostihne Quilljota prozkoumavajiciho podzemni tunel
+            PC rekne Quilljotovi a Legolandovi o trpaslicich
+            Legoland prizna, ze o tom vi
+37. den   - PC, Quilljot a Legoland dorazi k Northastu
+38. den   - Legoland slibi, ze Darkwell navaze spojeni
+            Bitva o Northast
+39. den   - Northast je dobyt, Chicco a PC infiltruji Northastsky hrad
+            Chicco je zaskocen, ze nemrtve vede jeho stary pritel, je nucen jej zabit holyma rukama
+            
+Kapitola 5 - Nezhojene rany:          
+40. den   - Legoland, Lovec, Bernard a PC vyrazeji na vypravu do hor
+            Chicco se vraci do Aramooru
+            Leroi Musk se pripravuje na pruzkum a ochranu oblasti se zaverecnym utaborenim se v Aerilonu
+42. den   - vyprava se utabori u velkeho horskeho jezera
+            PC je instruovan Legolandem o sade zkousek, kterymi musi projit, aby kontaktoval Trpasliky
+43. den   - PC podstupuje testy a dostane se do Demelduru
+44. den   - Lovec, Legoland a Bernard jsou vpusteni do Demelduru
+45. den   - PC sestupuje do sachty, aby pomohl zavalenym hornikum
+47. den   - PC nachazi cestu ven
+48. den   - PC a Metyasuv (kral trpasliku) syn Gumli vyrazi na pruzkum k severnimu mestu kvuli hrozicimu zemetreseni
+50. den   - PC a Gumli prichazeji k mestu, cestu jim ale zatarasi lavova reka, ktera unikla z Magmove prehrady
+            PC a Gumli podnikaji strastiplnou cestu zpet
+51. den   - PC a Gumli dorazi ke znicene prehrade a zjisti, ze ji sabotovali nemrtvi
+            Gumli ve vzteku zacne nemrtve pronasledovat do napul vypustene nadrze, ale nemrtvi ho brzy precisli a donuti ho k uteku
+            Pri uteku Gumli vbehne do male uzlabeniny, kde je usazene zlato
+            Nemrtvi pri kontaktu se zlatem umrou
+            Gumli si uvedomi, ze se jedna o zlato, ktere zmizelo pred triceti lety
+52. den   - Gumli konfrontuje Metyase ohledne zlata
+            Nemrtvi napadnou Demeldur a donuti Metyase naridit evakuaci mesta skrz podzemni drahu
+54. den   - Evakuace je dokoncena a tunel je uzavren
+            Valecna porada na hranicich s Darkwellem odhali:
+            Metyas vyvolal valku zbytecne, fakt, ze za zmizeni zlata si mohli trpaslici sami se dozvedel az kdyz bylo pozde
+            Pri spojeni informaci Lidi, Trpasliku a Elfu si Lovec uvedomi, ze Angela a Kaela jsou jedna a ta sama osoba
+            Lovec si take uvedomi, ze Angela a PC pouzili stejny typ technologie pro preneseni, ale nezmini nic
+            Legoland vymysli plan utoku na ostrov
+            Lovec konfrontuje PC a dohodnou se, ze Lovec rekne Chiccovi o PC
+55. den   - Pri presunu do pristavu skrz zeleznici PC sjede z trasy a skonci v experimentalnim elfim hloubkovem tunelu primo na ostrov
+56. den   - TODO
+
+
+
+
+
 
 /tp @e[type=customnpcs:customnpc,name=Kostlivec,x=1789,y=80,z=2412,r=20] 1774 42 2418
 
