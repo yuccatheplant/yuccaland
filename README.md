@@ -1,9 +1,10 @@
 #CtiMe
 
-#MC Verze: 
+MC Verze: 
 1.12.2
-#Forge: 
+
+Forge: 
 1.12.2 LATEST
 
-#Mody: 
+Mody: 
 (viz adresar MODS)
