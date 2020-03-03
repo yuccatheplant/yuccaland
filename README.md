@@ -1,7 +1,7 @@
 #CtiMe!!!
 Toto je mapa do Minecraftu.
 Instalace:
-Obsah teto slozky extrahujte do `%appdata%\\.minecraft\saves\yuccaland\`
+Obsah teto slozky extrahujte do `%appdata%\.minecraft\saves\yuccaland\`
 
 ###MC Verze: 
 1.12.2
