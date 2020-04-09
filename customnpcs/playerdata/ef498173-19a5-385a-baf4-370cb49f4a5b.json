@@ -1,0 +1,35 @@
+{
+    "ItemGiverChained": [
+    ],
+    "TransportData": [
+    ],
+    "NpcsTimers": [
+    ],
+    "FactionData": [
+        {
+            "Points": 500,
+            "Faction": 2
+        },
+        {
+            "Points": 0,
+            "Faction": 6
+        }
+    ],
+    "BankData": [
+    ],
+    "ItemGiversList": [
+    ],
+    "MailData": [
+    ],
+    "PlayerName": "Yuccatheplant",
+    "QuestData": {
+        "CompletedQuests": [
+        ],
+        "ActiveQuests": [
+        ]
+    },
+    "UUID": "ef498173-19a5-385a-baf4-370cb49f4a5b",
+    "PlayerCompanionId": 0,
+    "DialogData": [
+    ]
+}
