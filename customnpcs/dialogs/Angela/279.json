@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "No, tak dobra. Jdu na to.",
+                "Title": "Yeah, sure. Why not.",
                 "DialogColor": 14737632,
                 "OptionType": 0
             }
@@ -47,14 +47,15 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Obycejny vlci mak.
-Potrebuji pet kvetu.
+    "DialogText": "Regular poppies.
+They contain damping substance that helps to keep you asleep and concentrate on the vision.
+But you probably do not care, right?
 
-Abys zbytecne nehledal, na vychod odtud je oblast, kde roste hodne rostlin.
+So. Easiest will be to travel east across the lake there is area where herbs grow in big numbers.
 
-A kdyz uz tam budes, vezmes mi par kvetu pivonky?
+And when you will be there... would you grab me few peonies on the way?
 
-Diky.",
+Thanks.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -71,7 +72,7 @@ Diky.",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1552333820503L,
+        "TimePast": 1591130361458L,
         "Time": 0L,
         "Subject": ""
     }

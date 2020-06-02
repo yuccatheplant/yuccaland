@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 348,
-                "Title": "Takze jdeme do valky?!",
+                "Title": "So, this is war?",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,10 +47,10 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Ctvrty den byla vyhlasena mobilizace, vojaci a dobrovolnici si vzali vybaveni a chystali se vyrazit podporit Aerilon.
-Premluvila jsem Kapitana Chicca, aby nas vzal na palubu velitelske lodi.
-Paty den rano jsme vyrazili a od te doby plujeme proti proudu hlavni reky skrz velkou bazinu.
-Uz jsme skoro tam.",
+    "DialogText": "The fourth day, mobilisation was declared. Soldiers and volunteers took equipment and got ready to move towards Aerilon.
+I persuaded Captain Chicco to take us with them.
+The fifth day early morning we set sail up-stream the main river through the Great marsh.
+We are almost there.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -67,7 +67,7 @@ Uz jsme skoro tam.",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1554913248382L,
+        "TimePast": 1591131955804L,
         "Time": 0L,
         "Subject": ""
     }

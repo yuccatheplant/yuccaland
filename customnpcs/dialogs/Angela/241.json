@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 242,
-                "Title": "Rozumim. Jdu do toho samozrejme s vami.",
+                "Title": "Understood. I am with you.",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -57,8 +57,8 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Omlouvam se, ze nejsme o nic blize k rozlusteni, proc si nic nepamatujes...
-Ale v hlavnim meste mozna bude cas se zeptat nekoho, kdo uz se s necim takovym setkal.",
+    "DialogText": "I am sorry for not be able to bring more light to your amnesia...
+But well, in our capital there for sure will be some time to ask somebody, who have more experience in the matter.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -75,7 +75,7 @@ Ale v hlavnim meste mozna bude cas se zeptat nekoho, kdo uz se s necim takovym s
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1554309499138L,
+        "TimePast": 1591127676703L,
         "Time": 0L,
         "Subject": ""
     }

@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 345,
-                "Title": "Jak dlouho jsem byl mimo?",
+                "Title": "How long have I been uncouncious?",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,7 +47,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "No, behem doby, co jsi byl mimo se stala strasna spousta veci.",
+    "DialogText": "During your coma there were a lot of things that happened.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -64,7 +64,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1554309698836L,
+        "TimePast": 1591131164852L,
         "Time": 0L,
         "Subject": ""
     }

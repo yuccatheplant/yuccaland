@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 329,
-                "Title": "Ja... Mam to nejak zamlzene...",
+                "Title": "I... have it kind of blurry.",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Potreboval bych nakoupit.",
+                "Title": "I need to resuply.",
                 "DialogColor": 14737632,
                 "OptionType": 3
             }
@@ -58,8 +58,8 @@
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
     "DialogText": "@p?
-Konecne jsi vzhuru!
-Co jsi videl?!",
+Are you awake?!
+Have you seen something?!",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": 68,
@@ -76,7 +76,7 @@ Co jsi videl?!",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1554314149840L,
+        "TimePast": 1591130393801L,
         "Time": 0L,
         "Subject": ""
     }

@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Hodne stesti.",
+                "Title": "Will do. Good luck and have a safe trip.",
                 "DialogColor": 14737632,
                 "OptionType": 0
             }
@@ -47,7 +47,10 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Dobra. Budu si muset doplnit zasoby v Ramshorne. Potom se sejdeme v Aramooru.",
+    "DialogText": "Great, I will have to resuply my stock back in Ramshorne.
+We will meet up in Aramoor.
+Now... Since I know the Capital is big and you never been there... Or at least knowingly...
+Seek me out in the town hall. It is large building in the middle of the town next to the big map.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -64,7 +67,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1554309053289L,
+        "TimePast": 1591127798202L,
         "Time": 0L,
         "Subject": ""
     }

@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 263,
-                "Title": "Jeden udusen, druhemu vyrizli srdce, treti mel rozdrcenou hlavu a ctvrteho utopili.",
+                "Title": "Suffocating, hearth surgery, head crush and drowning.",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Potreboval bych nakoupit.",
+                "Title": "I need to resuply.",
                 "DialogColor": 14737632,
                 "OptionType": 3
             }
@@ -58,10 +58,7 @@
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
     "DialogText": "@p?
-
-Popis mi, prosim, jakym zpusobem byli ti poslove zavrazdeni?
-
-Vsichni stejnym zpusobem, nebo kazdy jinak?",
+Do you mind to describe the way those messengers were killed?",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": 57,
@@ -78,7 +75,7 @@ Vsichni stejnym zpusobem, nebo kazdy jinak?",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1552314087588L,
+        "TimePast": 1591128892903L,
         "Time": 0L,
         "Subject": ""
     }

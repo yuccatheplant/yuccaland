@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Rozumim. Stastnou cestu.",
+                "Title": "Have a safe trip.",
                 "DialogColor": 14737632,
                 "OptionType": 0
             }
@@ -47,10 +47,10 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Dobra. Jedu na zapad do vesnice Dorthlove. Cesta neni moc dlouha - priblizne pul dne.
-Jestli to chces mit rychle za sebou, tak si kup u farmare kone, nebo si najmi vozku.
+    "DialogText": "We travel west to village of Dorthlove. It is about a day or two from here.
+If you want to get there faster, I suggest you buy a horse at the farm, or travel via boat.
 
-Do mesta se dostanes tak, ze pojedes porad na zapad po ceste. Narazis na jednu odbocku na jih, tak tu ignoruj a jed porad na zapad a po ceste, dokud neuvidis mesto.",
+You will get there if you travel west from Ramshorne, when you get to junction, keep going west untill you will see a village.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -67,7 +67,7 @@ Do mesta se dostanes tak, ze pojedes porad na zapad po ceste. Narazis na jednu o
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1549209595670L,
+        "TimePast": 1591128499352L,
         "Time": 0L,
         "Subject": ""
     }

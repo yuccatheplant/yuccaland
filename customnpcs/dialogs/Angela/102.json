@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 103,
-                "Title": "Rozumim. Mam jet s tebou?",
+                "Title": "So, you sugest to me to go with you?",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,10 +47,9 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Mozna ale nekdo bude schopny ti pomoci.
-Mam znameho. Obcas s nim obchoduji, je docela zbehly v pripravach ruznych lektvaru.
-
-Jde o to, ze za nim dneska pojedu. Vlastne vyrazim hned po nasem rozhovoru.",
+    "DialogText": "So, I have an idea. 
+I have an acquaintance, I keep business relationship with him and he is experienced alchemist.
+You see. I decided to visit him. And I will leave today. Actually I will leave just after our little conversation here.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -67,7 +66,7 @@ Jde o to, ze za nim dneska pojedu. Vlastne vyrazim hned po nasem rozhovoru.",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1551114569305L,
+        "TimePast": 1591128165252L,
         "Time": 0L,
         "Subject": ""
     }

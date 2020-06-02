@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 344,
-                "Title": "Kde to vlastne jsme?",
+                "Title": "Where are we anyway?",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -64,7 +64,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1554309671285L,
+        "TimePast": 1591131129104L,
         "Time": 0L,
         "Subject": ""
     }

@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 30,
-                "Title": "Dekuji moc! A rad pomuzu. Co mam udelat?",
+                "Title": "Thank you! I will gladly help.",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,11 +47,11 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Tak to je velmi zvlastni...
-Nikdy jsem o nicem takovem neslysela.
+    "DialogText": "Lots of gray you say.
+Never heard of anything like this.
 
-Uprimne, nevim jak ti pomoct, ale zkusim se podivat do par knizek.
-Mohl bys pro me mezitim neco udelat?",
+Honestly, I do not know how to help. But I can look something up.
+Could you do something for me in the meanwhile?",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -68,7 +68,7 @@ Mohl bys pro me mezitim neco udelat?",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1547413622566L,
+        "TimePast": 1591133046701L,
         "Time": 0L,
         "Subject": ""
     }

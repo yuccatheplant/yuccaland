@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 331,
-                "Title": "Uhhhh, ano, byla tam lod.",
+                "Title": "A boat.",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,7 +47,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "A v te vode bylo neco? Bylo okolo tebe neco jineho, nez voda?",
+    "DialogText": "And in that water?! Was there anything else than water?",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -64,7 +64,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1554309150287L,
+        "TimePast": 1591130468605L,
         "Time": 0L,
         "Subject": ""
     }

@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 265,
-                "Title": "Mne se zda, ze toho vis docela dost...",
+                "Title": "Well I would say otherwise.",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,9 +47,8 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Nemuzu ti jeste rict presne...
-
-Moc toho o nekromancii nevim.",
+    "DialogText": "I am not sure...
+I do not know much about necromancy.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -66,7 +65,7 @@ Moc toho o nekromancii nevim.",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1552314191854L,
+        "TimePast": 1591128958004L,
         "Time": 0L,
         "Subject": ""
     }

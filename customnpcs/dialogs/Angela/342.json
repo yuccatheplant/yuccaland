@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 343,
-                "Title": "Videl jsem jen ty siluety, nez jsem se probral...",
+                "Title": "I just seen silouettes before I woke up.",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,8 +47,8 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Jsi si jisty?!
-Doopravdy jsi nerozeznal, kdo tam je?",
+    "DialogText": "Damn it!
+You really did not recognised them?",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -65,7 +65,7 @@ Doopravdy jsi nerozeznal, kdo tam je?",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1554309649509L,
+        "TimePast": 1591131116404L,
         "Time": 0L,
         "Subject": ""
     }

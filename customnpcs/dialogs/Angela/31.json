@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Jdu na to.",
+                "Title": "I am on it.",
                 "DialogColor": 14737632,
                 "OptionType": 0
             }
@@ -47,9 +47,9 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Diky.
-Vezmi si tady ty nuzky, strihani pampelisek s nimi je jedna radost.
-Dones mi jich deset, to by melo stacit.",
+    "DialogText": "Thank you.
+Take this shears, snipping dandelions is big joy.
+Bring me ten of them. That should be enough.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -66,7 +66,7 @@ Dones mi jich deset, to by melo stacit.",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1547414337873L,
+        "TimePast": 1591133359103L,
         "Time": 0L,
         "Subject": ""
     }

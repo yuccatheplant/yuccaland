@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 342,
-                "Title": "Jenom siluety.",
+                "Title": "Just silouettes...",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,7 +47,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Kdo tam byl, @p?!",
+    "DialogText": "Did you recognise them, @p?! Anyone?!",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -64,7 +64,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1554309594786L,
+        "TimePast": 1591131073707L,
         "Time": 0L,
         "Subject": ""
     }

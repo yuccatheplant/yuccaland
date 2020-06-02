@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 241,
-                "Title": "no... Mam snad neco lepsiho na praci?",
+                "Title": "Well... I have nothing better to do, haven't I?",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,10 +47,10 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Byl tu posel.
-Muj znamy mne shani kvuli problemum v hlavnim meste.
-Takze vyrazime do hlavniho mesta Vehilskeho kralovstvi, Aramoor.
-Predpokladam, ze se pridas...",
+    "DialogText": "Messenger came.
+My old friend is looking for me because of problems in the capital.
+So we are going to travel to the capital of Vehil kingdom... Aramoor.
+I suppose you will go with us?",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -67,7 +67,7 @@ Predpokladam, ze se pridas...",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1552597261995L,
+        "TimePast": 1591127596354L,
         "Time": 0L,
         "Subject": ""
     }

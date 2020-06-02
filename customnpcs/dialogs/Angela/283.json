@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 284,
-                "Title": "Kdy se tam mam dostavit?",
+                "Title": "When and where should I go?",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,9 +47,8 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Leroi poslal Kapitanovi zpravu, ze se za kratko ty a ja pripojime k vysetrovani.
-
-Vezmu si ty kvetiny a muzu vyrazit.",
+    "DialogText": "Leroi sent message to Guard captain. We will be visiting them soon.
+If you do not mind, I will grab the flowers from you and we will be on our way.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -66,7 +65,7 @@ Vezmu si ty kvetiny a muzu vyrazit.",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1552590370547L,
+        "TimePast": 1591128641901L,
         "Time": 0L,
         "Subject": ""
     }

@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 104,
-                "Title": "Rozumim. Sejdeme se tam.",
+                "Title": "Understand. Where do I go?",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,11 +47,11 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Ne nutne, ale bude dobre, kdyz tam dorazis.
-Vim, ze jsi toho ted mel hodne, takze tu klidne par dni zustan a odpocin si.
+    "DialogText": "Well, yes. But there is no hurry.
+I know you have been busy lately, so if you need to relax for few days, feel free to do so.
 
-Vyraz ale co nejdrive, at ti muze pomoci.
-Kdyz vse pujde dobre, tak do tydne budeme zpet.",
+You must consider though that sooner you get there, the sooner we can start with research.
+If everything goes well, we will be back next week.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -68,7 +68,7 @@ Kdyz vse pujde dobre, tak do tydne budeme zpet.",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1549209547871L,
+        "TimePast": 1591128332454L,
         "Time": 0L,
         "Subject": ""
     }

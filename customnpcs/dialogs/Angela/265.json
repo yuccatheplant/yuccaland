@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 266,
-                "Title": "Jaka komplikace?",
+                "Title": "Complication?",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,10 +47,10 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Poslouchej, @p.
-Nevim presne, co se deje, ale existuje zpusob, jakym muzeme nahlednout do planu nasich nepratel.
+    "DialogText": "Listen up, @p.
+I do not know what is going on. But there is a way we can look into plans of our foes.
 
-Je tu ale jedna komplikace, o ktere musis vedet.",
+There is complication though.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -67,7 +67,7 @@ Je tu ale jedna komplikace, o ktere musis vedet.",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1552314469141L,
+        "TimePast": 1591129021155L,
         "Time": 0L,
         "Subject": ""
     }

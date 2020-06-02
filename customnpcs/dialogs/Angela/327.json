@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "/tp @p 1876 38 3285",
                 "Dialog": -1,
-                "Title": "<Vypit lektvar>",
+                "Title": "<Bottoms up>",
                 "DialogColor": 14737632,
                 "OptionType": 4
             }
@@ -47,7 +47,7 @@
     "DialogCommand": "/effect @dp minecraft:nausea 60",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Musis to vypit uplne vsechno, @p!",
+    "DialogText": "You have to drink all of it, @p!",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -64,7 +64,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1554236213111L,
+        "TimePast": 1591132781703L,
         "Time": 0L,
         "Subject": ""
     }

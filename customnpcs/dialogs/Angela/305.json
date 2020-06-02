@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 306,
-                "Title": "Rozumim, jdu na to.",
+                "Title": "I will search the area then.",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,9 +47,9 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Ale v tom pripade potrebuji bezpecne misto na vyvolavani.
-
-Musi byt nekde pobliz, mrtvola musi byt cerstva, aby vyvolavani bylo co nejucinejsi.",
+    "DialogText": "Why would they?
+Why not to visit some graveyard nearby some village or something?
+And in that case they can't be far.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -66,7 +66,7 @@ Musi byt nekde pobliz, mrtvola musi byt cerstva, aby vyvolavani bylo co nejucine
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1552597275545L,
+        "TimePast": 1591132539052L,
         "Time": 0L,
         "Subject": ""
     }

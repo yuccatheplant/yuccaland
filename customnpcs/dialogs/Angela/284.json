@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 285,
-                "Title": "Rozumim.",
+                "Title": "Understood.",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,9 +47,8 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Nemusis hned, ale neodkladala bych to, byt tebou.
-
-Kapitan neni zrovna... Trpelivy.",
+    "DialogText": "You do not need to hurry, but I would not prioritise it if I were you.
+The Captain is kind of... weird fella.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -66,7 +65,7 @@ Kapitan neni zrovna... Trpelivy.",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1552590411247L,
+        "TimePast": 1591128691701L,
         "Time": 0L,
         "Subject": ""
     }

@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 337,
-                "Title": "Bylo to zvlastni misto. Zeme byla ze zhaveho popela, a vsude byla lava.",
+                "Title": "Strange place. It was hot there, ground full of ashes, flames and magma everywhere!",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,7 +47,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Nakonec?",
+    "DialogText": "Then what?",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -64,7 +64,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1554309422536L,
+        "TimePast": 1591130812353L,
         "Time": 0L,
         "Subject": ""
     }

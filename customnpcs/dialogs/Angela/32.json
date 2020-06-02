@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 33,
-                "Title": "Dobre, zajdu za nim a zeptam se ho na praci.",
+                "Title": "I will go ask him for work right away.",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Potrebuji nakoupit.",
+                "Title": "I need to resuply.",
                 "DialogColor": 14737632,
                 "OptionType": 3
             }
@@ -57,14 +57,13 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Takze, @p...
-Jmenujes se tak, ze?
+    "DialogText": "So... Your name is @p, right?
 
-Bohuzel jsem nenasla nic, co by ti pomohlo se rozpomenout na tvou minulost.
-A nemam pro tebe nic na praci. 
-Napadlo me ale, ze bys mohl skocit za Karlem, nasim hospodskym.
+Unfortunatelly I have not found anything that could help you to remember your past.
+And I have nothing for you to do.
+You see. I think you should go see Carl, our Tavernkeeper.
 
-Vetsina leku a nocleh padl z jeho penez, takze by si zaslouzil trochu pomoct.",
+Most of the herbs and medicaments were paid by his money.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": 7,
@@ -81,7 +80,7 @@ Vetsina leku a nocleh padl z jeho penez, takze by si zaslouzil trochu pomoct.",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1552333592041L,
+        "TimePast": 1591130065853L,
         "Time": 0L,
         "Subject": ""
     }

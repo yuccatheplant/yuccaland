@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 101,
-                "Title": "Co se deje?",
+                "Title": "You asked for me?",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Potrebuji nakoupit.",
+                "Title": "I need to resuply.",
                 "DialogColor": 14737632,
                 "OptionType": 3
             }
@@ -57,9 +57,9 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Vitej, @p!
-Slysela jsem o tvem uspechu na te zricenine.
-Dobra prace!",
+    "DialogText": "Welcome, @p!
+I heard about your triumph at the castle ruin.
+Good job out there!",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": 25,
@@ -76,7 +76,7 @@ Dobra prace!",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1552313986636L,
+        "TimePast": 1591130887752L,
         "Time": 0L,
         "Subject": ""
     }

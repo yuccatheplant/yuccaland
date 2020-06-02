@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 303,
-                "Title": "Aha... Dobra. Takze co jsi zjistila?",
+                "Title": "Oh, I see. So, have you found anything interesting?",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -48,9 +48,10 @@
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
     "DialogText": "Chicco?
-No, ocividne neni clovek.
-Patri k rase Kocicich lidi, kteri ziji v tropech na jih od naseho kontinentu.
-Jsou zvlastni a u nas vzacni, ale jemu se tu libilo. Dokonce to diky svym schopnostem dotahl az na velitele strazi.",
+Well, he is not human obviously.
+He comes from race of cat people which lives on continent to the south from here.
+His people are strange and very unusual in our lands. He likes it here though.
+And his skills made him leader of the guard.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -67,7 +68,7 @@ Jsou zvlastni a u nas vzacni, ale jemu se tu libilo. Dokonce to diky svym schopn
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1552596279845L,
+        "TimePast": 1591132302951L,
         "Time": 0L,
         "Subject": ""
     }

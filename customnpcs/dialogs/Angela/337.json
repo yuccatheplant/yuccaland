@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 338,
-                "Title": "A byli tam nemrtvi, spousta nemrtvych. A byli serazeni u zvlastniho ramu...",
+                "Title": "And undead were there! Lots of them! All embattled near strange frame.",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -64,7 +64,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1554309449104L,
+        "TimePast": 1591130891303L,
         "Time": 0L,
         "Subject": ""
     }

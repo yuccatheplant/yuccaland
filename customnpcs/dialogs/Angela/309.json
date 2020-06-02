@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 310,
-                "Title": "Nasel jsem obetiste a spoustu nemrtvych.",
+                "Title": "I have found sacrifice field and lots of undead with it!",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Potrebuji nakoupit.",
+                "Title": "I need supplies.",
                 "DialogColor": 14737632,
                 "OptionType": 0
             }
@@ -57,7 +57,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Uz jsi zpatky, @p?",
+    "DialogText": "Back already, @p?",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": 64,
@@ -74,7 +74,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1552739191838L,
+        "TimePast": 1591129755004L,
         "Time": 0L,
         "Subject": ""
     }

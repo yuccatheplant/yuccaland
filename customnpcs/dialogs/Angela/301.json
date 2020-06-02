@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 302,
-                "Title": "Jo, Kapitan se zminoval. Ehm, je takovy... Zvlastni.",
+                "Title": "Yeah, the captain mentioned... Say, what is he actualy?",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,9 +47,8 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Uh, dobra, promin...
-
-Takze pouzila jsem par pripravku abych nasla nejake stopy.",
+    "DialogText": "Sorry...
+So I used few of my ways to investigate for clues.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -66,7 +65,7 @@ Takze pouzila jsem par pripravku abych nasla nejake stopy.",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1552596189895L,
+        "TimePast": 1591132181153L,
         "Time": 0L,
         "Subject": ""
     }

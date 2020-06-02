@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 282,
-                "Title": "Ja nasel ty kvetiny. Jakou zlou zpravu?",
+                "Title": "What bad news?",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Potrebuji nakoupit.",
+                "Title": "I need to resuply.",
                 "DialogColor": 14737632,
                 "OptionType": 3
             }
@@ -57,8 +57,8 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Ahoj, @p.
-Mam zlou zpravu.",
+    "DialogText": "Hey, @p.
+I have bad news.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": 61,
@@ -75,7 +75,7 @@ Mam zlou zpravu.",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1552590221547L,
+        "TimePast": 1591128535802L,
         "Time": 0L,
         "Subject": ""
     }

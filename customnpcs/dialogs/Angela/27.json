@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 28,
-                "Title": "No... Proto jsem vlastne tu. Nic si nepamatuju.",
+                "Title": "Well... I do not remember a thing.",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,12 +47,9 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Takze jsi to zvladl?
-To je skvele!
-
-Nebyli jsme si jisti, jestli se vzbudis, ale nakonec se to povedlo!
-
-Takze, pokud to neni zadne citlive tema, co se vlastne stalo?",
+    "DialogText": "Yeah, you made it!
+Which is great, since we were not sure if you would make it!
+So if it is nothing too secret. What happened to you?",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -69,7 +66,7 @@ Takze, pokud to neni zadne citlive tema, co se vlastne stalo?",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1548594967865L,
+        "TimePast": 1591132896502L,
         "Time": 0L,
         "Subject": ""
     }

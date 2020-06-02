@@ -47,14 +47,16 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Prvnich par dni se nestalo nic zajimaveho. Starali jsme se o tebe ve vile Lorda Muska a cekali az se vzbudis.
-Treti den vecer sem prijel posel ze severu a prinesl hrozne zpravy.
+    "DialogText": "First few days nothing interesting happened.
+We were taking care of you at the city hall, waiting for you to wake up.
+At the third day we got a horrible message from the north.
 
-Na sever od nas jsou dve vesnice. A objevili se tam nemrtvi. A ne v malych skupinach jako tady, ale doopravdy velke skupiny nepratel.
+There are two cities to the north from here before big mountains. The undead showed there... And not in small numbers, @p.
 
-Posel prisel z mesta Aerilon, ktere je blize k nam, a nemrtvi podle vseho prisli z nejsevernejsi vesnice Northast.
-Kdyz v Aerilonu odrazili utok a poslali k Northastu zvedy, prinaseli znepokojive zpravy.
-Northast je vyvrazdena a promenena. A pokud Kralovska armada nezasahne, Aerilon ceka stejny osud.",
+Messenger came from the city of Aerilon, which is closer of those two. Undead attacked there from the north... From the second city. Northast.
+Apparently Northast was sacked before anyone could warn Aerilon.
+Aerilon was under big scale attack which got reflected only thanks to small garrison which was stationed there at the moment due higher bandit activity in the area.
+They will not stand their ground for long though. Unless Vehil army answers.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -71,7 +73,7 @@ Northast je vyvrazdena a promenena. A pokud Kralovska armada nezasahne, Aerilon 
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1554309857537L,
+        "TimePast": 1591131807903L,
         "Time": 0L,
         "Subject": ""
     }

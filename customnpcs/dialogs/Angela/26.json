@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 27,
-                "Title": "Zdravim. Jsem ten, koho prinesl Lovec.",
+                "Title": "Hello. I am the one saved by the Hunter.",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Potrebuji nakoupit.",
+                "Title": "I need to resuply.",
                 "DialogColor": 14737632,
                 "OptionType": 3
             }
@@ -57,8 +57,8 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Jezis, ja jsem se te lekla!
-Copak potrebujes?",
+    "DialogText": "Damn you scared me!
+What do you need?",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": 5,
@@ -75,7 +75,7 @@ Copak potrebujes?",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1550938680950L,
+        "TimePast": 1591132832152L,
         "Time": 0L,
         "Subject": ""
     }

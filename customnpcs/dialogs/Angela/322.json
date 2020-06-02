@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 323,
-                "Title": "Bernard uz smichal prisady a tvrdi, ze lektvar by mel byt hotovy.",
+                "Title": "Bernard had put the ingredients to the potion already. It should be ready.",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Potreboval bych nakoupit.",
+                "Title": "I need to resuply.",
                 "DialogColor": 14737632,
                 "OptionType": 3
             }
@@ -57,7 +57,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Uz jsem tady. Tak co, dal jsi Bernardovi tu kost?",
+    "DialogText": "I am here. Did you gave the bone to Bernard?",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": 67,
@@ -74,7 +74,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1554235877310L,
+        "TimePast": 1591127378852L,
         "Time": 0L,
         "Subject": ""
     }

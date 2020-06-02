@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 283,
-                "Title": "Coze?!",
+                "Title": "What?!",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,9 +47,8 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Zatimco jsi byl pryc, dosla k nam zprava, ze rybarska osada na sever odsud byla napadena.
-
-Myslim, ze to byli nemrtvi...",
+    "DialogText": "We received a message that settlement nearby was attacked.
+We believe undead are to blame.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -66,7 +65,7 @@ Myslim, ze to byli nemrtvi...",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1552590311597L,
+        "TimePast": 1591128584153L,
         "Time": 0L,
         "Subject": ""
     }

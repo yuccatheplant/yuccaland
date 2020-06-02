@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 268,
-                "Title": "A u mne je vyssi?",
+                "Title": "And how big are my chances?",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,9 +47,9 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Bylo by to asi nejvhodnejsi.
+    "DialogText": "That would be least... risky.
 
-Vypila bych ho sama, ale problem je, ze u mne je sance na preziti temer nulova.",
+I would drink it myself, but I worry that my chances of survival are close to zero.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -66,7 +66,7 @@ Vypila bych ho sama, ale problem je, ze u mne je sance na preziti temer nulova."
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1552314589037L,
+        "TimePast": 1591129216752L,
         "Time": 0L,
         "Subject": ""
     }

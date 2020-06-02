@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 273,
-                "Title": "Jak tu jeskyni najdu?",
+                "Title": "Where is this cavern?",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,15 +47,13 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Tyhle suroviny se nedaji jen tak koup-
-Aha, ty si delas legraci. Dobre.
+    "DialogText": "These supplies can not be bought in any shop!
 
-Zakladem tohoto lektvaru je Rostlina, ktera roste ve specialni pude.
+Base of this potion is a herb that grows only in special type of soil.
+I still have some seeds on me, but the soil is nowhere near and it won't grow without it.
 
-Mam jeste par seminek, ale nejsem schopna sehnat tuto pudu, a bez ni to nepujde.
-
-Nastesti nedaleko odsud je jeskyne, kde se tato puda vyskytuje.
-Budu potrebovat, abys tam dosel a nabral ji dost na to, abych mohla obnovit sve zasoby.",
+Fortunatelly there is a cavern nearby which contains this soil.
+I need you to get there and bring some to me.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -72,7 +70,7 @@ Budu potrebovat, abys tam dosel a nabral ji dost na to, abych mohla obnovit sve 
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1552316474938L,
+        "TimePast": 1591129650756L,
         "Time": 0L,
         "Subject": ""
     }

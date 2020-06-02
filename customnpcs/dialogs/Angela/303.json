@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 304,
-                "Title": "Myslis, ze jde o unos?",
+                "Title": "So, kidnapping maybe?",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,9 +47,8 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "No, nejsou tu zadna tela, ale je tu krev. Domy byly vypalene a zbyly jen ruiny.
-
-Zvlastni je, ze nevypalili vybaveni ani pole, pouze domy.",
+    "DialogText": "Well, there are not bodies here, but a lot of blood. Houses were torched, so only ruins remain.
+Interesting detail though. No equipment nor food rations were torched. Only living quarters.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -66,7 +65,7 @@ Zvlastni je, ze nevypalili vybaveni ani pole, pouze domy.",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1552596363696L,
+        "TimePast": 1591132385158L,
         "Time": 0L,
         "Subject": ""
     }

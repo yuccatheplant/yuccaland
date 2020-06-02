@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 305,
-                "Title": "Pokud jsou to nemrtvi, nedoslo tu k ozivovani?",
+                "Title": "Well maybe the undead wants to create more undead from the dead.",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,10 +47,9 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Ja doopravdy nevim.
-
-Podle stop krve v domech jsou mistni davno mrtvi, ale proc odnesli tela?
-Nedava to smysl.",
+    "DialogText": "I do not think so.
+Since there is lot of blood around here, I think they are dead already. But the bodies are missing.
+I see no reason here.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -67,7 +66,7 @@ Nedava to smysl.",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1552597124446L,
+        "TimePast": 1591132477955L,
         "Time": 0L,
         "Subject": ""
     }

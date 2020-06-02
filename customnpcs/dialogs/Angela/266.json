@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 267,
-                "Title": "A ja pravdepodobne budu ten, kdo ten lektvar vypije?",
+                "Title": "And I suppose I will be the one who will consume that thing, right?",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,11 +47,10 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Muzu uvarit lektvar, ktery umozni tomu, kdo ho vypije nahlednout do planu kohokoliv, kdo jakkoliv zachazi s nekromancii.
+    "DialogText": "I am able to brew a potion, which allows its consumer to see into plans of anybody who uses necromancy in any way.
 
-Jsem si jista, ze nas to privede na nejakou stopu.
-
-Problem ale je, ze je to silny jed. A je tu riziko - ne male - ze ten, kdo jej pozije, umre...",
+I am sure it will bring us on right path.
+There is a problem. It is strong poison and with it comes big risk that - its consumer dies...",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -68,7 +67,7 @@ Problem ale je, ze je to silny jed. A je tu riziko - ne male - ze ten, kdo jej p
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1552314517036L,
+        "TimePast": 1591129140502L,
         "Time": 0L,
         "Subject": ""
     }

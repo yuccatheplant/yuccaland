@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 332,
-                "Title": "Videl jsem znicene mesto... A... hrad!",
+                "Title": "Destroyed city with a castle.",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,8 +47,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Dobra.
-Co se stalo pak?",
+    "DialogText": "And anything else?",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -65,7 +64,7 @@ Co se stalo pak?",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1554309222338L,
+        "TimePast": 1591130497205L,
         "Time": 0L,
         "Subject": ""
     }

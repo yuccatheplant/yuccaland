@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 29,
-                "Title": "To je ten problem. Vim, ze se jmenuju @p, ale nic vic!",
+                "Title": "I do not remember anything. Only lots of gray and that my name is @p.",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,11 +47,10 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Nic si nepamatujes?
-Hmmm...
+    "DialogText": "You do not remember?
+Hmm.
 
-Od jake chvile si nic nepamatujes?
-Popis mi podrobne posledni chvili, co si pamatujes predtim, nez ses tu vzbudil.",
+What is the most distant thing you can recall?",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -68,7 +67,7 @@ Popis mi podrobne posledni chvili, co si pamatujes predtim, nez ses tu vzbudil."
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1547413492669L,
+        "TimePast": 1591132978752L,
         "Time": 0L,
         "Subject": ""
     }

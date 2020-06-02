@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Mohl bych doplnit zasoby?",
+                "Title": "May I resuply?",
                 "DialogColor": 14737632,
                 "OptionType": 3
             }
@@ -27,7 +27,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Dobre, necham te pracovat.",
+                "Title": "I will leave you to it then.",
                 "DialogColor": 14737632,
                 "OptionType": 0
             }
@@ -67,8 +67,8 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Promin, @p, ale mam spoustu prace.
-A ty urcite taky mas co delat, takze pokud nechces doplnit zasoby, tak bysme se meli oba venovat dulezitejsim vecem.",
+    "DialogText": "Sorry, @p, but I have a lot of work.
+And you have a lot on your plate too, so if you do not need any supplies, we both have better things to do at the moment.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -85,7 +85,7 @@ A ty urcite taky mas co delat, takze pokud nechces doplnit zasoby, tak bysme se 
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1554309776634L,
+        "TimePast": 1591127171852L,
         "Time": 0L,
         "Subject": ""
     }

@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 336,
-                "Title": "Ano, byl to dlouhy tunel vedouci ke kolejim a nakonec...",
+                "Title": "It was long tunnel with rail inside. I don't know... And then!",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,7 +47,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Podzemni trati?",
+    "DialogText": "Railroad shaft? You mean mines?",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -64,7 +64,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1554309386255L,
+        "TimePast": 1591130748851L,
         "Time": 0L,
         "Subject": ""
     }

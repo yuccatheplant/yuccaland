@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 312,
-                "Title": "Kupodivu ano, prislo mi vhodne to prinest jako dukaz.",
+                "Title": "Well I wanted to bring evidence so I have this bone.",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -49,7 +49,10 @@
     "OptionFaction2Points": 100,
     "DialogText": "Dobra, reknu Chiccovi, aby tam poslal vojaky a zajistili to.
 
-Musim se zeptat. Mas nejakou kost nebo cast tech nemrtvych?",
+Musim se zeptat. Mas nejakou kost nebo cast tech nemrtvych?
+
+I will inform Captain. We will need to secure the area.
+I must ask... Have you found some bone or other part of the unded?",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -66,7 +69,7 @@ Musim se zeptat. Mas nejakou kost nebo cast tech nemrtvych?",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1552739795589L,
+        "TimePast": 1591129851003L,
         "Time": 0L,
         "Subject": ""
     }

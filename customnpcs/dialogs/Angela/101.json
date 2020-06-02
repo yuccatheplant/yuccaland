@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 102,
-                "Title": "To je v poradku, paradoxne se mi docela dari.",
+                "Title": "It is alright... Ironicaly, I am doing very good at the moment.",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,9 +47,9 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Neboj se, nezdrzim te dlouho.
+    "DialogText": "Do not worry, I won't hold you too long.
 
-Nic mne nenapada ohledne tveho pripadu a nevim jestli ti budu schopna pomoct...",
+I will be honest. I have no idea what to do about your problm and I am not sure if I will be of much help to you....",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -66,7 +66,7 @@ Nic mne nenapada ohledne tveho pripadu a nevim jestli ti budu schopna pomoct..."
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1548595132465L,
+        "TimePast": 1591127949304L,
         "Time": 0L,
         "Subject": ""
     }

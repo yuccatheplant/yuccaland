@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 340,
-                "Title": "Do mistnosti, ve ktere byly dva truny a v nich nekdo sedel.",
+                "Title": "A room with two thrones. Two persons sitting in both of them.",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,7 +47,8 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Kam? Kam te to preneslo?!",
+    "DialogText": "Moved?
+Where?",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -64,7 +65,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1554309554531L,
+        "TimePast": 1591131033101L,
         "Time": 0L,
         "Subject": ""
     }

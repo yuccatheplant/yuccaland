@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Dobra.",
+                "Title": "Sure.",
                 "DialogColor": 14737632,
                 "OptionType": 0
             }
@@ -47,8 +47,8 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Ano, ale pozor, at neprepadnes pres palubu.
-Promluv si s Kapitanem.",
+    "DialogText": "Be careful, please.
+I would also sugest you to have a talk with Captain about the situation.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -65,7 +65,7 @@ Promluv si s Kapitanem.",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1554743338124L,
+        "TimePast": 1591132059903L,
         "Time": 0L,
         "Subject": ""
     }

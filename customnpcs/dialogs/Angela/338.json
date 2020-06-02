@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 339,
-                "Title": "A uvnitr byla fialova zare, do ktere jsem vstoupil a byl jsem prenesen.",
+                "Title": "And purple glow inside of it, which moved me somewhere else right after I have touched it.",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,7 +47,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Ram ze sopecneho skla?!",
+    "DialogText": "Obsidian frame?",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -64,7 +64,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1554309522756L,
+        "TimePast": 1591130971803L,
         "Time": 0L,
         "Subject": ""
     }

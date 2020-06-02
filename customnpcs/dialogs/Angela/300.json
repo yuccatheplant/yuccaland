@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 301,
-                "Title": "Ehm... Ne?",
+                "Title": "Ehm... no, not at all.",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,9 +47,9 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Do haje, ja jsem se lekla!
-
-To se vzdycky takhle plizis?!",
+    "DialogText": "DAMN IT!
+@p! 
+Are you sneaking like that all the time?!",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -66,7 +66,7 @@ To se vzdycky takhle plizis?!",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1552596008998L,
+        "TimePast": 1591132122153L,
         "Time": 0L,
         "Subject": ""
     }

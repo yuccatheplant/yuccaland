@@ -37,7 +37,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "<V bedne jsi nasel par uzitecnych veci a list papiru>",
+    "DialogText": "<You have found few things and sheet of paper>",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -54,7 +54,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1547901585416L,
+        "TimePast": 1591133395656L,
         "Time": 0L,
         "Subject": ""
     }

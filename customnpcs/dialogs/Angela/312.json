@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 313,
-                "Title": "Dobre. Jdu na to.",
+                "Title": "Will do.",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,9 +47,8 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Dobra. Tak ja si promluvim s Kapitanem a sejdeme se v Muskove vile. 
-
-Az tam budes, predej tu kost Bernardovi, rozumis?",
+    "DialogText": "Splendid. I will inform the captain and then we will met up in city hall.
+When you get there, give the bone to Bernard. Do you understand?",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -66,7 +65,7 @@ Az tam budes, predej tu kost Bernardovi, rozumis?",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1552739862038L,
+        "TimePast": 1591129906302L,
         "Time": 0L,
         "Subject": ""
     }

@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 279,
-                "Title": "Jakou rostlinu?",
+                "Title": "What herb?",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,8 +47,8 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Diky.
-Nez se vypestuje hlavni prisada, bude potreba sehnat rostlinu.",
+    "DialogText": "Thanks.
+Before the base ingredient grows more, we need to obtain a herb.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -65,7 +65,7 @@ Nez se vypestuje hlavni prisada, bude potreba sehnat rostlinu.",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1552333769239L,
+        "TimePast": 1591130166401L,
         "Time": 0L,
         "Subject": ""
     }

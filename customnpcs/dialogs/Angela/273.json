@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 274,
-                "Title": "Dobra. Tak ja vyrazim.",
+                "Title": "I will be on my way then.",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,7 +47,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Tady mas instrukce. Neni to tak lehke najit, ale kdyz se budes drzet instrukci, nemines to.",
+    "DialogText": "Here you have instructions. It is not easy to find, but you should be able to.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -64,7 +64,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1552328966246L,
+        "TimePast": 1591129684053L,
         "Time": 0L,
         "Subject": ""
     }

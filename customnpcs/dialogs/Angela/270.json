@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 271,
-                "Title": "Takze mam sehnat suroviny na vyrobu jedu, ktery pak vypiju?",
+                "Title": "So I will look for ingredients for poison I will drink myself?",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,11 +47,10 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Ten lektvar je narocny na pripravu a na suroviny.
+    "DialogText": "That potion is very tricky to brew. And it is expensive on supplies.
+And since we are on the road, we do not have much of those.
 
-A suroviny jsou neco, ceho se nam momentalne moc nedostava.
-
-Navic jsou krapet... Zvlastni...",
+What is more... they are kind of... strange.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -68,7 +67,7 @@ Navic jsou krapet... Zvlastni...",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1552315300593L,
+        "TimePast": 1591129419102L,
         "Time": 0L,
         "Subject": ""
     }

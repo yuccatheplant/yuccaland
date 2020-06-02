@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Uvidime se tam.",
+                "Title": "See you there.",
                 "DialogColor": 14737632,
                 "OptionType": 0
             }
@@ -47,9 +47,8 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Dobra. Uvidime se tam.
-
-Dostanes se tam cestou ven z mesta smerem na sever.",
+    "DialogText": "Alright, see you there.
+You will get there if you leave the town via northen gate and keep going north by small road through the meadow.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -66,7 +65,7 @@ Dostanes se tam cestou ven z mesta smerem na sever.",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1552591334257L,
+        "TimePast": 1591128747301L,
         "Time": 0L,
         "Subject": ""
     }

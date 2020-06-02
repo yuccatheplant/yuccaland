@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 270,
-                "Title": "Jaky problem?",
+                "Title": "Another problem?",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,8 +47,8 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Ehm...
-To je druhy problem...",
+    "DialogText": "Well...
+It brings me to second problem...",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -65,7 +65,7 @@ To je druhy problem...",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1552315297795L,
+        "TimePast": 1591129334957L,
         "Time": 0L,
         "Subject": ""
     }
