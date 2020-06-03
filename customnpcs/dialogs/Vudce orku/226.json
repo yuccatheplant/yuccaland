@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 227,
-                "Title": "Budu se muset vratit do vesnice, nez se po mne zacnou shanet.",
+                "Title": "I must return to our village before they will look for me.",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,7 +47,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Rozumim.",
+    "DialogText": "You are very humble, @p.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -64,7 +64,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1550668526700L,
+        "TimePast": 1591226446470L,
         "Time": 0L,
         "Subject": ""
     }

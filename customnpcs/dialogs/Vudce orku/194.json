@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 195,
-                "Title": "Ano.",
+                "Title": "Aye.",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,9 +47,9 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Ja...
-Nechapu, proc me to nenapadlo!
-Lide tam dole jsou predevsim zemedelci, ze ano?",
+    "DialogText": "I...
+I do not understand why I did not think this way!
+People down there are mostly farmers right?",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -66,7 +66,7 @@ Lide tam dole jsou predevsim zemedelci, ze ano?",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1550174361455L,
+        "TimePast": 1591227692319L,
         "Time": 0L,
         "Subject": ""
     }

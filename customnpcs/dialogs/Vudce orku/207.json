@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 208,
-                "Title": "Ale kdyz se vydate na utek, budete jeste vice zranitelni.",
+                "Title": "But when you are on the move, you are much more vurneable!",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,16 +47,16 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Je mi to lito, clovece.
-Dohala nas nase minulost.
-Me jmeno je Dur not Harr.
-Jsem nejstarsi syn nacelnika Hur yet Harra, nacelnika velkeho klanu orku.
-Bohuzel, muj otec pred nedavnem skonal, a muj mladsi bratr ucitil prilezitost a poslal sve hrdlorezy, aby se mne zbavili.
-Nastesti mezi orky, na ktere se obratil se nachazeli i mi verni, kteri nafingovali moji smrt a pomohli mi utect spolecne s mymi nejvernejsimi vojaky.
-Plan uteku ale nevysel idealne a byli jsme odhaleni. Sice jsme utekli, ale bratr vedel, ze jsme pobliz.
-Nemohl riskovat ze az naberu sily ve vyhnanstvi, tak se vratim a sesadim ho z trunu, ktery mi nalezi.
-Proto poslal pruzkumnou skupinu po mych stopach. Myslel jsem, ze jsme je setrasli a proto jsme se utaborili zde. Ale jedna z mych pruzkumnych a loveckych skupin byla prepadena a zmasakrovana. Nasli jsme je, kdyz vy jste predaval omluvu ve vesnici.
-To znamena, ze pruzkumnici vedi, ze jsme tu a brzy na nas zautoci.",
+    "DialogText": "Our past had catched up with us.
+My name is Dur not Harr.
+I am oldest sone of chief Hur yet Harr. Great chief of our clan.
+My father died few months ago and my younger brother tried to end my life to become the great chief.
+Fortunatelly I have been warned soon enough by my loyal, but still was forced to flee.
+My brother could not risk to let me gain my strength in exile and come back for revenge, so he hunts us.
+We though they have lost our track, but it seems they catched up with us again.
+One of my hunt groups was ambushed and massacred.
+We found them when you were away.
+This means their force will attack soon.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -73,7 +73,7 @@ To znamena, ze pruzkumnici vedi, ze jsme tu a brzy na nas zautoci.",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1550424668445L,
+        "TimePast": 1591227896269L,
         "Time": 0L,
         "Subject": ""
     }

@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 191,
-                "Title": "Jak jiste vite, na jih odsud lezi vesnice.",
+                "Title": "I am sure you know that to the south from here there lies a village.",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,7 +47,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Ale jiste, ptejte se.",
+    "DialogText": "Sure.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -64,7 +64,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1550173921006L,
+        "TimePast": 1591227482675L,
         "Time": 0L,
         "Subject": ""
     }

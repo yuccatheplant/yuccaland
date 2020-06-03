@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 61,
-                "Title": "Eda bere par lidi a jde zachranit prezivsi, kteri se skryli v jeskyni.",
+                "Title": "They are alive, but injured badly. Eda is en route to their hiding spot to evacuate them.",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,7 +47,8 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Posloucham.",
+    "DialogText": "Ah yes. That unfortunate thing.
+Have you found their bodies?",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -64,7 +65,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1547558323799L,
+        "TimePast": 1591225290119L,
         "Time": 0L,
         "Subject": ""
     }

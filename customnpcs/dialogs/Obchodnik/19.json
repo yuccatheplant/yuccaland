@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Budu ho pozdravovat. Dekuji.",
+                "Title": "I will pass the message. Thank you.",
                 "DialogColor": 14737632,
                 "OptionType": 0
             }
@@ -47,10 +47,10 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Ale jiste!
-Tady je.
+    "DialogText": "Oh, right!
+Here it is.
 
-A ze ho pozdravuju...",
+And send him my regards.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -67,7 +67,7 @@ A ze ho pozdravuju...",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1547410556172L,
+        "TimePast": 1591223289668L,
         "Time": 0L,
         "Subject": ""
     }

@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 162,
-                "Title": "Mohl bych, ale nemam vybaveni.",
+                "Title": "I could, but I do not have equipment for it.",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,7 +47,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "No... Leda ze byste to drevo nasekal sam.",
+    "DialogText": "Well... Unless you would cut that wood yourself...",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -64,7 +64,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1549803315720L,
+        "TimePast": 1591223453720L,
         "Time": 0L,
         "Subject": ""
     }

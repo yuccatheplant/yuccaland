@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 209,
-                "Title": "Pockej. Pokud zlikvidujeme tu pruzkumnou skupinu, nebudou moct informovat tveho bratra.",
+                "Title": "What if we destroy that recon force?",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,8 +47,10 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Ano, ale... Nemuzeme tu zustat uz kvuli hobitum. My jsme v nebezpeci a stejne tak vsichni, kdo nam pomahaji.
-A to ja nehodlam dopustit.",
+    "DialogText": "But we can not stay!
+Imagine what would my brother do if he found out we are trading with Hobbits!
+He would attack them too!
+And that is something I will not let to happen!",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -65,7 +67,7 @@ A to ja nehodlam dopustit.",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1550416534631L,
+        "TimePast": 1591227898571L,
         "Time": 0L,
         "Subject": ""
     }

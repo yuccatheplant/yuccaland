@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Dekuji.",
+                "Title": "Thanks.",
                 "DialogColor": 14737632,
                 "OptionType": 0
             }
@@ -47,9 +47,9 @@
     "DialogCommand": "/fill ~0 ~-2 ~0 ~0 ~-2 ~0 minecraft:redstone_block",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Nocleh je zde zdarma, zustante jak dlouho chcete!
+    "DialogText": "Beds are free of charge. Stay as long as you need!
 
-(Respawn point nejblizsiho hrace k Senkyrce byl aktualizovan na tuto hospodu)",
+(Respawn point of nearest player from the Wench was actualised to this tavern)",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -66,7 +66,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1552131292736L,
+        "TimePast": 1591224656119L,
         "Time": 0L,
         "Subject": ""
     }

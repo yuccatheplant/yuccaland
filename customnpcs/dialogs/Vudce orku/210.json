@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 211,
-                "Title": "Dobra. Kde presne to bylo? Pujdu se tam podivat.",
+                "Title": "Where exactly is that? I will have a look.",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,9 +47,8 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Ja...
-Pockej! Tak mi dochazi, kdyz je druha skupina nasla, tak je vzala a odtahla pryc. A pobliz bylo opustene staveni!
-Ano! Byl to jediny neprirodni objekt siroko daleko!",
+    "DialogText": "Wait a minute! When they found our people and took them back here, they mentioned abadoned house nearby!
+Right! It was only unnatural thing in wide are!",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -66,7 +65,7 @@ Ano! Byl to jediny neprirodni objekt siroko daleko!",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1550416362492L,
+        "TimePast": 1591227902768L,
         "Time": 0L,
         "Subject": ""
     }

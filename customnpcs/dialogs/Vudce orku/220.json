@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 221,
-                "Title": "Ja... Diky.",
+                "Title": "I... Thank you.",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,7 +47,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Rychle, posadte se! Osetrime vas!",
+    "DialogText": "Quickly, sit down, we will take care of you!",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -64,7 +64,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1550668018051L,
+        "TimePast": 1591226184318L,
         "Time": 0L,
         "Subject": ""
     }

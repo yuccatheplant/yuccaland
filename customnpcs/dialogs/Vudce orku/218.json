@@ -37,7 +37,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "<V bedne je vyzbroj a vystroj nejakeho strazneho>",
+    "DialogText": "<There is some guard equipment in the chest>",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -54,7 +54,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1550607138024L,
+        "TimePast": 1591226073219L,
         "Time": 0L,
         "Subject": ""
     }

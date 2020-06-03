@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 207,
-                "Title": "Coze? Proc?!",
+                "Title": "Wait what? After all those trouble you just leave? Why?",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,8 +47,8 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Ja... Nevim jak vam podekovat.
-Obavam se ale, ze budeme muset odejit. Vratime cukrovou trtinu, dame Hobitum nejake nastroje darem a odejdeme.",
+    "DialogText": "I... humbly thank you.
+But I am afraid we will need to leave. We will return the sugar, will give Hobbits some tools for the supplies and will leave.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": 43,
@@ -65,7 +65,7 @@ Obavam se ale, ze budeme muset odejit. Vratime cukrovou trtinu, dame Hobitum nej
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1550424662394L,
+        "TimePast": 1591227893275L,
         "Time": 0L,
         "Subject": ""
     }

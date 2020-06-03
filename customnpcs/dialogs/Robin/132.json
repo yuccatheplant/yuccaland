@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 133,
-                "Title": "Dobra, jdu se tu porozhlednout.",
+                "Title": "I will check around the hole then.",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,7 +47,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Prosim! Projdete to, jak chcete, vemte si co potrebujete, ale prosim, najdete meho syna!",
+    "DialogText": "Of course not! Go anywhere, take anything, just find my son!",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -64,7 +64,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1549447329873L,
+        "TimePast": 1591224336619L,
         "Time": 0L,
         "Subject": ""
     }

@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Dekuji.",
+                "Title": "Thank you.",
                 "DialogColor": 14737632,
                 "OptionType": 0
             }
@@ -57,10 +57,10 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "O ano. Ta objednavka prisla vcera!
-Nekolik seker a lopat.
+    "DialogText": "Oh yes, we received that order yesterday.
+A few axes and shovels.
 
-Tady to je.",
+Here it is.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -77,7 +77,7 @@ Tady to je.",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1554833529521L,
+        "TimePast": 1591223142021L,
         "Time": 0L,
         "Subject": ""
     }

@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 190,
-                "Title": "Zdravim, nacelniku. Mohu se vas na neco zeptat?",
+                "Title": "Greetings, chief. May I ask you something?",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,8 +47,9 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Vitej, cizince.
-Pojd dal a ohrej se. Jsi zde vitan, dokud jsou tvoje umysly cestne.",
+    "DialogText": "Welcome, human.
+Come inside and warm yourself.
+You are welcome here as long as you wish us no harm.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": 40,
@@ -65,7 +66,7 @@ Pojd dal a ohrej se. Jsi zde vitan, dokud jsou tvoje umysly cestne.",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1550175946454L,
+        "TimePast": 1591227459370L,
         "Time": 0L,
         "Subject": ""
     }

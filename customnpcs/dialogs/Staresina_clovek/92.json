@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 89,
-                "Title": "Skvele! Zautocili jsme na ne a oni to vubec necekali!",
+                "Title": "We catched them with their pants down! Uhm, sorry...",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,7 +47,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Vidim, ze uz jste zpet. Jake jsou zpravy?",
+    "DialogText": "I see you have returned. So what news do you bring?",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": 23,
@@ -64,7 +64,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1548424732058L,
+        "TimePast": 1591225113218L,
         "Time": 0L,
         "Subject": ""
     }

@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Co mate v nabidce?",
+                "Title": "What is on the menu?",
                 "DialogColor": 14737632,
                 "OptionType": 3
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 5,
-                "Title": "Rad bych zde prespal.",
+                "Title": "I would like to rent a room. (Respawn point)",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -27,7 +27,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Dekuji, ale nic nepotrebuji.",
+                "Title": "Thank you. I have all I need.",
                 "DialogColor": 14737632,
                 "OptionType": 0
             }
@@ -67,9 +67,8 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Zdravim vas v nasem hostinci.
-
-Budete chtit obcerstvit, nebo snad preckat par dni?",
+    "DialogText": "Welcome to our humble tavern.
+Do you want something to eat, or stay a few days?",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -86,7 +85,7 @@ Budete chtit obcerstvit, nebo snad preckat par dni?",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1547403897162L,
+        "TimePast": 1591224719169L,
         "Time": 0L,
         "Subject": ""
     }

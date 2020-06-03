@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 130,
-                "Title": "Tak, a ted mi pomalu popiste, co se stalo.",
+                "Title": "Now explain slowly what happened.",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -64,7 +64,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1549446998824L,
+        "TimePast": 1591224082468L,
         "Time": 0L,
         "Subject": ""
     }

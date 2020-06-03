@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 228,
-                "Title": "Jeste bych se na neco zeptal.",
+                "Title": "I would like to ask about something else.",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Dekuji.",
+                "Title": "Thank you.",
                 "DialogColor": 14737632,
                 "OptionType": 0
             }
@@ -77,7 +77,7 @@ Punch - Vetsi zastavovaci ucinek projektilu",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1550925865100L,
+        "TimePast": 1591222723569L,
         "Time": 0L,
         "Subject": ""
     }

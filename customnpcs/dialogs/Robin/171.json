@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 172,
-                "Title": "Dekuji.",
+                "Title": "Thank you.",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,7 +47,8 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "To je velkoryse! Ale ty si zaslouzis odmenu! Tady mas.",
+    "DialogText": "Oh, that is generous!
+But you deserve a reward! Here you are.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -64,7 +65,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1549817337178L,
+        "TimePast": 1591223705768L,
         "Time": 0L,
         "Subject": ""
     }

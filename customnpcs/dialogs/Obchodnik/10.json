@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Ano, prosim.",
+                "Title": "Yes, please.",
                 "DialogColor": 14737632,
                 "OptionType": 3
             }
@@ -27,7 +27,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Ne, dekuji.",
+                "Title": "No, thanks.",
                 "DialogColor": 14737632,
                 "OptionType": 0
             }
@@ -67,7 +67,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Budete si prat nakupovat?",
+    "DialogText": "Do you wish to buy?",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -84,7 +84,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1554833311925L,
+        "TimePast": 1591223554420L,
         "Time": 0L,
         "Subject": ""
     }

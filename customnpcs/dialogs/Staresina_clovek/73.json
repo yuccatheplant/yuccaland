@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Rozumim, jdu za Edou.",
+                "Title": "Right away.",
                 "DialogColor": 14737632,
                 "OptionType": 0
             }
@@ -47,10 +47,9 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Chlapce, udelal jsi toho vic nez dost!
-Ale vlastne proc ne?
-Mozna se tam vyznamenas jeste vice a my ti budeme nadosmrti vdecni.
-Takze jdi za Edou a rekni mu, at vezme par lidi a vytvorte plan.",
+    "DialogText": "You have done more than enough already, boy.
+But if you insist. I will appreciate if you will help our people once more.
+Go visit Eda and tell him to prepare the attack.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -67,7 +66,7 @@ Takze jdi za Edou a rekni mu, at vezme par lidi a vytvorte plan.",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1548066421317L,
+        "TimePast": 1591225062769L,
         "Time": 0L,
         "Subject": ""
     }

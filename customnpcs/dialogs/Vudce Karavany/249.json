@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "<Odejit>",
+                "Title": "<Leave>",
                 "DialogColor": 14737632,
                 "OptionType": 0
             }
@@ -47,8 +47,8 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "<Tomuto muzi bylo vyriznuto srdce>
-<Podle spalene rany byl nuz behem operace rozhaveny doruda>",
+    "DialogText": "<This man got his hearth cut out>
+<By burn marks it seems that the knife was extremely hot>",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -65,7 +65,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1552730524461L,
+        "TimePast": 1591225955174L,
         "Time": 0L,
         "Subject": ""
     }

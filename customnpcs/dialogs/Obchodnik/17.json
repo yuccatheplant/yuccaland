@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 19,
-                "Title": "Posila mne Lovec pro jeho luk.",
+                "Title": "Hunter sent me for his bow.",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,7 +47,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Budete si prat nakupovat?",
+    "DialogText": "Do you wish to buy?",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": 3,
@@ -64,7 +64,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1549808050403L,
+        "TimePast": 1591223257269L,
         "Time": 0L,
         "Subject": ""
     }

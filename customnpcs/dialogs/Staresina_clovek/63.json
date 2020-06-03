@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Dekuji za duveru. Udelam to.",
+                "Title": "Thank you for your advice. I will ask him right away.",
                 "DialogColor": 14737632,
                 "OptionType": 0
             }
@@ -47,9 +47,9 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Dobra, spoleham na tvuj usudek.
-Kdyz nad tim tak premyslim, zkus se zeptat Lovce.
-Casto chodi ven z vesnice a zna okolni udoli velmi dobre.",
+    "DialogText": "I appreciate your proactivity.
+I believe it would be good idea to ask Hunter if he seen anything.
+He roams the valley anytime he does not drink and knows every part of it.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -66,7 +66,7 @@ Casto chodi ven z vesnice a zna okolni udoli velmi dobre.",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1548423827459L,
+        "TimePast": 1591225719270L,
         "Time": 0L,
         "Subject": ""
     }

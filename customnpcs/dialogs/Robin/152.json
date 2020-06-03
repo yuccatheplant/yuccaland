@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 153,
-                "Title": "Jsem rad, ze jsem mohl pomoct",
+                "Title": "I am glad to be of help.",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,7 +47,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Dekuji vam mnohokrat! Nevim, co bych si pocal.",
+    "DialogText": "I thank you thousant times! I have no idea what I would do!",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": 32,
@@ -64,7 +64,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1549726915175L,
+        "TimePast": 1591223897224L,
         "Time": 0L,
         "Subject": ""
     }

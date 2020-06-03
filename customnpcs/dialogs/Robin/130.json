@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 129,
-                "Title": "Rozumim. Hledali jste v okoli?",
+                "Title": "Have you searched around?",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,12 +47,12 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "V noci prselo.
-Hodne prselo.
-A potom povolila cesta vedle reky a provalila se skrz do naseho domu.
-Cast ho odnesla.
-Ale v te mistnosti byl muj syn!
-A nikde jsme ho nenasli!",
+    "DialogText": "It was raining last night.
+A lot of rain.
+And after a while, the water pushed away some soil under the path and went right through our house.
+And took part of it away.
+In that room there was my son!
+And we could not find him anywhere!",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -69,7 +69,7 @@ A nikde jsme ho nenasli!",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1549725964877L,
+        "TimePast": 1591224179143L,
         "Time": 0L,
         "Subject": ""
     }

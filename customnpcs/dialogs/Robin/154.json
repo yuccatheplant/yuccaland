@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 155,
-                "Title": "Povidejte.",
+                "Title": "What?",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -48,7 +48,8 @@
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
     "DialogText": "@p?
-Jsme vam nadosmrti zavazani, ale potrebujeme jeste jednou pomoct.",
+You are always welcome here. 
+But I must ask you one more thing.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -65,7 +66,7 @@ Jsme vam nadosmrti zavazani, ale potrebujeme jeste jednou pomoct.",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1549726127325L,
+        "TimePast": 1591223950718L,
         "Time": 0L,
         "Subject": ""
     }

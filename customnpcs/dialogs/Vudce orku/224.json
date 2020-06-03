@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 225,
-                "Title": "Za vodopadem na jizni strane velkeho jezera.",
+                "Title": "Hidden behind waterfall. At the southern side of big lake.",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,10 +47,10 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Hmmm...
-Takze zpravu o nasem nalezeni jeste neposlali, protoze ji prave drzim v ruce.
+    "DialogText": "So...
+He did not sent the message about our location, because I am holding it in my hand right now.
 
-Povez mi. Kde je jejich ukryt?",
+Where is their hideout?",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -67,7 +67,7 @@ Povez mi. Kde je jejich ukryt?",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1550668417253L,
+        "TimePast": 1591226338619L,
         "Time": 0L,
         "Subject": ""
     }

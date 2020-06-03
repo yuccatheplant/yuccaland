@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 233,
-                "Title": "Jak muzu vylepsit predmet?",
+                "Title": "How can I upgrade item?",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 229,
-                "Title": "Jaka jsou vylepseni pro mec, nebo sekeru?",
+                "Title": "What upgrades can I use for my sword, or axe?",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -27,7 +27,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 230,
-                "Title": "Jaka jsou vylepseni pro luk?",
+                "Title": "What upgrades are there for bow?",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -37,7 +37,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 231,
-                "Title": "Jaka jsou vylepseni pro zbroj?",
+                "Title": "What upgrades are used for armour?",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,7 +47,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 232,
-                "Title": "Jaka jsou vylepseni pro rybareni a udrzbu predmetu?",
+                "Title": "My tools sometimes breaks. Are there any upgrades that will keep it okay?",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -57,7 +57,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Nic nepotrebuji, dekuji.",
+                "Title": "I know everything I need. Thank you.",
                 "DialogColor": 14737632,
                 "OptionType": 0
             }
@@ -97,8 +97,8 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Vitejte v knihovne. 
-Budete potrebovat pomoct?",
+    "DialogText": "Welcome to out library?
+Do you need any asistance?",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -115,7 +115,7 @@ Budete potrebovat pomoct?",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1550925513051L,
+        "TimePast": 1591223035970L,
         "Time": 0L,
         "Subject": ""
     }

@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 72,
-                "Title": "Utok?! Vy na to chcete zautocit?",
+                "Title": "What are you talking about?",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,18 +47,18 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Ukaz?
+    "DialogText": "May I?
 Hmmm...
 Hmmmm...
 Hmm...
 Hm?
 Hm!
 
-Takze se opevnuji ve stare pevnosti?
-To je opravdu zle.
-Musela byt opustena uz davno kvuli nestabilnosti terenu...
-Ale i tak je to velmi strategicky polozena stavba. Stoji na kopci, ze Severozapadu ji chrani Horsky hreben, a celkove stoji na prudkem svahu.
-Vede tam jen jedna cesta... Utok nebude vubec jednoduchy...",
+So they are fortifying the old castle?
+This is bad.
+It was abadonned because of unstable terrain.
+But still. It is strategically placed fort. It is protected from almost all sides and stands on the top of a cliff.
+There is only one path to it. No it will not be easy...",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -75,7 +75,7 @@ Vede tam jen jedna cesta... Utok nebude vubec jednoduchy...",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1548065896893L,
+        "TimePast": 1591224908018L,
         "Time": 0L,
         "Subject": ""
     }

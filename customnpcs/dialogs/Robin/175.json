@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 176,
-                "Title": "Zajdu tam.",
+                "Title": "I will.",
                 "DialogColor": 14737632,
                 "OptionType": 0
             }
@@ -47,9 +47,9 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Primo po ceste odsud na sever.
-Proto tu taky mame ty prkna pres tu diru v ceste, aby povozy mohly nakladat trtinu a odvezt ji do vesnice.
-Takze zajdes tam?",
+    "DialogText": "Follow the road north.
+This is actually reason why we put those planks over the hole, so they can move the sugar cane to the village.
+So would you go there?",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -66,7 +66,7 @@ Takze zajdes tam?",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1549817554427L,
+        "TimePast": 1591223871069L,
         "Time": 0L,
         "Subject": ""
     }

@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 135,
-                "Title": "Jak jsi se proboha dostal sem?!",
+                "Title": "How did you managed to get here?!",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,7 +47,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Pane? Nevite, kde to jsme?",
+    "DialogText": "Sir? Do you know where are we?",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": 29,
@@ -64,7 +64,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1549487736103L,
+        "TimePast": 1591224378619L,
         "Time": 0L,
         "Subject": ""
     }

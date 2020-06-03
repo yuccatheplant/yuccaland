@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 73,
-                "Title": "Rozumim. Muzu se pridat k utoku?",
+                "Title": "May I join the assault?",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,11 +47,12 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Zni to silene?
-Mozna.
-Ale rozhodne nam nic jineho nezbyva.
-Hrad je v katastrofalnim stavu a ma mnoho der, ktere muzeme vyuzit. Az je opravi, nebudeme moci delat nic.
-Takze cim driv, tim lip.",
+    "DialogText": "We must attack.
+Does it sound crazy?
+Maybe,
+But we have no other choice.
+The castle is in bad shape and does not have walls intact.
+Which we can use for our advantage. If we wait, they will reinforce it and our job will be much harder.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -68,7 +69,7 @@ Takze cim driv, tim lip.",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1548065995967L,
+        "TimePast": 1591224998724L,
         "Time": 0L,
         "Subject": ""
     }

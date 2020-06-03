@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 228,
-                "Title": "Jeste bych se na neco zeptal.",
+                "Title": "I would like to ask about something else.",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Dekuji.",
+                "Title": "Thank you.",
                 "DialogColor": 14737632,
                 "OptionType": 0
             }
@@ -57,16 +57,17 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Pro vylepseni predmetu budete potrebovat predmet, vylepseni a zkusenosti.
+    "DialogText": "To make item better you need to have desired item, upgrade and experience.
 
-Predmetem muze byt cokoliv od rybarskeho prutu pres brneni po zbran.
-Vylepseni lze koupit zde, nebo dost mozna nekde najit.
-Zkusenosti ziksavate budto zabijenim zvirat a nepratel, nebo si muzete koupit tzv. Bottle o' Enchanting primo tady v knihovne.
+The item can be anything from fishing rod to armour, or weapon.
+Upgrades could be purchased in this library, or find somewhere out there.
+Experience is obtained by either slaying enemies, or it can be bought here via Bottle o' Enchanting.
 
-Nasledne budete potrebovat kovadlinu - ta je k nalezeni u kovare v jakemkoliv meste.
+Next thing is to find anvil - It should be at the smithy in every settlement.
 
-Predmet s vylepsenim polozite na kovadlinu, a pokud mate dostatek zkusenosti, muzete predmet vylepsit.
-Na kazdy predmet lze dat az 3 vylepseni.",
+To upgrade item, you put it onto the anvil next to the upgrade and if you have enough experience, you will be able to upgrade your item.
+
+Every item can hold up to three different upgrades.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -83,7 +84,7 @@ Na kazdy predmet lze dat az 3 vylepseni.",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1550925836251L,
+        "TimePast": 1591222925419L,
         "Time": 0L,
         "Subject": ""
     }

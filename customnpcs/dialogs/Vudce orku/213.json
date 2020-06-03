@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 214,
-                "Title": "Me jmeno je @p.",
+                "Title": "If you insist, chief.",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,7 +47,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Jak se vlastne jmenujes, clovece?",
+    "DialogText": "No, you must get some reward for your deeds, @p!",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -64,7 +64,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1550424457208L,
+        "TimePast": 1591227977569L,
         "Time": 0L,
         "Subject": ""
     }

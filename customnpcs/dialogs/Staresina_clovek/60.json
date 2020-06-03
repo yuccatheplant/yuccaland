@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 59,
-                "Title": "Omlouvam se, ale nemam tuseni. Myslim, ze nekde v okoli maji ukryt.",
+                "Title": "I am sorry, but no idea.",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,7 +47,8 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "A nejake informace o sile nepratel, nebo cokoliv jineho?",
+    "DialogText": "So bandits...
+Do you have any idea where they could be hiding?",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -64,7 +65,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1547558803878L,
+        "TimePast": 1591225527919L,
         "Time": 0L,
         "Subject": ""
     }

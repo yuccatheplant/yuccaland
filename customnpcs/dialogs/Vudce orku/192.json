@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 193,
-                "Title": "A co je takhle pozadat o pomoc?",
+                "Title": "What about ask for help?",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -48,13 +48,12 @@
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
     "DialogText": "...
-Ano, je.
+Yes.
+It is sad, but I have a confession to make.
 
-Je to popuzujici, ale musim ucinit doznani.
+We came here not long ago, we are on the run. We are no bandits or raiders, we were starving and we could not get enough...
 
-Pritahli jsme sem pred nedavnem, jsme na uteku. Nejsme zlocinci, pouze jsme potrebovali jidlo a nedokazali jsme sehnat dostatek...
-
-Prosim, vratte se zpet do vesnice a reknete jim, ze se omlouvam za kradez a ze vse vratime.",
+Would you return to their village and tell them we are sorry for what we did and we will return everythin.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -71,7 +70,7 @@ Prosim, vratte se zpet do vesnice a reknete jim, ze se omlouvam za kradez a ze v
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1550174112255L,
+        "TimePast": 1591227632519L,
         "Time": 0L,
         "Subject": ""
     }

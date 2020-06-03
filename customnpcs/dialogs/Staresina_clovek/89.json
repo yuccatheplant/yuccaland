@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 93,
-                "Title": "Dekuji. Zajdu se podivat, jestli Eda uz dorazil.",
+                "Title": "Thank you. I will return to Eda now.",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,7 +47,9 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Skvele, @p! Poslu zpravu do hlavniho mesta, a urcite se nezapomenu zminit, jak moc jste nam pomohl!",
+    "DialogText": "No need to apologise.
+I will send a message to our capital and I will make sure to include your name in it.
+Thank you for your help, @p.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -64,7 +66,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1548424606462L,
+        "TimePast": 1591225170970L,
         "Time": 0L,
         "Subject": ""
     }

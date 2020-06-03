@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 170,
-                "Title": "Ano, drevo je objednane.",
+                "Title": "Yes, the wood is ordered.",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,7 +47,8 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Ahoj, @p! Objednal jsi to drevo?",
+    "DialogText": "Hey, @p!
+Have you ordered that wood?",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": 36,
@@ -64,7 +65,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1549817329530L,
+        "TimePast": 1591223649722L,
         "Time": 0L,
         "Subject": ""
     }

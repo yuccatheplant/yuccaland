@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 136,
-                "Title": "Hochu, ty mas sakra stesti! Samozrejme ze te vezmu domu. Poslal mne tvuj otec.",
+                "Title": "Boy, you have one damn big chunk of luck. I was sent by Robin to find you.",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,10 +47,10 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Voda me odplavila do jeskyne a nemohl jsem kvuli proudu zpatky.
-Tak jsem pokracoval jeskyni az dolu do te kobky, ci co to je. Byla plna pavouku, tak jsem po nich hazel kameny a utikal jsem, dokud jsem nenasel vychod.
-
-Vezmete me domu?",
+    "DialogText": "The current took me to some cavern and I could not get back.
+So I continued deeper and deeper untill I ended up in some sort of ruin.
+It was full of spiders, so I threw rocks on them and ran away untill I found the exit.
+Will you take me home?",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -67,7 +67,7 @@ Vezmete me domu?",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1549809976653L,
+        "TimePast": 1591224514718L,
         "Time": 0L,
         "Subject": ""
     }

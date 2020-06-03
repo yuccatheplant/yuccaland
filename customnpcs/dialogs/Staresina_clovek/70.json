@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 71,
-                "Title": "Maji maly tabor na jihu, ale vice znepokojujici je tahle zprava, kterou jsem jim ukradl.",
+                "Title": "Bandits have small camp to the south. But more disturbing is this letter I stole from them.",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,7 +47,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Pokracuj.",
+    "DialogText": "Go on then.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -64,7 +64,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1548065683377L,
+        "TimePast": 1591224792119L,
         "Time": 0L,
         "Subject": ""
     }

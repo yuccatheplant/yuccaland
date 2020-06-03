@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 62,
-                "Title": "Zdravim. Posila me Eda se zpravou ohledne te karavany.",
+                "Title": "Greetings. Eda sent me with a message about that caravan.",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,7 +47,8 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Zdravim, cizince...",
+    "DialogText": "Good day, stranger...
+What is it you need?",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": 17,
@@ -64,7 +65,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1548423828659L,
+        "TimePast": 1591225237670L,
         "Time": 0L,
         "Subject": ""
     }

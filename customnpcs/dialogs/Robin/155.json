@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 156,
-                "Title": "Dobra, udelam to.",
+                "Title": "Will do.",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,8 +47,8 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Cast naseho domu je znicena a my ji musime opravit.
-Mohl byste dojit k drevorubci na druhem konci vesnice a objednat drevo na opravu?",
+    "DialogText": "Part of our house is destroyed and we must rebuild it.
+Would you go to lumberjack at the other side of the village and order some wood for repair?",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -65,7 +65,7 @@ Mohl byste dojit k drevorubci na druhem konci vesnice a objednat drevo na opravu
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1549726190675L,
+        "TimePast": 1591224001371L,
         "Time": 0L,
         "Subject": ""
     }

@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 161,
-                "Title": "A je tu nejaka alternativa jak drevo ziskat drive?",
+                "Title": "And is there any alternative way how to get the wood on time?",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,7 +47,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Rozumim. Bohuzel nemam dostatek dreva na sklade a neco jsem si udelal s rukou, takze nebudu schopen v blizke dobe moci drevo dorucit.",
+    "DialogText": "Unfortunatelly I do not have enough wood at the moment and I have something with my hand, so I won't be able to cut down trees for it in close future.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -64,7 +64,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1554833100915L,
+        "TimePast": 1591223421718L,
         "Time": 0L,
         "Subject": ""
     }

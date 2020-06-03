@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 131,
-                "Title": "Hmm... Neni tu zadny proud do reky. Rekl bych, ze je to nepravdepodobne.",
+                "Title": "Well, that hole seem to not have any current. I think he was not took by the river.",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,8 +47,8 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "V te prohlubni nikde neni.
-Par lidi hleda po proudu, ale jestli ho voda odnesla do more...",
+    "DialogText": "He is not in that pond!
+Few hobbits seek around the river, but if the water took him to the sea...",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -65,7 +65,7 @@ Par lidi hleda po proudu, ale jestli ho voda odnesla do more...",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1549447217174L,
+        "TimePast": 1591224246569L,
         "Time": 0L,
         "Subject": ""
     }

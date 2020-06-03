@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 194,
-                "Title": "Jste v nouzi, a oni, jak jste si urcite vsimli, maji dostatek.",
+                "Title": "You are in distress and they have enough food for themselves.",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,7 +47,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Co prosim?",
+    "DialogText": "Excuse me?",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -64,7 +64,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1550174173357L,
+        "TimePast": 1591227658868L,
         "Time": 0L,
         "Subject": ""
     }

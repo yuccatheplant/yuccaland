@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 63,
-                "Title": "Mohl bych se podivat po okoli, jestli najdu nejake stopy.",
+                "Title": "I could scout surrounding area and look for some camp or anything like that.",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,10 +47,9 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Souhlasim.
-Takze pokud jsi pomahal najit prezivsi, urcite rad pomuzes s hledanim tabora banditu?
-Samozrejme s nalezitym peneznim ohodnocenim.
-Bezpecnost vesnice je priorita a za pomoc o jeji uchovani rad zaplatim.",
+    "DialogText": "Since you so willingly helped with seeking survivors, I suppose you woul be willing to help us find their hideout?
+With adequate compensation of course.
+The safety of people in this village is my priority and I am willing to reward anyone who helps me with it.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -67,7 +66,7 @@ Bezpecnost vesnice je priorita a za pomoc o jeji uchovani rad zaplatim.",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1547571840967L,
+        "TimePast": 1591225640768L,
         "Time": 0L,
         "Subject": ""
     }

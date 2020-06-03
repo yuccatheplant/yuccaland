@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 163,
-                "Title": "Pustim se do toho.",
+                "Title": "I will do it.",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,7 +47,9 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Pujcim vam svou sekeru. Nasekejte drevo, doneste mi ho i se sekerou, a ja vam ho zpracuji bez placeni jako kompenzaci za trable.",
+    "DialogText": "You know what?
+I will borrow you my axe. You will cut the wood and bring it to me with the axe.
+I will cut it to planks for free as a compensation.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -64,7 +66,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1549804031024L,
+        "TimePast": 1591223518284L,
         "Time": 0L,
         "Subject": ""
     }

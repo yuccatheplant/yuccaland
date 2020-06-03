@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 222,
-                "Title": "Ten dum... Byla to past. Byl jsem zajat a odtahnut do jejich ukrytu.",
+                "Title": "That house... It was a trap. I've been captured by them...",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,7 +47,7 @@
     "DialogCommand": "/effect @dp minecraft:regeneration 30",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Co se tedy stalo?",
+    "DialogText": "What happened?",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -64,7 +64,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1550668341282L,
+        "TimePast": 1591226224670L,
         "Time": 0L,
         "Subject": ""
     }

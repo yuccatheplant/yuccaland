@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "<Odejit>",
+                "Title": "<Leave>",
                 "DialogColor": 14737632,
                 "OptionType": 0
             }
@@ -47,7 +47,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "<Tomuto muzi byla rozdrcena hlava silnym pistem pod velkym tlakem>",
+    "DialogText": "<This man has crushed head by strong piston which created big pressure>",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -64,7 +64,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1552730514910L,
+        "TimePast": 1591225908419L,
         "Time": 0L,
         "Subject": ""
     }

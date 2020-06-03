@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 220,
-                "Title": "Ano, jsem. Ale malem jsem to nezvladl.",
+                "Title": "I am, but almost didn't make it!",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,10 +47,9 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "A, @p!
-U vsech bohu! Vypadate hrozne!
-
-Jste v poradku?",
+    "DialogText": "@p!
+By the gods! You look terrible!
+Are you alright?",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": 49,
@@ -67,7 +66,7 @@ Jste v poradku?",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1550682925670L,
+        "TimePast": 1591226163782L,
         "Time": 0L,
         "Subject": ""
     }

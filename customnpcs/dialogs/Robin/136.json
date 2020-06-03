@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "To ja taky ne, chlapce. Dobre, pojd za mnou.",
+                "Title": "Me neither. boy. All right. Let's get out of here.",
                 "DialogColor": 14737632,
                 "OptionType": 0
             }
@@ -47,9 +47,10 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Dekuji! Pujdu za vami, a nebojte se, nebudu prekazet.
-Udrzim s vami krok a ani nepoznate, ze jdu s vami.
-Casto chodim po okoli, ale takhle daleko jsem jeste nikdy nebyl!",
+    "DialogText": "Thank you!
+I will follow you. Do not worry I will not take any space.
+You won't even know I follow you.
+I sometimes wander around countryside, but have never been so far from home.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -66,7 +67,7 @@ Casto chodim po okoli, ale takhle daleko jsem jeste nikdy nebyl!",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1549810042452L,
+        "TimePast": 1591224585877L,
         "Time": 0L,
         "Subject": ""
     }

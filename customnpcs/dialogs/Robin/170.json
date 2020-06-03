@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 171,
-                "Title": "Nic. Drevo je zadarmo.",
+                "Title": "It is free of charge.",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,7 +47,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "A kolik jsem dluzen?",
+    "DialogText": "And how much will it cost?",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -64,7 +64,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1549817331979L,
+        "TimePast": 1591223666619L,
         "Time": 0L,
         "Subject": ""
     }

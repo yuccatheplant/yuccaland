@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 175,
-                "Title": "Dobra. Kde ale je pole s cukrovou trtinou?",
+                "Title": "Where is that field?",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,9 +47,9 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Dobra. Bohuzel zase budu potrebovat abys neco udelal.
-Chtel bych upect par dortu, ale nemam cukr, ani obili.
-Takze kdybys skocil pro cukr na pole s cukrovou trtinou, a ja zaskocim k farmari pro obili.",
+    "DialogText": "Unfortunatelly I will need you to fetch me something again.
+I would like to bake a cake. But I lack sugar and wheat.
+So if you would visit our sugar field and I would take care of that wheat?",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -66,7 +66,7 @@ Takze kdybys skocil pro cukr na pole s cukrovou trtinou, a ja zaskocim k farmari
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1549817461579L,
+        "TimePast": 1591223800069L,
         "Time": 0L,
         "Subject": ""
     }

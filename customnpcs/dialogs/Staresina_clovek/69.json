@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 70,
-                "Title": "Obavam se, ze mam znepokojujici zpravu.",
+                "Title": "I worry that I have bad news.",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,9 +47,8 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Zdravicko. 
-
-Takze?",
+    "DialogText": "Howdy.
+So?",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": 22,
@@ -66,7 +65,7 @@ Takze?",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1548423850388L,
+        "TimePast": 1591224744919L,
         "Time": 0L,
         "Subject": ""
     }

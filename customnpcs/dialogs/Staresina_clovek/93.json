@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Zatim nashledanou.",
+                "Title": "Farewell.",
                 "DialogColor": 14737632,
                 "OptionType": 0
             }
@@ -47,7 +47,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Urcite, a vyrid mu, ze u me ma odmenu.",
+    "DialogText": "Sure. Tell him there is a reward for him here too.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -64,7 +64,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1548424717559L,
+        "TimePast": 1591225203470L,
         "Time": 0L,
         "Subject": ""
     }

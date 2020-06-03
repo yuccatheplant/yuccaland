@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 213,
-                "Title": "Presne tak!",
+                "Title": "You are not, chief.",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,7 +47,9 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Takze na nej nezautoci, pokud to nebude nutne.",
+    "DialogText": "But if we would send an orc...
+If you are willing to do this, I will be forever in your debt.
+Damn I am already forever in your debt!",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -64,7 +66,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1550424463746L,
+        "TimePast": 1591227956819L,
         "Time": 0L,
         "Subject": ""
     }

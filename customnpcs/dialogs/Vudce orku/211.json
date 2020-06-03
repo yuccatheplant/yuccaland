@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 212,
-                "Title": "Cloveka na rozdil od Orka nebudou ocekavat, a budou se snazit nebudit pozornost.",
+                "Title": "They won't expect a human to show up there. They might hold low profile to stay undetected.",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,8 +47,8 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Pockat pockat!
-Proc bys pro nas tak moc riskoval? Je to sebevrazda! Poslu tam nekoho od nas.",
+    "DialogText": "Moment!
+Why would you risk your life for us? It is suicide! I will send my own men.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -65,7 +65,7 @@ Proc bys pro nas tak moc riskoval? Je to sebevrazda! Poslu tam nekoho od nas.",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1550416473980L,
+        "TimePast": 1591227904920L,
         "Time": 0L,
         "Subject": ""
     }

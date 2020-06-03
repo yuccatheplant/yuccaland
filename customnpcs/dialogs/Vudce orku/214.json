@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 215,
-                "Title": "Prozkoumam to.",
+                "Title": "I will check it out.",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,11 +47,10 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Dekuji ti za vsechnu pomoc, @p.
-Jako podekovani dostanes nasi nejlepsi sekeru, kterou jsme od naseho utoku vyrobili.
-Doufam, ze ti poslouzi dobre.
-Zmasakrovanou skupinu jsme nasli na vychode u velikeho jezera.
-Ti, co je nasli rikali, ze nikoho nevideli, ale na brehu zahledli ruinu domu a stare zarustajici pole.
+    "DialogText": "You will get our best axe we have.
+I hope it will help you in the future.
+We found the massacred group to the east from here near big lake.
+Those who took them here said they saw nothing, but they have seen that abadoned house at the other shore of the lake.
 ",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
@@ -69,7 +68,7 @@ Ti, co je nasli rikali, ze nikoho nevideli, ale na brehu zahledli ruinu domu a s
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1550424483843L,
+        "TimePast": 1591227988625L,
         "Time": 0L,
         "Subject": ""
     }

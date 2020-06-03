@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 228,
-                "Title": "Jeste bych se na neco zeptal.",
+                "Title": "I would like to ask about something else.",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Dekuji.",
+                "Title": "Thank you.",
                 "DialogColor": 14737632,
                 "OptionType": 0
             }
@@ -78,7 +78,7 @@ Mending - Moznost opravovat predmet",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1550925884352L,
+        "TimePast": 1591222714619L,
         "Time": 0L,
         "Subject": ""
     }

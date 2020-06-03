@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Sbohem, nacelniku.",
+                "Title": "Farewell, chief.",
                 "DialogColor": 14737632,
                 "OptionType": 0
             }
@@ -47,10 +47,11 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "O, ano.
-Rad jsem vas poznal, @p.
-A nezapomente...
-U nas jste vzdy vitan.",
+    "DialogText": "Oh, right.
+I am glad to have met you, @p.
+And do not forget.
+Anytime you need hospitality.
+You are welcome here.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -67,7 +68,7 @@ U nas jste vzdy vitan.",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1550682908620L,
+        "TimePast": 1591226501518L,
         "Time": 0L,
         "Subject": ""
     }

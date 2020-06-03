@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 132,
-                "Title": "To nevim, ale pokud mi dovolite, tak bych se tu porozhledl.",
+                "Title": "I do not know. Would you mind me to take a look around?",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,9 +47,9 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Vazne?
-Takze muze byt nazivu?
-Ale kam v tom pripade zmizel?",
+    "DialogText": "Seriously?
+So he could be alive then?
+But where is he? He should be right here if the water didn't took him away.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -66,7 +66,7 @@ Ale kam v tom pripade zmizel?",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1549726957426L,
+        "TimePast": 1591224300619L,
         "Time": 0L,
         "Subject": ""
     }

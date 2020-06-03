@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 60,
-                "Title": "Ucastnil jsem se hledani. Karavana byla zastavena porazenym stromem a prepadena.",
+                "Title": "The caravan was blocked by fallen tree and then ambushed.",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,13 +47,9 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Rozumim.
-Urcite chapes jak vazna je tato situace.
-Banditi se vratili.
-Myslel jsem, ze odtahli pryc, kde jsou castejsi karavany, nez sem, do maleho horskeho mestecka.
-Popravde ale, je sem clenita krajina a mala populace mohla prilakat, prece jenom, siroko daleko neni nic, co by je mohlo ohrozit.
+    "DialogText": "I see...
 
-Nemas nahodou tuseni, jak presne to tam vypada?",
+How exactly the place looked like?",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -70,7 +66,7 @@ Nemas nahodou tuseni, jak presne to tam vypada?",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1547558539129L,
+        "TimePast": 1591225486218L,
         "Time": 0L,
         "Subject": ""
     }

@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 166,
-                "Title": "Dobra. Tak ja mu to jdu vyridit",
+                "Title": "Alright. I will notify Robin.",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,7 +47,9 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Dobra prace s tim drevem! Narezu jej co nejdrive. S dorucenim si nedelej starost. Robina znam moc dobre, takze vim, kam to pujde.",
+    "DialogText": "Good job with that wood.
+I will cut it as soon as possible.
+We also provide home delivery so you don't have to worry about that.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": 35,
@@ -64,7 +66,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1554833225670L,
+        "TimePast": 1591223200773L,
         "Time": 0L,
         "Subject": ""
     }

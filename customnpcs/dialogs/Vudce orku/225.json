@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 226,
-                "Title": "Vim, jak na tom jste a nic od vas nechci.",
+                "Title": "I know your situation and I do not ask for a reward.",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,10 +47,11 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Rozumim. Posleme tam nase vojaky a budou tam hlidat pro pripad, ze se vrati jejich pruzkumnici.
+    "DialogText": "Thank you.
+We will send soldiers there who will watch over it in case their patrols come back.
 
-Ja... Nevim, jak vam mam podekovat, @p!
-A co se tyce odmeny...",
+I... don't know how to thank you enough, @p!
+And about reward...",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -67,7 +68,7 @@ A co se tyce odmeny...",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1550682896871L,
+        "TimePast": 1591226418569L,
         "Time": 0L,
         "Subject": ""
     }

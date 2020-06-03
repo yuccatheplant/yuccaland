@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 210,
-                "Title": "A co ta vase zlikvidovana skupina. Nemohlo by to byt nekde pobliz?",
+                "Title": "Where exactly was your group massacred? It may be somewhere around there?",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,9 +47,9 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Ano, ale to jen za predpokladu, ze jeste nekoho neposlali. A taky pokud se nam je podari najit...
-
-Nemame ani tuseni, kde by mohli byt.",
+    "DialogText": "That will work only if they already did not sent a message with our position.
+And we would have to find them soon.
+And we have no idea where they are hidden.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -66,7 +66,7 @@ Nemame ani tuseni, kde by mohli byt.",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1550416237831L,
+        "TimePast": 1591227900619L,
         "Time": 0L,
         "Subject": ""
     }
