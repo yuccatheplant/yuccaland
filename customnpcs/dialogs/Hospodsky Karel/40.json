@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 41,
-                "Title": "Jsem pro.",
+                "Title": "What do you need?",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,9 +47,9 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Moc mne tesi, ze se mi chces odvdecit, ale je to doopravdy v poradku.
-Doslechl jsem se, ze jsi prisel o pamet, moc me to mrzi.
-Pokud chces, muzes mi pomoct zaridit par veci...",
+    "DialogText": "I am glad that you want to even it, but it is alright.
+Well, I heard that you lost your memory and I am sorry for that.
+If you want to help though, you can do few things for me...",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -66,7 +66,7 @@ Pokud chces, muzes mi pomoct zaridit par veci...",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1547418755720L,
+        "TimePast": 1591204400129L,
         "Time": 0L,
         "Subject": ""
     }

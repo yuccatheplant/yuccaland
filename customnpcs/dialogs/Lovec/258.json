@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 259,
-                "Title": "Popravde nemam tuseni, co si mam myslet, nebo citit. Amnezie mi mozna pomaha.",
+                "Title": "To be honest. I have no idea what to think. I guess the amnesia helps a bit.",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Budu muset jit.",
+                "Title": "I need to go.",
                 "DialogColor": 14737632,
                 "OptionType": 0
             }
@@ -57,10 +57,10 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Kdyz jsem se nabizel, ze vam pomuzu, nikdy me nenapadlo, ze budeme celit invazi nemrtvych!
+    "DialogText": "Hey. When I proposed to you that I will help you. I never thought that we will face fucking undead invasion!
 
-A co ty? Jak se drzis?
-Musi to byt silene, nepamatovat si nic o sobe, ale byt zapleteny do takovych veci.",
+And what about you? Are you alright?
+It must be crazy to not remember a thing about yourself, but be in this damned situation.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": 60,
@@ -77,7 +77,7 @@ Musi to byt silene, nepamatovat si nic o sobe, ale byt zapleteny do takovych vec
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1554911998874L,
+        "TimePast": 1591206504130L,
         "Time": 0L,
         "Subject": ""
     }

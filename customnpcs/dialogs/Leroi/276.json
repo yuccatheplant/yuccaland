@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Budu uz muset jit.",
+                "Title": "I need to go.",
                 "DialogColor": 14737632,
                 "OptionType": 0
             }
@@ -57,10 +57,10 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Nemrtvi?
-Elfove poslali nemrtve?!
+    "DialogText": "Undead?
+Did elves sent them?!
 
-Tohle je konec, @p!",
+This is the end, @p!",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": 60,
@@ -77,7 +77,7 @@ Tohle je konec, @p!",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1552590610493L,
+        "TimePast": 1591205372179L,
         "Time": 0L,
         "Subject": ""
     }

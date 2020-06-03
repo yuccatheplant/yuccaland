@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 183,
-                "Title": "Proboha probud se uz!",
+                "Title": "For fucks sake, wake up!",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,7 +47,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "<Hlidac spi>",
+    "DialogText": "<Asleep>",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": 39,
@@ -64,7 +64,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1550081749393L,
+        "TimePast": 1591203151979L,
         "Time": 0L,
         "Subject": ""
     }

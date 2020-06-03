@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 45,
-                "Title": "Kde mam obstarat med?",
+                "Title": "Where shall I fetch honey?",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 46,
-                "Title": "Vazne chces davat houby do kolace?",
+                "Title": "Are you sure it is good idea to put mushrooms to the pie?",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -27,7 +27,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 47,
-                "Title": "Pockej, proc davat maso do vegetarianskeho kolace?",
+                "Title": "Wait, why would you put meat into the pie?!",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -37,7 +37,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Asi uz vim vse.",
+                "Title": "I think I know everything.",
                 "DialogColor": 14737632,
                 "OptionType": 0
             }
@@ -77,14 +77,13 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Skvele! Potrebuji sehnat par ingredienci pro muj specialni Pampeliskovy kolac!
+    "DialogText": "Splendid! I need few ingredients for my special Dandelion pie!
 
-Pampelisky jsem uz objednal u Angely a mela by mi je nekdy behem dneska dorucit, jsou tu ovsem dalsi ingredience, ktere potrebuji, abys obstaral...
-
-Jedna se o:
-- Med
-- Houby
-- Kralici maso",
+Dandelions should arrive from Angela any moment now, but there is more.
+I need you to get:
+-Honey
+-Mushrooms
+-Rabbit meat",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -101,7 +100,7 @@ Jedna se o:
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1554914868930L,
+        "TimePast": 1591204517029L,
         "Time": 0L,
         "Subject": ""
     }

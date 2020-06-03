@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 289,
-                "Title": "To je v poradku, budu tam ja. Ty zatim delej Bernardovi spolecnost.",
+                "Title": "Worry not, buddy. I will be there. You better keep Bernard busy for now.",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Zatim ahoj.",
+                "Title": "See you.",
                 "DialogColor": 14737632,
                 "OptionType": 0
             }
@@ -57,9 +57,8 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Nechapu, proc me nenecha Angela jit s vami!
-
-Nechci tu sedet zatimco jsem mozna potreba nekde jinde!",
+    "DialogText": "I don't understand why I had to stay here while you went there!
+I do not want to just sit here and wait while I may be needed somewhere else!",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -76,7 +75,7 @@ Nechci tu sedet zatimco jsem mozna potreba nekde jinde!",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1554912035181L,
+        "TimePast": 1591206258286L,
         "Time": 0L,
         "Subject": ""
     }

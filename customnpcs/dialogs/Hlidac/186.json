@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 187,
-                "Title": "Rozumim. Vyrazim.",
+                "Title": "I am on my way then.",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,8 +47,8 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Presne tak!
-Nez se vratis, dojdu vesnice a ohlasim co se stalo.",
+    "DialogText": "Thank you.
+Before you return, I will go to the village and inform them where you are going and what happened.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -65,7 +65,7 @@ Nez se vratis, dojdu vesnice a ohlasim co se stalo.",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1550069117693L,
+        "TimePast": 1591203348532L,
         "Time": 0L,
         "Subject": ""
     }

@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 108,
-                "Title": "Na zdravi!",
+                "Title": "Cheers!",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,11 +47,9 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Tak hodne stesti, @p.
-
-Pripijeme si na nase vitezstvi a na tve brzke uzdraveni!
-
-A chlape, pokud na nas nezapomenes, tak nas zajdi nekdy navstivit! Radi te tu uvidime!",
+    "DialogText": "Good luck then, @p.
+We will cheer to our victory and to your memory treatment!
+And mate. Don't you dare to forget about us! Visit us sometimes! We are glad to have you!",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -68,7 +66,7 @@ A chlape, pokud na nas nezapomenes, tak nas zajdi nekdy navstivit! Radi te tu uv
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1548597261487L,
+        "TimePast": 1591207108429L,
         "Time": 0L,
         "Subject": ""
     }

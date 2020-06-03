@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 41,
-                "Title": "To snad zvladnu.",
+                "Title": "I can do that.",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,21 +47,21 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Ano, chci davat houby do kolace.
-Doda mu to tu spravnou... houbovou chut!
+    "DialogText": "Yes I do want to put mushrooms to my pie.
+It will give it the right... mushroom taste!
 
-Problem je, ze v blizkem okoli nerostou zadne houby, krome jedne jeskyne.
-Ta jeskyne je pekne zasita, ale popisu ti podrobne kde hledat.
+Problem is, that there are no mushroom in close area, besides one cavern.
+That cavern is well hidden, but I tell you where to go.
 
-Nejdriv opustis vesnici jiznim vychodem a prejdes po moste na jizni stranu reky.
-Ale hned jak prejdes most, zatocis doleva - na vychod a pujdes proti proudu reky.
-Pujdes skrz vymyceny les, vsude jsou tam parezy, tak pozor, at nezakopnes!
-Na vychodnim konci mytiny je skupina nepokacenych stromu. Jsou jeste pod skalami, ne nahore!
-Mezi temi stromy je vstup do jeskyne.
+You will leave the village by southern gate and will cross the bridge to the southern side of the river.
+Just after you cross the bridge, you will turn left and will walk that way.
+You will walk through clearing, so be careful to not stumple over stomp.
+At the eastern end of the clearing there are few untouched trees. They are under the rocks, not on them.
+Between those trees there is entrance to the cavern.
 
-Uvnitr je hromada hub a ty pujdou do kolace!
+Inside there are tons of mushrooms for my pie!
 
-Dam ti jeste kosik, abys je mohl pohodlne nest.",
+I will give you basked so you can carry them comformtably.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -78,7 +78,7 @@ Dam ti jeste kosik, abys je mohl pohodlne nest.",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1547421860480L,
+        "TimePast": 1591204039280L,
         "Time": 0L,
         "Subject": ""
     }

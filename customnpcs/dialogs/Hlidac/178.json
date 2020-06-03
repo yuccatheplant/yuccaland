@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 179,
-                "Title": "Hej, jste zivej?",
+                "Title": "Hey, are you alive?",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,7 +47,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "<Hlidac spi>",
+    "DialogText": "<Sleeps>",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": 37,
@@ -64,7 +64,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1550052865081L,
+        "TimePast": 1591203387379L,
         "Time": 0L,
         "Subject": ""
     }

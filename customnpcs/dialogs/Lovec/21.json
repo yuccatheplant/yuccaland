@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 20,
-                "Title": "Jsem JEDNO velke UCHO.",
+                "Title": "I am listening.",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,9 +47,9 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Ohledne tveho pametoveho problemu, nedokazu ti pomoct.
-
-Ale vim o nekom kdo by toho mozna byl schopen.",
+    "DialogText": "Now about your little memory problem...
+I can not help you with that.
+But I know a person who may be able.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": 4,
@@ -66,7 +66,7 @@ Ale vim o nekom kdo by toho mozna byl schopen.",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1552329010389L,
+        "TimePast": 1591209298332L,
         "Time": 0L,
         "Subject": ""
     }

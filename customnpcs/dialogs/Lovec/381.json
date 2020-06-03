@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 382,
-                "Title": "Pratelsky? Vzdyt vy dva se nemuzete vystat!",
+                "Title": "The most suspicious thing you could do is to try friendly conversation!",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,9 +47,9 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "A co kdyz to zkusim ja?
-Proste si s nim jen tak pratelsky poklabosim o tom, jak se seznamil s Angelou a tak.
-Treba mu neco uklouzne.",
+    "DialogText": "And what if I will be the one who asks?
+I will approach him and start friendly conversation about Angela and stuff.
+Maybe he says something.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -66,7 +66,7 @@ Treba mu neco uklouzne.",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1554312766194L,
+        "TimePast": 1591208161481L,
         "Time": 0L,
         "Subject": ""
     }

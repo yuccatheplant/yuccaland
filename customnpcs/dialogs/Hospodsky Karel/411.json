@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 412,
-                "Title": "Ja tebe taky, Kajo. Ale bohuzel neprichazim s dobrymi zpravami.",
+                "Title": "Likewise, Carl, but I have bad news for you.",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -49,9 +49,8 @@
     "OptionFaction2Points": 100,
     "DialogText": "@p?
 
-Ty jsi zpet?
-
-Rad te vidim!",
+You are back!
+Glad to see you!",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": 73,
@@ -68,7 +67,7 @@ Rad te vidim!",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1554915082038L,
+        "TimePast": 1591204583029L,
         "Time": 0L,
         "Subject": ""
     }

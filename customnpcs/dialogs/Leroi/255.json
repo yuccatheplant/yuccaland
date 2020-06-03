@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "/fill 2298 59 3433 2298 59 3433 minecraft:redstone_block",
                 "Dialog": -1,
-                "Title": "Nemrtvi....",
+                "Title": "Undead...",
                 "DialogColor": 14737632,
                 "OptionType": 4
             }
@@ -47,7 +47,8 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "A kdo to udelal?!",
+    "DialogText": "Wha-
+Do you know who did it?!",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -64,7 +65,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1552254729607L,
+        "TimePast": 1591204991029L,
         "Time": 0L,
         "Subject": ""
     }

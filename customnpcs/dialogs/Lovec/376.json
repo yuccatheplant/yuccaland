@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 377,
-                "Title": "V transu jsem videl Nekromanta na vlastni oci. A ona byla s nim.",
+                "Title": "In my vision I have seen the Necromant himself. And Angela... By his side.",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,8 +47,8 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Ne. Je dost tajnustkarska.
-Ale proc se na to ptas, @p?",
+    "DialogText": "As I said, she is kind of loner.
+Why do you ask, @p?",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -65,7 +65,7 @@ Ale proc se na to ptas, @p?",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1554312644540L,
+        "TimePast": 1591207775681L,
         "Time": 0L,
         "Subject": ""
     }

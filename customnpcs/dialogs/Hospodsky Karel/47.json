@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 41,
-                "Title": "No, jak myslis. Donesu ti to maso.",
+                "Title": "As you wish. I will bring you those rabbits.",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,12 +47,12 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Maso je nejlepsi zdroj zivin!
-A proto nesmi chybet ani v mem kolaci!
+    "DialogText": "Meat is the best source of energy!
+And so it must not be missed in my pie!
 
-Potrebuji pet stazenych kraliku a to co nejrychleji!
+I need five skinned rabbits as soon as possible!
 
-Vim o tom, ze kolem naseho obilneho pole se ochomytala skupina. Jestli ji najdes, budes to mit hotove za chvilicku.",
+I know that near our wheat field there is a group of them. If you find them, you will be done in no time!",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -69,7 +69,7 @@ Vim o tom, ze kolem naseho obilneho pole se ochomytala skupina. Jestli ji najdes
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1547421865566L,
+        "TimePast": 1591204125883L,
         "Time": 0L,
         "Subject": ""
     }

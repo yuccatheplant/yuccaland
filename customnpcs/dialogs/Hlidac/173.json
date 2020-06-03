@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "<Nechat ho byt>",
+                "Title": "<Let him be>",
                 "DialogColor": 14737632,
                 "OptionType": 0
             }
@@ -47,7 +47,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "<Hlidac spi>",
+    "DialogText": "<Sleeps>",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -64,7 +64,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1555190749959L,
+        "TimePast": 1591203488080L,
         "Time": 0L,
         "Subject": ""
     }

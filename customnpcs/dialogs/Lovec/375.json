@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 376,
-                "Title": "A to je vse? Nic vic? Neprorekla se, co bylo predtim?",
+                "Title": "That's all?! Nothing more? No weird mentions about her past or something?",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,12 +47,18 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "No...
-Neni mistni v Ramshorne, pristehovala se pred par lety.
-Nikdo nevi odkud je a ona se ani nesnazila s nikym komunikovat.
-Proste si koupila dum a zacala vyrabet lektvary.
+    "DialogText": "Well...
+She moved to Ramshorne few years back after our herbalist died.
+Nobody knows where exactly is she from, but I think she is from Aramoor.
+She saved Lord Musk's hide when he traveled around. He got bad infection, almost sure death. But she managed to keep him alive and cure it somehow. 
+That is why he values her so much.
+She is kind of a loner. Always deep in her work.
 
-Proto ji lidi moc nemuseji u nas doma, ale mne osobne to nijak moc nevadilo a jak jsem rikal, ma dobry vyprostovaky z kocoviny.",
+People back in Ramshorne do not like her much, bout I think she does not care.
+Only people who talk to her regulary are Carl and me.
+She picks dandelions for Carl's horrible meals and tea and I sometimes need something to cure hangover.
+
+Nothing more interesting about her.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -69,7 +75,7 @@ Proto ji lidi moc nemuseji u nas doma, ale mne osobne to nijak moc nevadilo a ja
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1554312622287L,
+        "TimePast": 1591207712831L,
         "Time": 0L,
         "Subject": ""
     }

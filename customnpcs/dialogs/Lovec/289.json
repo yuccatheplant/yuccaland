@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 290,
-                "Title": "O duvod vic, abyste se zblizili. Bude to potreba vic nez kdy jindy,",
+                "Title": "One reason more for you two to become friends because we will need to be united now.",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,9 +47,8 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "To ti teda pekne dekuju!
-
-Vzdyt musis vedet jak moc ho nemam rad!",
+    "DialogText": "Thank you very much then...
+You know well enough I can't stand him one bit!",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -66,7 +65,7 @@ Vzdyt musis vedet jak moc ho nemam rad!",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1552591114698L,
+        "TimePast": 1591206315234L,
         "Time": 0L,
         "Subject": ""
     }

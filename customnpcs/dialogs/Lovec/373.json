@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 374,
-                "Title": "No, o tom s tebou stejne chci mluvit.",
+                "Title": "That is exactly the thing i must speak with you about.",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,8 +47,9 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Co jsi vlastne videl v te tve halucinaci nebo co?
-Angela se mi snazila vysvetlit, co jste to vlastne vyvadeli, ale tyhle veci jdou mimo me.",
+    "DialogText": "Oh. Right.
+What exactly have you seen in that halucination or whatever?
+Angela tried to explain, but I do not understand at all.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -65,7 +66,7 @@ Angela se mi snazila vysvetlit, co jste to vlastne vyvadeli, ale tyhle veci jdou
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1554312569193L,
+        "TimePast": 1591207343785L,
         "Time": 0L,
         "Subject": ""
     }

@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Diky za informaci.",
+                "Title": "I am glad you are here. Thanks for the heads up.",
                 "DialogColor": 14737632,
                 "OptionType": 0
             }
@@ -47,9 +47,9 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Kdyz se Angela vratila z Dorthlove, dosel jsem ji privitat.
-Dozvedel jsem se, ze litas z pruseru do pruseru...
-Tak jsem si rekl, ze u toho musim bejt a nabidl se ze ji doprovodim.",
+    "DialogText": "When Angela returned from Dorthlove, I went to say hello.
+She mentioned that you jump from problem to problem...
+So naturally I thought I need to be present to see it myself and proposed to her the idea of me following you here.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -66,7 +66,7 @@ Tak jsem si rekl, ze u toho musim bejt a nabidl se ze ji doprovodim.",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1554911975745L,
+        "TimePast": 1591206130487L,
         "Time": 0L,
         "Subject": ""
     }

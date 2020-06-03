@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 13,
-                "Title": "Na jake hore?",
+                "Title": "What cliff?!",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,10 +47,10 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Takze ruzenka se probrala!
-To je dobre!
-Mam na tebe par otazek, ale neboj, zacneme pomalu.
-Takze zaprve: Cos sakra delal na te hore?",
+    "DialogText": "So our sleeping beauty is awake!
+It is good.
+I have a few questions for you, so let's start slowly.
+Why the fuck have you jumped from that cliff?!",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": 2,
@@ -67,7 +67,7 @@ Takze zaprve: Cos sakra delal na te hore?",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1548067696119L,
+        "TimePast": 1591208535729L,
         "Time": 0L,
         "Subject": ""
     }

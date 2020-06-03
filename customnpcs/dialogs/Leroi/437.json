@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 438,
-                "Title": "Ten tabor byla past! Eda je v obkliceni! Musel jsem prelezt hreben abych se sem dostal.",
+                "Title": "It was a trap! Eda is surrounded in the camp and needs reinforcements!",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,9 +47,8 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "@p?
-
-Kde se tady beres?!",
+    "DialogText": "@p?!
+What are you doing here?!",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": 78,
@@ -66,7 +65,7 @@ Kde se tady beres?!",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1557077742697L,
+        "TimePast": 1591205118229L,
         "Time": 0L,
         "Subject": ""
     }

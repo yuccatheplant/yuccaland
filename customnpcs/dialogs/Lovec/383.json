@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 384,
-                "Title": "Edu?",
+                "Title": "Eda is here?",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,10 +47,11 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Ja a duveryhodnej!
-Ha, musim rict, @p, ten trans te teda o smysl pro humor nepripravil!
+    "DialogText": "Me and trustworthy?!
+Are you sure you are alright after that long sleep?
+You seem quite desoriented, my friend.
 
-A zapomnel jsi na Edu.",
+Also. You forgot Eda.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -67,7 +68,7 @@ A zapomnel jsi na Edu.",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1554312832786L,
+        "TimePast": 1591208306386L,
         "Time": 0L,
         "Subject": ""
     }

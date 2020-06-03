@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 375,
-                "Title": "Nejdriv. Rekni mi o Angeline minulosti.",
+                "Title": "First things first. Tell me about Angela's past, please. All you know.",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,7 +47,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Tak spust.",
+    "DialogText": "Go on.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -64,7 +64,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1554312589935L,
+        "TimePast": 1591207372780L,
         "Time": 0L,
         "Subject": ""
     }

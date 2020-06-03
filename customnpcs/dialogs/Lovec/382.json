@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 383,
-                "Title": "Jo, kdyz myslis. Hlavne davej bacha. Ty a Chicco jste jedini duveryhodni.",
+                "Title": "Just be carefull. Right now, you and Chicco are the only ones I trust.",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,8 +47,9 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "To neni pravda!
-Jen to tak vypada, ale oba vime, ze je to jen poza.",
+    "DialogText": "Oh come on!
+Just let me try, please!
+It is just way I present myself to people. You know me.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -65,7 +66,7 @@ Jen to tak vypada, ale oba vime, ze je to jen poza.",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1554312791635L,
+        "TimePast": 1591208239132L,
         "Time": 0L,
         "Subject": ""
     }

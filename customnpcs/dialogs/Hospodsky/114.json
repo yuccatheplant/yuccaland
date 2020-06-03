@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Dekuji.",
+                "Title": "Thanks.",
                 "DialogColor": 14737632,
                 "OptionType": 0
             }
@@ -57,8 +57,8 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Ano, Angela je ubytovana u nas v hostinci a byli jsme upozorneni, ze ji budete shanet.
-Mam vam vzkazat, ze ji najdete v mistnim obchode s lektvary.",
+    "DialogText": "Yes, Angela is accomodated in our tavern, and we were notified that there will be someone looking for her.
+I was instructed to tell you to visit local alchemy shop.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -75,7 +75,7 @@ Mam vam vzkazat, ze ji najdete v mistnim obchode s lektvary.",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1549216915585L,
+        "TimePast": 1591203637382L,
         "Time": 0L,
         "Subject": ""
     }

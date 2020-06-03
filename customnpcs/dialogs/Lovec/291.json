@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 292,
-                "Title": "No nic, tak ja jdu.",
+                "Title": "See you later, mate.",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,7 +47,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Heheheheh.",
+    "DialogText": "Behehe!",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -64,7 +64,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1552591183702L,
+        "TimePast": 1591206384630L,
         "Time": 0L,
         "Subject": ""
     }

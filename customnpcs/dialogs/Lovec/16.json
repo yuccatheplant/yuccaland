@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Dobre, alespon udelam neco uzitecneho.",
+                "Title": "No problem. I guess I owe you after all.",
                 "DialogColor": 14737632,
                 "OptionType": 0
             }
@@ -47,13 +47,15 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Je to jenom luk.
-Hele a dneska mam dostat novej, co jsem objednal.
+    "DialogText": "Gettin sassy are we?
+It is just a weapon. It can be replaced.
+Speaking of witch. My new bow should be ready to pick up!
 
-Muzes mi udelat laskavost a vyzvednout ho. Pokud teda sebou neseknes hned jak vylezes ze dveri.
-Nechal jsem si to delat u zbrojire na farme za vesnici.
-Mel bys to najit docela snadno, protoze je to maly pristavek k farmarskemu staveni naproti mlynu.
-Proste se motej kolem mlynu a nekde to tam bude. Neboj, najdes to.",
+Would you go there for me?
+I am kind of drunk and it is just so cozy here I do not want to go there.
+The fletcher lives at the farm behind the village.
+You should have no trouble to find it. It is part of farm building right next to local mill.
+Just walk around our windmill untill you see it.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -70,7 +72,7 @@ Proste se motej kolem mlynu a nekde to tam bude. Neboj, najdes to.",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1548067698069L,
+        "TimePast": 1591209239082L,
         "Time": 0L,
         "Subject": ""
     }

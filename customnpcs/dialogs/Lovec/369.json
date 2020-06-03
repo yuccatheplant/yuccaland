@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 370,
-                "Title": "Zvladneme to.",
+                "Title": "We can do it.",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,7 +47,8 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Takze je to tady, @p. Jsi pripraven bojovat az do konce?",
+    "DialogText": "Here we are, @p.
+Are you ready to fight till the very end?",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -64,7 +65,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1554911979583L,
+        "TimePast": 1591206158779L,
         "Time": 0L,
         "Subject": ""
     }

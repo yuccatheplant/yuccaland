@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Ne, dekuji.",
+                "Title": "No, thank you.",
                 "DialogColor": 14737632,
                 "OptionType": 0
             }
@@ -47,7 +47,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Zdravim, budete neco potrebovat?",
+    "DialogText": "Good day. Is there anything you need?",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -64,7 +64,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1552316966799L,
+        "TimePast": 1591204767429L,
         "Time": 0L,
         "Subject": ""
     }

@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 413,
-                "Title": "Ano. Poslal mne Eda z Ramshornskeho lezeni pro zasoby.",
+                "Title": "Yes. Eda sent me for supplies for soldiers.",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,7 +47,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Jedna se o ten problem na vychode?",
+    "DialogText": "That... eastern problem right?",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -64,7 +64,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1554914983483L,
+        "TimePast": 1591204612381L,
         "Time": 0L,
         "Subject": ""
     }

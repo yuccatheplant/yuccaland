@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 186,
-                "Title": "Rozumim. Neutocit, jen prozkoumat.",
+                "Title": "I see. I will try.",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,7 +47,10 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Ano, ale nic nezkousej. Pisou tu, ze nemeli na vyber. Myslim, ze by stalo za to zjistit co je k tomu vedlo.",
+    "DialogText": "No, not really.
+Just to see who we are dealing with so we can prepare.
+And if you manage to talk with them, try to be peaceful.
+The seemed to have good reason to steal.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -64,7 +67,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1550069051440L,
+        "TimePast": 1591203308131L,
         "Time": 0L,
         "Subject": ""
     }

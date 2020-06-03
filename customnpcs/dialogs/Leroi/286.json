@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Budu uz muset jit.",
+                "Title": "I need to leave.",
                 "DialogColor": 14737632,
                 "OptionType": 0
             }
@@ -48,8 +48,7 @@
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
     "DialogText": "@p?
-
-Nejdriv zmizeli trpaslici, potom nas odrizli Elfove a ted jsme na rade my!",
+First of all, dwarves left. Then elves stopped to talk to us and now, we are going to get attacked by undead!",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -66,7 +65,7 @@ Nejdriv zmizeli trpaslici, potom nas odrizli Elfove a ted jsme na rade my!",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1552590748898L,
+        "TimePast": 1591205344586L,
         "Time": 0L,
         "Subject": ""
     }

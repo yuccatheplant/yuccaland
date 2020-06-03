@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 66,
-                "Title": "No, stacilo by, kdybys mi rekl, jestlis nenarazil na neco podezreleho behem lovu?",
+                "Title": "So, ahve you seen something out of ordinary during one of your hunts?",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,8 +47,8 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Doprdele, vubec ses neflakal, fakt ze ne!
-Dobre. A jak presne ti mam pomoct?",
+    "DialogText": "Fuck my! You didn't slacked your ass at all did you?!
+Right, how exactly shall I help you?",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -65,7 +65,7 @@ Dobre. A jak presne ti mam pomoct?",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1548067694404L,
+        "TimePast": 1591205515241L,
         "Time": 0L,
         "Subject": ""
     }

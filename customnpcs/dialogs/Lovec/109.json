@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Dekuji, panove!",
+                "Title": "Thanks, guys.",
                 "DialogColor": 14737632,
                 "OptionType": 0
             }
@@ -47,9 +47,8 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Rozumim. Tak sbohem, a hodne stesti! Budem ti tady drzet palce!
-
-<Karel, Lovec a Eda se s tebou rozloucili>",
+    "DialogText": "I understand. Farevell, mate. We will keep our fingers crossed.
+<Carl, Hunter and Eda bid you farewell>",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -66,7 +65,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1554232596506L,
+        "TimePast": 1591207197430L,
         "Time": 0L,
         "Subject": ""
     }

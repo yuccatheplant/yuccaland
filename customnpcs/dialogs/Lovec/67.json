@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Tak ja mizim, a diky.",
+                "Title": "Thanks, Hunter.",
                 "DialogColor": 14737632,
                 "OptionType": 0
             }
@@ -47,9 +47,10 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Hej, nepodcenuj staryho lovce!
-Davej tam na sebe pozor, clovece. To posledni co chceme te zase dva dny krisit.
-A ted uz radsi bez. A hodne stesti s tema lapkama!",
+    "DialogText": "Hey, what did you think?
+Hunting is my job, so I am good at it.
+Be carefull, man. I do not want todrag you here uncouncious and curing you for two days again.
+And now you better go. Good luck with those bandits.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -66,7 +67,7 @@ A ted uz radsi bez. A hodne stesti s tema lapkama!",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1548067695924L,
+        "TimePast": 1591205961731L,
         "Time": 0L,
         "Subject": ""
     }

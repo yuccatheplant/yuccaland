@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Dobre, to zni jednoduse. Diky za pomoc.",
+                "Title": "Sounds easy enough. Thank you.",
                 "DialogColor": 14737632,
                 "OptionType": 0
             }
@@ -47,10 +47,10 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Angela - bylinkarka bydli na navsi naproti kostelu.
-Jeji dum je oznacen ceduli \"Bylinkarka\".
-
-Porad obchazej kostel, a divej se na domy naproti, dokud na to nenarazis.",
+    "DialogText": "Her name is Angela. She lives right across the church.
+Her house has a sign near doors, so if you can read, you will have no problem to find it.
+Just walk around the church and knock on every door with sign next to it.
+You will get to her eventualy.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -67,7 +67,7 @@ Porad obchazej kostel, a divej se na domy naproti, dokud na to nenarazis.",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1547411850171L,
+        "TimePast": 1591209610030L,
         "Time": 0L,
         "Subject": ""
     }

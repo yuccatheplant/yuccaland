@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 185,
-                "Title": "Nech me hadat... Mam se tam jit podivat.",
+                "Title": "Let me guess... Follow them and get that sugar back?",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,13 +47,13 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Ukaz? Dej mi ho precist!
+    "DialogText": "Let me read!
 
-Hmmm...
+Hmm...
 
-Takze to doopravdy nekdo ukradl!
-Dokonce tady i popsali, kam maji jit!
-Muzu te o neco pozadat?
+So somebody actually stole the sugar!
+They even wrote instructions to follow!
+May I ask you for something?
 
 ",
     "AvailabilityQuest4Id": -1,
@@ -72,7 +72,7 @@ Muzu te o neco pozadat?
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1550068615891L,
+        "TimePast": 1591203242729L,
         "Time": 0L,
         "Subject": ""
     }

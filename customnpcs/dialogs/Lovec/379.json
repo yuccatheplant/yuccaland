@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 380,
-                "Title": "Bernard rychle zmenil tema, kdyz jsem se zminil o Angeline znalosti nekromancie.",
+                "Title": "You see. I mentioned Angela's knowledge about necromancy. He changed subject.",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,8 +47,8 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Dobra.
-Mozna bych se na ni zeptal Bernarda. Zda se, ze ji zna uz dost dlouho.",
+    "DialogText": "I see.
+You could ask Bernard about her. It seems he knows her much longer than anyone else in Ramshorne.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -65,7 +65,7 @@ Mozna bych se na ni zeptal Bernarda. Zda se, ze ji zna uz dost dlouho.",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1554312712192L,
+        "TimePast": 1591207985030L,
         "Time": 0L,
         "Subject": ""
     }

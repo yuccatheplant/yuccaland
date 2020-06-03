@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 414,
-                "Title": "Diky, Kajo. Budu uz muset jit.",
+                "Title": "Thanks, Carl. But I have to leave now.",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,9 +47,9 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Rozumim. Tady to je.
-
-@p? Pozdravuj je, prosim. A vyrid jim hodne stesti z cele vesnice.",
+    "DialogText": "I understand.
+Here you go.
+And @p. Please, say them hello from me. We wish them good luck.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -66,7 +66,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1554915026982L,
+        "TimePast": 1591204650980L,
         "Time": 0L,
         "Subject": ""
     }

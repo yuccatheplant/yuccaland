@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 181,
-                "Title": "Ne, nevidel. Ted jsem prisel, a videl jsem vas spat.",
+                "Title": "No, I just came by... And seen you asleep on the job.",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,7 +47,8 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Sakra! Nevidel jste nekoho?!",
+    "DialogText": "Damn it!
+Have you seen anybody?",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -64,7 +65,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1549819153827L,
+        "TimePast": 1591203445630L,
         "Time": 0L,
         "Subject": ""
     }

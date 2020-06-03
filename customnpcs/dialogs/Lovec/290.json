@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 291,
-                "Title": "Kusuj!",
+                "Title": "Go fuck yourself.",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,11 +47,9 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "No, to mas pravdu.
-
-Hej, tak si davej tam venku pozor, jo?
-
-A hlavne neskac do zadny reky, jo?",
+    "DialogText": "You are right.
+Hey, stay safe out there right?
+And just don't jump to any river you see, right?!",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -68,7 +66,7 @@ A hlavne neskac do zadny reky, jo?",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1552591159341L,
+        "TimePast": 1591206352780L,
         "Time": 0L,
         "Subject": ""
     }

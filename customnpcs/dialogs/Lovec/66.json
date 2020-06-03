@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 67,
-                "Title": "To je uzasna analyza, v to jsem ani nedoufal! Diky!",
+                "Title": "What an analysis you did! Thank you very much!",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,19 +47,20 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Prvni co mne napadlo je stara tvrz na svahu jizne odsud.
-Ale ta to urcite nebude, protoze je to tam neobyvatelny a kazdou chvili se to muze zritit.
-Taky to nemuze bejt moc daleko od utoku, protoze by se s tim urcite netahali takovou dalku pryc...
-Pockej...
-Nemuze to bejt ani primo v tech skalach, kde k tomu doslo, protoze tam neni kde normalne postavit tabor.
-Nebude to na vychode od skal, udoli je tam priliz uzke a nekdo by si jich vsiml.
-Sever to taky nebude, protoze jsme tu my a nic moc vic se sem nevejde.
-Takze jediny dva smery jsou Jih a Zapad.
-Nemyslim si, ze to bude Zapad. Je tam skoro neprojitelna stena skal.
-Ne ze by to na Jih bylo lepsi, ale urcite se tama nejak projit da.
-A kdyz nad tim premyslim, byl jsem tam pred tydnem a videl jsem stan. Myslel jsem, ze jen nekdo nocuje, ale urcite je to vhodne prozkoumat.
-Takze, pujdes z vesnice na jih pres cele udoli, dokud nenarazis na dalsi reku. A kousek od mista kde vyvera by melo bejt stare taboriste.
-Zkus to tam, a pokud nepochodis, zkus jit vic na zapad.",
+    "DialogText": "First thing on my mind is that old castle on the cliff south of here.
+But it won't be it, since it is unstable and can fall down any time.
+It can't be much too far away from that area though.
+Wait a minute...
+It can not be in the rockies, because there is nowhere to build a camp.
+It won't be to the east. The valley is too narrow there and somebody would see them.
+North is out of question, since it is where we are at the moment.
+So all we have is South and West.
+I doubt it will be west, it is too far away and bad terrain.
+But he south...
+There is river, so they would have easy access to the water.
+Now that I think about it. I have seen encampment there about a week ago. But though those were just some travelers.
+So, you will leave village to the south through the whole valley, unless you meet another river. And not too far away from the source there should be old camp.
+If you won't find it, try to go to the west from there.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -76,7 +77,7 @@ Zkus to tam, a pokud nepochodis, zkus jit vic na zapad.",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1548067695517L,
+        "TimePast": 1591205888997L,
         "Time": 0L,
         "Subject": ""
     }

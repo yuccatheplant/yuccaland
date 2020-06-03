@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 85,
-                "Title": "Sraz je na ceste smerem na hrad, kousek pred vstupem. Utocit se bude v noci.",
+                "Title": "Randevous is on the old path towards the castle. We will attack at nighttime.",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,10 +47,11 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Fajn!
-Takze kde a kdy mam byt?
-Budu tam, fakt ze jo!
-A budu vas kryt zatimco vy se tam budete mydlit.",
+    "DialogText": "Fine?
+Fine!
+So when I shall be there?
+I will be there
+I will cover your asses while you will try to take that castle!",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -67,7 +68,7 @@ A budu vas kryt zatimco vy se tam budete mydlit.",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1552313719291L,
+        "TimePast": 1591206907529L,
         "Time": 0L,
         "Subject": ""
     }

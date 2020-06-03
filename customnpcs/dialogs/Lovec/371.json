@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 372,
-                "Title": "Angela mi vse rekla.",
+                "Title": "It is so serious you passed perfect chance for a joke about my condition...",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -48,8 +48,8 @@
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
     "DialogText": "@p?!
-Ty ses vzbudil?!
-Konecne! Neuveris co se ted kurva deje!",
+You are awake?!
+Finally! You won't believe what is going on right now!",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": 69,
@@ -66,7 +66,7 @@ Konecne! Neuveris co se ted kurva deje!",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1554754027223L,
+        "TimePast": 1591207254630L,
         "Time": 0L,
         "Subject": ""
     }

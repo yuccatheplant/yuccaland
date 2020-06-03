@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 82,
-                "Title": "A ty jsi porad jeste tady?",
+                "Title": "And you are still sitting here?",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,8 +47,8 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Ty uz jses zas tady?
-Jak jsi vlastne dopadl?",
+    "DialogText": "Are you here again?
+How did it went?",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": 22,
@@ -65,7 +65,7 @@ Jak jsi vlastne dopadl?",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1548597409565L,
+        "TimePast": 1591206581780L,
         "Time": 0L,
         "Subject": ""
     }

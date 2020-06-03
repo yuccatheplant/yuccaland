@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 385,
-                "Title": "A co kdyz se tam objevi?! Ale co, kdyz mysli, ze je to dobry napad...",
+                "Title": "And what if undead show up there?! have they considered it?!",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -57,8 +57,8 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Eda sem byl povolanej s par straznyma.
-Oni problem s nemrtvyma nemaji, takze byli poslani sem.",
+    "DialogText": "Ramshorne was one of the first garrisons to answer the call for help!
+They are covered behind mountains so the left the city and marched here.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -75,7 +75,7 @@ Oni problem s nemrtvyma nemaji, takze byli poslani sem.",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1554312868045L,
+        "TimePast": 1591208380830L,
         "Time": 0L,
         "Subject": ""
     }

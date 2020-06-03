@@ -37,12 +37,12 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "A, takze jste konecne vzhuru!
-Asi vas zajima, co se vlastne stalo, ze?
+    "DialogText": "Ah, so you are awake!
+I believe you wonder what happened, right?
 
-Nejlepe vam to asi vysvetli mistni lovec.
-To on vas sem dovlekl.
-Sedi hned tamhle kousek od baru.",
+Well best thing will be if you ask local Hunter.
+He dragged you here.
+He sits right there behind the table.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -59,7 +59,7 @@ Sedi hned tamhle kousek od baru.",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1549211944869L,
+        "TimePast": 1591203694037L,
         "Time": 0L,
         "Subject": ""
     }

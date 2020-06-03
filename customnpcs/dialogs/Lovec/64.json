@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 65,
-                "Title": "Poustevnici prezili, mam najit ukryt chlapu, co jim to zpusobili a napadlo me zeptat se tebe.",
+                "Title": "Traders survived. Bandits are encamped somewhere in the area. I thought you may know of something?",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,8 +47,8 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Ale, pan hrdina se vratil z pruzkumu!
-Tak copak, mas nejaky novinky?",
+    "DialogText": "Oh let's see mistre hero coming back from the recon!
+So, any news worth telling?",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": 19,
@@ -65,7 +65,7 @@ Tak copak, mas nejaky novinky?",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1548067694017L,
+        "TimePast": 1591205451180L,
         "Time": 0L,
         "Subject": ""
     }

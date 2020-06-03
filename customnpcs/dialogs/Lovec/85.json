@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Diky, napodobne. Jdu se nachystat a sejdeme se tam. Hodne stesi.",
+                "Title": "Likewise. See you there, Hunter.",
                 "DialogColor": 14737632,
                 "OptionType": 0
             }
@@ -47,12 +47,12 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Super!
-Sbalim si veci a vyrazim!
+    "DialogText": "Great!
+I will pack up and will be right there!
 
-Jo, a @p...
+An @p...
 
-Hodne stesti. Tohle bude o hubu.",
+Good luck. This won't be easy to pull off.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -69,7 +69,7 @@ Hodne stesti. Tohle bude o hubu.",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1554312498735L,
+        "TimePast": 1591206962931L,
         "Time": 0L,
         "Subject": ""
     }

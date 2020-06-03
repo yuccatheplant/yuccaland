@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 22,
-                "Title": "Kde ji najdu?",
+                "Title": "Where can I find her?",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,13 +47,15 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Tady ve vesnici zije bylinkarka.
-Dokonce tu ma alchymisticky obchudek, coz u vesnic nasi velikosti nebyva moc casta vec.
+    "DialogText": "There is alchemist in this shithole of a settlement.
+There is even alchemist shop, which is not common in villages of our size.
 
-Mistni ji nemaji moc v lasce, ale ja osobne proti ni nic nemam. Obcas k ni zaskocim pro masticku na odreniny, nebo neco proti \"viroze\", kdyz to prezenu v hostinci, a prohodim par slov.
-Ona sama pro tebe pripravovala medicinu kdyz jsi byl v limbu.
+Locals do not love her, but I personally have nothing agaiinst her.
+She makes awesome bruise ointment and even some stuff to cure hangover!
+I sometimes chit chat with her when I come around, but she is not much of a talker.
+She actually took care of you when you were dreaming.
 
-Pokud je NEKDO v tehle vesnici schopen ti vratit vzpominky, tak je to ona.",
+I tell you, she is the only one here who will be able to help you or at least advise you properly.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -70,7 +72,7 @@ Pokud je NEKDO v tehle vesnici schopen ti vratit vzpominky, tak je to ona.",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1547411723717L,
+        "TimePast": 1591209527183L,
         "Time": 0L,
         "Subject": ""
     }

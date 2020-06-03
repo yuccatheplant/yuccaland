@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 108,
-                "Title": "Do toho!",
+                "Title": "Cheers!",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 109,
-                "Title": "Omlouvam se, uz musim jit.",
+                "Title": "I am sorry. I must go.",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -57,9 +57,9 @@
     "DialogCommand": "/effect @dp minecraft:nausea 60",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Na zdravi!
+    "DialogText": "Cheers!
 
-Dame jeste jednu?",
+One more?",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -76,7 +76,7 @@ Dame jeste jednu?",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1554236122564L,
+        "TimePast": 1591207132132L,
         "Time": 0L,
         "Subject": ""
     }

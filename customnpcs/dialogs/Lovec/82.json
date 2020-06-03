@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 83,
-                "Title": "Posila mne Eda. Banditi jsou na hrade a my budeme utocit. Mas to tu zatim na starost.",
+                "Title": "Eda sent me. Bandits are in the old castle and we are going to attack. You are in charge now.",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,8 +47,8 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Nejakej hubatej v posledni dobe.
-Co mas na srdci?",
+    "DialogText": "Oh no you fucking didn't!
+So, what do you need?",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -65,7 +65,7 @@ Co mas na srdci?",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1552590944146L,
+        "TimePast": 1591206655079L,
         "Time": 0L,
         "Subject": ""
     }

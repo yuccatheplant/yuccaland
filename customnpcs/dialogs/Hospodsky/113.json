@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 114,
-                "Title": "Je tu ubytovan nekdo jmenem Angela?",
+                "Title": "Is there accomodated someone named Angela?",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Dobre, dekuji.",
+                "Title": "Alright thanks.",
                 "DialogColor": 14737632,
                 "OptionType": 0
             }
@@ -57,9 +57,8 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Vitejte v nasem hostinci.
-
-Objednavky smerujte k nasi senkyrce.",
+    "DialogText": "Welcome in our tavern.
+Your requests place on our wench, please.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -76,7 +75,7 @@ Objednavky smerujte k nasi senkyrce.",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1549212008518L,
+        "TimePast": 1591203582594L,
         "Time": 0L,
         "Subject": ""
     }

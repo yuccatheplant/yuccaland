@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Musim jit. Opatruj se.",
+                "Title": "I have to go now. Take care of yourself.",
                 "DialogColor": 14737632,
                 "OptionType": 0
             }
@@ -47,7 +47,8 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Ja si tim tak jistej zrovna nejsem, @p...",
+    "DialogText": "I am not that sure, @p.
+But whatever you say.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -64,7 +65,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1554911996424L,
+        "TimePast": 1591206187130L,
         "Time": 0L,
         "Subject": ""
     }

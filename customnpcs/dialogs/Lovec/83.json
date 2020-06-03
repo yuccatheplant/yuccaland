@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 84,
-                "Title": "Reknu to takhle. Nejsem za tebe zodpovedny, takze si klidne jdi.",
+                "Title": "Calm your horses! I have no authority over you, so do whatever you want I guess.",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,17 +47,18 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Utocit?
-Na hrad?
-Beze mne?!
+    "DialogText": "Attack?
+Castle?
+WITHOUT ME?!
 
-Tak to ne, mladej!
-Pri dobyvani hradu je potreba palebna sila, a tu ja jako lovec mam!
-Urcite ocenite moji presnost a rychlost a behem utoku budete moc radi, ze vam budu kryt zada.
-Zadne takove, jdu s vama, at se to Edovi libi, nebo ne!
-Staresina se o to postara sam. Vypada krehce, ale je schopnejsi, nez vypada.
-Takze jdu s vama, rozumeno? Nemuzes mi to rozmluvit! Ani  to radsi nezkousej!
-Protoze ja proste pujdu a basta!",
+Nah, I don't think so!
+You will need some covering fire. And that is somehting I can provide!
+So you will gladly accept my help during retaking of that cursed piece of rock.
+And I don't care what Eda said me to do.
+The old man will keep this place together with no problem at all.
+So I am going with you. Do not even try to start argument, because I do not give a fuck.
+I go with you no matter what you say.
+And that is fact!",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -74,7 +75,7 @@ Protoze ja proste pujdu a basta!",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1549394430052L,
+        "TimePast": 1591206834280L,
         "Time": 0L,
         "Subject": ""
     }

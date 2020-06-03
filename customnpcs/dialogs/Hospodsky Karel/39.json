@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 40,
-                "Title": "Doslechl jsem se, zes financoval moje osetreni. Muzu se ti nejak odvdecit?",
+                "Title": "I have heard that you are the one who paid for my restoration. Do you need any help?",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,9 +47,8 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Vitejte v nasem hostinci.
-
-Objednavky smerujte k nasi senkyrce.",
+    "DialogText": "Welcome to our tavern.
+All requests direct to our wench.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -66,7 +65,7 @@ Objednavky smerujte k nasi senkyrce.",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1554914881930L,
+        "TimePast": 1591204319929L,
         "Time": 0L,
         "Subject": ""
     }

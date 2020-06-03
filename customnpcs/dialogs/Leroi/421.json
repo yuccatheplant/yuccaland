@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 422,
-                "Title": "Myslim, ze ano.",
+                "Title": "I believe so, yes.",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,7 +47,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Dobra, takze jsme vsichni?",
+    "DialogText": "So, is it all of us here?",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": 75,
@@ -64,7 +64,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1556443118006L,
+        "TimePast": 1591205010681L,
         "Time": 0L,
         "Subject": ""
     }

@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 15,
-                "Title": "Kupodivu ano, jmenuji se @p, ale jinak nemam tuseni kdo, nebo kde jsem.",
+                "Title": "I have a name... @p. But that is all. Only lots of grey...",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,10 +47,11 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Nic si nepamatujes?!
+    "DialogText": "Is this some kind of stupid joke?
+You see, I like jokes, but this is death matter.
 
-Pockej, jak moc si nic nepamatujes?
-Vzpomenes si na svoje jmeno?",
+Unless you are serious...
+Do you remember anything? Name, place of birth? Anything?",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -67,7 +68,7 @@ Vzpomenes si na svoje jmeno?",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1548067705937L,
+        "TimePast": 1591208777480L,
         "Time": 0L,
         "Subject": ""
     }

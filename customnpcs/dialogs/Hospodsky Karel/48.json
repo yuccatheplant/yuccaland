@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Odejit.",
+                "Title": "<Leave>",
                 "DialogColor": 14737632,
                 "OptionType": 0
             }
@@ -47,7 +47,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "<Uvnitr ulu jsi nasel dost medu pro Hospodskeho Karla>",
+    "DialogText": "<Inside the bee hive you found enough honey from Tavernkeeper Carl>",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -64,7 +64,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1547899663317L,
+        "TimePast": 1591204553829L,
         "Time": 0L,
         "Subject": ""
     }

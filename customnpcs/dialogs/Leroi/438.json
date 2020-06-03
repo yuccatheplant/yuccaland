@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 439,
-                "Title": "Muzes se mnou pocitat.",
+                "Title": "On it.",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,12 +47,11 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Ja vim, @p.
-Nastesti jsem poslal posla do Aerilonu a pak se stahl sem.
-Nedlouho pote, co jsme se sem dostali, na nas zautocili.
-Mate tady hezke opevneni. Bez nej bysme byli v pruseru.
-
-@p. Udelej mi laskavost a popadni luk, jdi si k Bernardovi pro sipy a mazej na hradby nam pomoct.",
+    "DialogText": "I know, @p.
+Fortunatelly I sent messenger to Aerilon and then fallen back here.
+Not long after we arrived here, they attacked.
+You have very good fortification here, we would be ended already if it weren't for it.
+@p. I know you are tired, but please, grab a bow, go to Bernard for arrows and man the wall against them.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -69,7 +68,7 @@ Mate tady hezke opevneni. Bez nej bysme byli v pruseru.
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1557077625894L,
+        "TimePast": 1591205251931L,
         "Time": 0L,
         "Subject": ""
     }

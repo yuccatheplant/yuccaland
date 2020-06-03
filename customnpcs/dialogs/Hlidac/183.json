@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 184,
-                "Title": "Nasel jsem vzkaz, vypadl jednomu z tech zlodeju.",
+                "Title": "I have found a message. One of the robbers lost it.",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,7 +47,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Jo, jsem vzhuru! Nespim!",
+    "DialogText": "Yeah yeah I am awake!",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -64,7 +64,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1550068439142L,
+        "TimePast": 1591203179832L,
         "Time": 0L,
         "Subject": ""
     }

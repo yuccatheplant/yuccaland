@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Dobre, uvidime se pak.",
+                "Title": "I will be there. See you around, man.",
                 "DialogColor": 14737632,
                 "OptionType": 0
             }
@@ -47,9 +47,9 @@
     "DialogCommand": "/spawnpoint @dp 2707 63 2521",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Jo, ja vim. 
-
-Hele, sejdeme se na velitelstvi. Chicco s nama chce neco probrat.",
+    "DialogText": "I know what you mean.
+Let's meet at the command tent.
+Chicco wants to talk things over.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -66,7 +66,7 @@ Hele, sejdeme se na velitelstvi. Chicco s nama chce neco probrat.",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1554753955375L,
+        "TimePast": 1591208464530L,
         "Time": 0L,
         "Subject": ""
     }

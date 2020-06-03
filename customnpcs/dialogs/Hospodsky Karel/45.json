@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 41,
-                "Title": "Udelam to.",
+                "Title": "I will do it.",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,9 +47,10 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Nase vesnice ma umistene vceliny zapadne od mlyna, aby nam opilovaly obili.
-Vetsinu medu vezme pekar, ale ja si zamluvil med z jednoho vcelina pro moji specialitku.
-Takze pokud bys byl hodny a dosel pro nej a donesl mi ho?",
+    "DialogText": "Our village has placed bee hives to the west from the mill.
+They help our field to grow.
+Most of our honey is consumed by the baker, but I booked some honey from one of them/
+If you would be so kind and go there to get me the honey?",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -66,7 +67,7 @@ Takze pokud bys byl hodny a dosel pro nej a donesl mi ho?",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1547421873867L,
+        "TimePast": 1591204233331L,
         "Time": 0L,
         "Subject": ""
     }

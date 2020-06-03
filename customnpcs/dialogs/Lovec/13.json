@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 14,
-                "Title": "Omlouvam se, ale nic si nepamatuju...",
+                "Title": "I am sorry. But I do not remember a thing!",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,12 +47,15 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Delas si srandu \"Na jake hore\"?!
+    "DialogText": "Not funny, you know.
+You have to remember! You climbed there!
+Damn! I would remember if I climbed there!
+All my muscles would remember I climbed there!
 
-Vzdyt sis musel pamatovat, kdyz jsi tam lezl!
-
-Sletel jsi dolu jak blesk a nebejt reky, byl bys na placku!
-A nebejt mne, tak ses utopil!",
+You fell down from that cliff right into the river.
+If it wasn't for the river, you would be lying flat on the ground.
+If it wasn't for me, you would have drowned.
+",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -69,7 +72,7 @@ A nebejt mne, tak ses utopil!",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1548067696768L,
+        "TimePast": 1591208695430L,
         "Time": 0L,
         "Subject": ""
     }

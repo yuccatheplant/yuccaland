@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "/fill 2296 60 3436 2296 60 3436 minecraft:redstone_block",
                 "Dialog": -1,
-                "Title": "Dobra.",
+                "Title": "Sure.",
                 "DialogColor": 14737632,
                 "OptionType": 4
             }
@@ -47,7 +47,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Dobra, zacneme tedy.",
+    "DialogText": "We shall begin then?",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -64,7 +64,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1556286118546L,
+        "TimePast": 1591205070081L,
         "Time": 0L,
         "Subject": ""
     }

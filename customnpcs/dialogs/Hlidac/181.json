@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Dobra, jdeme na to.",
+                "Title": "Aye, let's do this.",
                 "DialogColor": 14737632,
                 "OptionType": 0
             }
@@ -47,7 +47,8 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Do haje! Musime se porozhlednout okolo, jestli tu neco nezapomneli!",
+    "DialogText": "Damn it damn it!
+We need to check around for some clues!",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -64,7 +65,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1549819199477L,
+        "TimePast": 1591203473479L,
         "Time": 0L,
         "Subject": ""
     }

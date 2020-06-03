@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 446,
-                "Title": "Urcite.",
+                "Title": "Of course.",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,8 +47,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Dobra.
-Muzes vyridit Kapitanovi, ze jsme to tady zvladli a ze by jsme ocenili nejake posily, pokud muze nejake poslat?",
+    "DialogText": "Would you tell Captain we managed to hold the pass, but need reinforcements if he has any to spare?",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -65,7 +64,7 @@ Muzes vyridit Kapitanovi, ze jsme to tady zvladli a ze by jsme ocenili nejake po
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1557082477923L,
+        "TimePast": 1591204869678L,
         "Time": 0L,
         "Subject": ""
     }

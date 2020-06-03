@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 378,
-                "Title": "Naprosto.",
+                "Title": "Absolutely.",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,7 +47,8 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Jses si tim jistej?!",
+    "DialogText": "Wha-
+Are you absolutelly sure?!",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -64,7 +65,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1554312664137L,
+        "TimePast": 1591207797580L,
         "Time": 0L,
         "Subject": ""
     }

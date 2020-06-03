@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 444,
-                "Title": "Ano, vypada to, ze ustupuji.",
+                "Title": "It seems that they are retreating.",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,8 +47,8 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Dobra prace, @p!
-Odrazili jsme je!",
+    "DialogText": "Good job, @p!
+We reppeled them!",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": 80,
@@ -65,7 +65,7 @@ Odrazili jsme je!",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1557082839673L,
+        "TimePast": 1591204795530L,
         "Time": 0L,
         "Subject": ""
     }

@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 373,
-                "Title": "Jo...",
+                "Title": "I know everything, Hunter. I have been instructed.",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,7 +47,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Aha, no, tak jak vidis, je to pekne v riti.",
+    "DialogText": "The undead attacked Northast, man! Out of nowhere!",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -64,7 +64,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1554312545336L,
+        "TimePast": 1591207293832L,
         "Time": 0L,
         "Subject": ""
     }

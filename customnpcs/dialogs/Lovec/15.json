@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 16,
-                "Title": "Promin ohledne toho luku.",
+                "Title": "Well, I am glad you value human life more than a favourite weapon.",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,19 +47,14 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Tak to me poser!
-Mno, vzhledem k rane, kterou jsi dostal do hlavy pri tom padu se moc nedivim.
+    "DialogText": "You are not fucking with me?!
+Well since you fell  from that height, I suppose something could happen to you...
+So let me tell my part of the story.
 
-Tak ja ti objasnim jednu dve veci z me strany.
-
-
-Priblizne pred dvema dny jsem lovil v udoli na vychod odsud, za starym hradem.
-Behem lovu zacalo prset, a tak jsem se utaboril kousek po proudu od vodopadu, a najednou jakoby uderil blesk a ja jsem zahledl, jak padas hlavou dolu z hory.
-Spadl jsi do vody a uz ses nevynoril.
-Skocil jsem do vody a vytahl te ven.
-
-Bohuzel jsem pritom ztratil svuj luk a nemohl jsem ho najit potom, co jsem se ujistil, ze zijes.
-Vzal jsem te a odnesl az do nasi vesnice, kde jsi spal dost dlouho v hostinci.",
+Two days ago I was on the hunt. I was stalking a deer in the valley near the river.
+Then heard loud bang. Looked at the direction of it and seen you falling from a cliff right into the river.
+I dropped everything and ran for you. Got you out. You were uncouncious. I dragged you to our village and then waited for you to wake up.
+Be glad I took care of you! I lost my favourite bow because of you!",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -76,7 +71,7 @@ Vzal jsem te a odnesl az do nasi vesnice, kde jsi spal dost dlouho v hostinci.",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1547572483812L,
+        "TimePast": 1591209059480L,
         "Time": 0L,
         "Subject": ""
     }

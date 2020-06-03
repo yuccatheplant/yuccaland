@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Hodne stesti.",
+                "Title": "Good luck.",
                 "DialogColor": 14737632,
                 "OptionType": 0
             }
@@ -47,7 +47,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Uz se docela tesim! Bude to pekna rezba!",
+    "DialogText": "I can't wait! It will be something, I tell you!",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -64,7 +64,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1549394477953L,
+        "TimePast": 1591208484881L,
         "Time": 0L,
         "Subject": ""
     }

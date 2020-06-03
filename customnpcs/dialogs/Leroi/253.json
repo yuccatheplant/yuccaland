@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 254,
-                "Title": "Nasel jsem tve posly.",
+                "Title": "I... I have found those messengers you sent.",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,8 +47,8 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Vypadas hrozne, @p.
-Co se stalo?",
+    "DialogText": "You look terible, @p.
+What happened?",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": 58,
@@ -65,7 +65,7 @@ Co se stalo?",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1556284557793L,
+        "TimePast": 1591204954431L,
         "Time": 0L,
         "Subject": ""
     }

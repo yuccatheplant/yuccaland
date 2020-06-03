@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 107,
-                "Title": "Ne, nevzpomnel, ale Angela ma znameho, ktery by mohl neco vymyslet.",
+                "Title": "No. But Angela has a contact who might help me.",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,8 +47,8 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Jak odjizdis?!
-Vzpomnel sis na neco?",
+    "DialogText": "Are you leaving?
+You remembered something?!",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -65,7 +65,7 @@ Vzpomnel sis na neco?",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1549394444505L,
+        "TimePast": 1591207040729L,
         "Time": 0L,
         "Subject": ""
     }

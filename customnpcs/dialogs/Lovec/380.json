@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 381,
-                "Title": "Ja nevim, jestli je vhodne o tom s nim mluvit, ale na druhou stranu...",
+                "Title": "I do not know if it is good idea to talk with him about it... But you know what?",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,7 +47,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Pockej, coze?!",
+    "DialogText": "Wait what?!",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -64,7 +64,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1554312732688L,
+        "TimePast": 1591207985480L,
         "Time": 0L,
         "Subject": ""
     }

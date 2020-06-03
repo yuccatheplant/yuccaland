@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 106,
-                "Title": "Ano, muzeme. Ale nejdriv vam musim rict, ze odjizdim.",
+                "Title": "Aye, but before that, I need to inform you I will be leaving soon.",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,7 +47,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Takze muzeme zacit?",
+    "DialogText": "So, shall we begin?",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": 26,
@@ -64,7 +64,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1548597116315L,
+        "TimePast": 1591207001379L,
         "Time": 0L,
         "Subject": ""
     }

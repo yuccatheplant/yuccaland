@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Diky, Kajo.",
+                "Title": "Thanks, Carl.",
                 "DialogColor": 14737632,
                 "OptionType": 0
             }
@@ -47,8 +47,8 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Ahoj, @p!
-Tady jsi vzdy vitan!",
+    "DialogText": "Hello, @p!
+You are always welcome here!",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": 11,
     "AvailabilityQuest2Id": 9,
@@ -65,7 +65,7 @@ Tady jsi vzdy vitan!",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1547548265234L,
+        "TimePast": 1591203764730L,
         "Time": 0L,
         "Subject": ""
     }

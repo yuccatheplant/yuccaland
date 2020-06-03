@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Ne, otce, nic nepotrebuji.",
+                "Title": "No, father. I will leave now.",
                 "DialogColor": 14737632,
                 "OptionType": 0
             }
@@ -57,9 +57,9 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Vitej v nasem kostele, synu.
+    "DialogText": "Welcome to our humble church, son.
 
-Mas nejake prani?",
+Is there anything you need?",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -76,7 +76,7 @@ Mas nejake prani?",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1547404566775L,
+        "TimePast": 1591204723480L,
         "Time": 0L,
         "Subject": ""
     }
