@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 201,
-                "Title": "Na sever odsud se utaborila skupina orku. Byli hladovi, a tak vam ukradli cukr.",
+                "Title": "There is orkish stronghold to the north. They were hungry and stole your sugar.",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,7 +47,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Posloucham.",
+    "DialogText": "I am listening.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -64,7 +64,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1554234563515L,
+        "TimePast": 1591189800928L,
         "Time": 0L,
         "Subject": ""
     }

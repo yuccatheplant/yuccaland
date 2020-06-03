@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 457,
-                "Title": "Co se stalo?",
+                "Title": "What?",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -48,7 +48,7 @@
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
     "DialogText": "@p...
-Chicco ma velmi smutnou novinu.",
+Chicco has bad news.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -65,7 +65,7 @@ Chicco ma velmi smutnou novinu.",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1557870979748L,
+        "TimePast": 1591193904626L,
         "Time": 0L,
         "Subject": ""
     }

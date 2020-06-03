@@ -47,7 +47,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Takze se asi nemuzes dockat az se do toho pustime, co?",
+    "DialogText": "So, I believe you can't wait to start. Am I right?",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -64,7 +64,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1549217610440L,
+        "TimePast": 1591191279025L,
         "Time": 0L,
         "Subject": ""
     }

@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 121,
-                "Title": "Udelam to.",
+                "Title": "Will do.",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,11 +47,13 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Ta bourka zpusobila, ze se nam vylilo koryto reky a splachlo cast jednoho domu pryc.
-Nejhorsi ale je, ze pri tom zmizelo dite, ktere v te mistnosti spalo.
+    "DialogText": "That storm caused our belowed river to overflow at one place and the water took part of one house away with it.
+The thing is. There was a child sleeping in that part of the house.
 
-Neni to zadny prcek, ale neni dospely. 
-Chtel bych te pozadat, jestli bys tam nezasel a nepokusil se nejak pomoct.",
+They did not found the child...
+I would like to ask you if you would visit and help them search for him.
+
+",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -68,7 +70,7 @@ Chtel bych te pozadat, jestli bys tam nezasel a nepokusil se nejak pomoct.",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1549217620787L,
+        "TimePast": 1591191541326L,
         "Time": 0L,
         "Subject": ""
     }

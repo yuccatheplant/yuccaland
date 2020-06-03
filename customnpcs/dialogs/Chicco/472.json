@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 473,
-                "Title": "Kapitane. Vypada to, ze nejsme sami, kdo bojuje s nemrtvymi.",
+                "Title": "Captain. I believe we are not alone in our fight with the undead.",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,7 +47,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "@p je zpet! Nejake nove zpravy?",
+    "DialogText": "@p is back! Any news?",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": 88,
@@ -64,7 +64,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1566242775019L,
+        "TimePast": 1591194416124L,
         "Time": 0L,
         "Subject": ""
     }

@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 478,
-                "Title": "Rikate Dandarim?",
+                "Title": "Dandarim? What is it?",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,9 +47,10 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "@p ma pravdu.
-Chicco uskutecnil napad jak ubranit Northast tim ze donutil lordy, aby ukryli civilisty do hradu.
-Potom kdyz Chicco ziskal duveru Vehilskych lordu, pomahal organizovat utok na Dandarim.",
+    "DialogText": "@p is exactly right.
+That is actually the very reason why Chicco is leading this campaign.
+Back then, survivors from Northast scattered all around Northast. Chicco pleaded local Lord to open his fort for refugees to hide them from the horrors of war.
+Right after that, Chicco helped to organise attack on Dandarim.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -66,7 +67,7 @@ Potom kdyz Chicco ziskal duveru Vehilskych lordu, pomahal organizovat utok na Da
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1566242855368L,
+        "TimePast": 1591194835436L,
         "Time": 0L,
         "Subject": ""
     }

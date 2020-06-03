@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 452,
-                "Title": "Do hajzlu!",
+                "Title": "Fuck!",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,8 +47,8 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Mrtvy.
-A nebo neco horsiho.",
+    "DialogText": "Dead.
+Or something far worse than that.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -65,7 +65,7 @@ A nebo neco horsiho.",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1557342588186L,
+        "TimePast": 1591192461625L,
         "Time": 0L,
         "Subject": ""
     }

@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Pracujeme na tom, Kapitane.",
+                "Title": "Working on it, Captain.",
                 "DialogColor": 14737632,
                 "OptionType": 0
             }
@@ -47,7 +47,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Chicco doufa, ze najdete nejake stopy.",
+    "DialogText": "Chicco hopes that @p figures something out soon.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -64,7 +64,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1557343231587L,
+        "TimePast": 1591195935574L,
         "Time": 0L,
         "Subject": ""
     }

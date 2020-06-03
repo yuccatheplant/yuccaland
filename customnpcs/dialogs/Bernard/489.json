@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Ja vim, Bernarde. Diky za pomoc. Uvidime se brzy.",
+                "Title": "I know, Bernard. It is nothing. See you around.",
                 "DialogColor": 14737632,
                 "OptionType": 0
             }
@@ -47,9 +47,9 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Hodne stesti, @p.
-Prosim, nezlob se na me, ze jsem si to nechal pro sebe.
-To, co mi Lovec s Kapitanem Chiccem o ni rekli jsem nevedel a rekl bych vam vse kdyby jste mi to rekli driv.",
+    "DialogText": "Good luck, @p.
+Please, do not be angry with me for keeping it secret before you.
+I did not know the real reason you wanted to obtain these information and if I knew, I would cooperate.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -66,7 +66,7 @@ To, co mi Lovec s Kapitanem Chiccem o ni rekli jsem nevedel a rekl bych vam vse 
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1566242274669L,
+        "TimePast": 1591189539124L,
         "Time": 0L,
         "Subject": ""
     }

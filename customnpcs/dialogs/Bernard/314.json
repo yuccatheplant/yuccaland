@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 315,
-                "Title": "Ano, tady je.",
+                "Title": "Here it is.",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Potreboval bych nakoupit",
+                "Title": "I need to resuply.",
                 "DialogColor": 14737632,
                 "OptionType": 3
             }
@@ -57,7 +57,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Ahoj, @p? Donesl jsi sem tu kost, co o ni Angela mluvila?",
+    "DialogText": "Hello, @p? Angela mentioned something about a bone.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": 66,
@@ -74,7 +74,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1557077990744L,
+        "TimePast": 1591189576877L,
         "Time": 0L,
         "Subject": ""
     }

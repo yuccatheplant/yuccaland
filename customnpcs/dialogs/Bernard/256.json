@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Potreboval bych nakoupit.",
+                "Title": "I need to resuply.",
                 "DialogColor": 14737632,
                 "OptionType": 3
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Ahoj.",
+                "Title": "See you later.",
                 "DialogColor": 14737632,
                 "OptionType": 0
             }
@@ -57,8 +57,8 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Takze... Se nam tu potuluji nemrtvi?
-To nejsou dobre zpravy, @p...",
+    "DialogText": "So... So we have unead on the loose?
+Damn bad news, @p...",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -75,7 +75,7 @@ To nejsou dobre zpravy, @p...",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1552590882895L,
+        "TimePast": 1591188494427L,
         "Time": 0L,
         "Subject": ""
     }

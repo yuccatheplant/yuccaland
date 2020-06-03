@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 200,
-                "Title": "Ano, a mam dobre zpravy.",
+                "Title": "I have good news.",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Potrebuji nakoupit.",
+                "Title": "I need to resuply.",
                 "DialogColor": 14737632,
                 "OptionType": 3
             }
@@ -57,8 +57,8 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Tak ses vratil z pruzkumu?
-Byl tu hlidac a rekl mi, ze pole bylo vykradeno a ty ses vydal hledat lupice.",
+    "DialogText": "So you are back from the recon?
+The sentry returned and told me that the field was raided and you went after them.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": 41,
@@ -75,7 +75,7 @@ Byl tu hlidac a rekl mi, ze pole bylo vykradeno a ty ses vydal hledat lupice.",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1566239011587L,
+        "TimePast": 1591189763826L,
         "Time": 0L,
         "Subject": ""
     }

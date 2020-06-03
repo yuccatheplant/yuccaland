@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 465,
-                "Title": "Ano, a o to jde. V te halucinaci jsem videl nekromancera a Angelu... Po jeho boku.",
+                "Title": "In that coma I had a vision. I have seen Necromancer sitting on a throne... With Angela on his side.",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,9 +47,8 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Ano. A ten neznamy vypil lektvar a byl v bezvedomi.
-
-Ten neznamy je @p.",
+    "DialogText": "Yes and this \"subject\" have consumed potion and was in coma for five days.
+Chicco is not stupid, @p. So what is it about?",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -66,7 +65,7 @@ Ten neznamy je @p.",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1561801709370L,
+        "TimePast": 1591192899775L,
         "Time": 0L,
         "Subject": ""
     }

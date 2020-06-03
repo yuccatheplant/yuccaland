@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 470,
-                "Title": "Dekuji, kapitane.",
+                "Title": "Thank you captain.",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,12 +47,14 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Pokud je stara a opustena, mozna by Chicco vedel, kde takovou vez najit.
-Jedna stara strazni vez se nachazi asi kilometr severozapadne od hlavniho mesta Aramooru.
-Odsud je to priblizne kilometr jihozapadne.
-Pokud @p pujde po ceste do Aramooru, mel by jit udolim primo pod vezi.
-Chicco to @p projistotu vyznaci na mape.
-Ta vez se nachazi kousek pod levym spodnim rohem mapy v teto mistnosti.",
+    "DialogText": "Well, @p mentioned it is at the top of valley, square platform and in the middle of the forest?
+Chicco knows about one abadonned tower that comforts to that description.
+
+It stands about kilometer northwest from Vehil Capital.
+For better orientation, it lies about kilometer southwest from this city.
+If @p will walk towards Vehil Capital by the road, he should see it along the way.
+If @p looks at the map in this room, it should be not far south from left bottom corner of this map.
+",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -69,7 +71,7 @@ Ta vez se nachazi kousek pod levym spodnim rohem mapy v teto mistnosti.",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1561813947444L,
+        "TimePast": 1591193634040L,
         "Time": 0L,
         "Subject": ""
     }

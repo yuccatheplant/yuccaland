@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Rozumim.",
+                "Title": "I... understand.",
                 "DialogColor": 14737632,
                 "OptionType": 0
             }
@@ -47,9 +47,8 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Zustante stat, civilisto.
-
-Kapitan vas tady musi zastavit.",
+    "DialogText": "Halt, civilian!
+Captain does not wish for you to continue.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -66,7 +65,7 @@ Kapitan vas tady musi zastavit.",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1562508142838L,
+        "TimePast": 1591193768478L,
         "Time": 0L,
         "Subject": ""
     }

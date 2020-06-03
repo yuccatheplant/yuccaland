@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "/fill 2709 55 2523 2709 55 2523 minecraft:redstone_block",
                 "Dialog": -1,
-                "Title": "Ano.",
+                "Title": "Yes.",
                 "DialogColor": 14737632,
                 "OptionType": 4
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Jeste ne.",
+                "Title": "Not yet.",
                 "DialogColor": 14737632,
                 "OptionType": 0
             }
@@ -57,7 +57,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "@p? Muze Chicco zacit?",
+    "DialogText": "@p? May Chicco begin?",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": 70,
@@ -74,7 +74,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1557343222731L,
+        "TimePast": 1591194046976L,
         "Time": 0L,
         "Subject": ""
     }

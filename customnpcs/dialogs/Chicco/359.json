@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 360,
-                "Title": "Dekuji, kapitane.",
+                "Title": "Thank you, Captain.",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,8 +47,8 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Ah, Chicco rad vidi, ze jste se vzbudil, @p.
-Chicco slysel o vasem triumfu u Ramshorne a je rad, ze nekdo jako @p nam bude pomahat.",
+    "DialogText": "Chicco is hlad to see @p convious.
+Chicco have heard about @p's triumph at Ramshorne and is glad that someone like @p will help Vehil's cause.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": 68,
@@ -65,7 +65,7 @@ Chicco slysel o vasem triumfu u Ramshorne a je rad, ze nekdo jako @p nam bude po
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1557343229935L,
+        "TimePast": 1591194103278L,
         "Time": 0L,
         "Subject": ""
     }

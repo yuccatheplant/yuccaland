@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 487,
-                "Title": "Kdyz jsem se zminil o tom, ze zna nekromancii, zamluvil jsi to.",
+                "Title": "I mentioned necromancy and you talked it over. Do you know something?",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,11 +47,9 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Angela se objevila v nasi vesnici uplne vycerpana a vyhladovela.
-
-Ubytovali jsme ji u me doma a pecovali o ni dokud se neprobrala.
-
-Pokud me nesali pamet, bylo to priblizne pred ctyrmi lety.",
+    "DialogText": "I found Angela uncouncious in the middle of the forest near Dorthlove.
+She was moved to my house and I took care of here for two full days before she gained her counciousnes.
+It was about... four years ago? If I presume correctly.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -68,7 +66,7 @@ Pokud me nesali pamet, bylo to priblizne pred ctyrmi lety.",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1566241370126L,
+        "TimePast": 1591189073026L,
         "Time": 0L,
         "Subject": ""
     }

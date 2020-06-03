@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 464,
-                "Title": "Angela se v tom deniku zminuje o neznamem, ktery se objevil a nic si nepamatoval.",
+                "Title": "Angela mentions subject that suffers from amnesia.",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,10 +47,10 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "<Cte>
+    "DialogText": "<Reads>
 
 ...
-Chicco predpoklada, ze mi @p vysvetli o co jde.",
+Chicco believes that @p has some explaining to do...",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -67,7 +67,7 @@ Chicco predpoklada, ze mi @p vysvetli o co jde.",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1561801613019L,
+        "TimePast": 1591192816075L,
         "Time": 0L,
         "Subject": ""
     }

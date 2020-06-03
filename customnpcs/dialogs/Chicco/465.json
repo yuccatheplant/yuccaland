@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 466,
-                "Title": "Myslel jsem, ze bude lepsi ji sledovat. Lovec mel vyslechnout Bernarda, ktery ji zna.",
+                "Title": "I hoped to understand what is going on! I had Hunter to get info from Bernard, who knows her well!",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -48,9 +48,9 @@
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
     "DialogText": "@p!
-@p vedel o tom, ze Angela pravdepodobne pracuje pro nepritele?!
-@p Chiccovi nic nerekl!
-Proc @p kapitanu chiccovi nic nerekl?!",
+@p knew that Angela was probably traitor?!
+@p did not said anything to Chicco!
+Why would @p do something so stupid?!",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -67,7 +67,7 @@ Proc @p kapitanu chiccovi nic nerekl?!",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1561801930519L,
+        "TimePast": 1591192992625L,
         "Time": 0L,
         "Subject": ""
     }

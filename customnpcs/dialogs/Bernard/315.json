@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 316,
-                "Title": "O nekromancii toho vi opravdu hodne. Mnohem vic, nez je ochotna priznat.",
+                "Title": "Angela seem to know a lot about necromancy. Much more she is willing to admit.",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,9 +47,8 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Dobre...
-
-Reknu ti, @p, ze tohle je ten nejzvlastnejsi lektvar, jaky jsem kdy pripravoval...",
+    "DialogText": "Good.
+I tell you, @p. This is the stragest potion I ever brewed in my life.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -66,7 +65,7 @@ Reknu ti, @p, ze tohle je ten nejzvlastnejsi lektvar, jaky jsem kdy pripravoval.
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1557077987695L,
+        "TimePast": 1591189632976L,
         "Time": 0L,
         "Subject": ""
     }

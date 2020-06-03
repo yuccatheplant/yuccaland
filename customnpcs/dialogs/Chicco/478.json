@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 479,
-                "Title": "Dandarim je mesto, kde se zhromazdovali nemrtvi aby obsadili Northast.",
+                "Title": "Dandarim is a place where undead kept their numbers before the first attack.",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,16 +47,14 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Ano, Dandarim.
-Trpaslici stahli civilisty do sveho hlavniho mesta a drzeli Dandarim.
-Chicco s vojaky je zahnal pryc a donutil uzavrit chodby z jejih katakomb.
+    "DialogText": "When Vehil regained Northast, Dwarves expected attack so they evacuated civilians to their capital.
+Chicco's tactics enabled Vehil to take control of Dandarim. Dwarves have fallen back, detonating volatile substance inside of the tunnel. Everybody had to evacuate and Dandarim was destroyed.
 
-Pote zacalo vyjednavani a Trpaslici uznali porazku a opustili kontinent.
+After that, Dwarves called truce and soon after that evacuated their cities seeking for new continent to settle on.
+People tried to colonise underground cities, but dwarves left lots of traps and bombs in the tunnels.
+Mountains remains no man's land to this day.
 
-Chicco se vratil do Aramooru a po dobe sluzby si vyslouzil hodnost Kapitana.
-
-Lide se pote snazili kolonizovat trpaslici podzemi, ale Trpaslici jej vyplnili pastmi a hadankami a v trpaslicich podzemnich labyrintech se ztraceli lide.
-Nakonec zustaly hory zemi nikoho, protoze nad zemi neni moc urodno a pod zemi je nebezpecno.",
+Chicco returned to Aramoor and later worked himself to the post of Captain.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -73,7 +71,7 @@ Nakonec zustaly hory zemi nikoho, protoze nad zemi neni moc urodno a pod zemi je
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1566242787918L,
+        "TimePast": 1591195223629L,
         "Time": 0L,
         "Subject": ""
     }

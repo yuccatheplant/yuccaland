@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 482,
-                "Title": "Ne, ale mozna bychom mohli najit vchod pomoci nekoho, kdo se o jejich minulost zajima.",
+                "Title": "Perhaps we could find the entrance with help of someone who studied the subject...",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,8 +47,8 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "A jak s nimi navazeme kontakt?
-Tricet let je nikdo nevidel, natoztak s nimi mluvil.",
+    "DialogText": "But how to contact them?
+Whole thirty years of no clues of their presence...",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -65,7 +65,7 @@ Tricet let je nikdo nevidel, natoztak s nimi mluvil.",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1566242792969L,
+        "TimePast": 1591195615928L,
         "Time": 0L,
         "Subject": ""
     }

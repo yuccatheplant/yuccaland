@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 119,
-                "Title": "...",
+                "Title": "Well, that was kind of unexpected...",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,10 +47,10 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Co to povidam? Samozrejme, ze se tesis! Vidim ti to na ocich!
-Takze, Angela mi popsala dost podrobne tvoje symptomy a...
+    "DialogText": "Of course you can't wait! I can see it in your eyes!
+So, Angela gave me very detailed report of your symptoms and since there are more brains concentraining on the problem...
 
-Nemam tuseni, co se ti vlastne stalo.",
+We do not have a slighthest small shard of idea about how to help you.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -67,7 +67,7 @@ Nemam tuseni, co se ti vlastne stalo.",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1549217355586L,
+        "TimePast": 1591191282225L,
         "Time": 0L,
         "Subject": ""
     }

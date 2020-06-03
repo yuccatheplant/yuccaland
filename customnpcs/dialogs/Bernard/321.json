@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Ehm... Dobre.",
+                "Title": "Ehm... Alright.",
                 "DialogColor": 14737632,
                 "OptionType": 0
             }
@@ -47,7 +47,8 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Vubec nic, ten lektvar uz je hotovy. Muzes jit za Angelou a rict ji, ze se to muze podavat.",
+    "DialogText": "Oh, nothing. Nothing at all.
+The potion is ready. You can go inform Angela about it.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -64,7 +65,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1554234774511L,
+        "TimePast": 1591189696175L,
         "Time": 0L,
         "Subject": ""
     }

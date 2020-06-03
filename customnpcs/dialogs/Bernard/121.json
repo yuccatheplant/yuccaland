@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Jdu na to.",
+                "Title": "I will see what I can do.",
                 "DialogColor": 14737632,
                 "OptionType": 0
             }
@@ -47,8 +47,10 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Dobra. Kdyz pujdes na severni konec vesnice, tak je to posledni nora pred koncem mesta.
-Urcite to neprehlednes, protoze cesta je prorazena rekou.",
+    "DialogText": "Thank you.
+You will find the house at the northen peak of the village.
+It is last burrow before the end of town.
+You can not miss it since the road is destroyed by water there.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -65,7 +67,7 @@ Urcite to neprehlednes, protoze cesta je prorazena rekou.",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1549404401423L,
+        "TimePast": 1591191606227L,
         "Time": 0L,
         "Subject": ""
     }

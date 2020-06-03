@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 485,
-                "Title": "Bernarde? Rad bych mluvil o Angele.",
+                "Title": "Bernard? I need to speak with you about Angela.",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Potreboval bych nakoupit.",
+                "Title": "I need to resuply.",
                 "DialogColor": 14737632,
                 "OptionType": 3
             }
@@ -57,7 +57,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Rad te zase vidim, @p.",
+    "DialogText": "Glad to see you again, @p.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": 89,
@@ -74,7 +74,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1566242269919L,
+        "TimePast": 1591188600280L,
         "Time": 0L,
         "Subject": ""
     }

@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 202,
-                "Title": "Mluvil jsem s jejich nacelnikem. Mrzi ho to, nechtel to udelat. A slibil, ze cukr vrati.",
+                "Title": "I have discussed with their chief about it. They wish no harm and will return the supplies.",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,7 +47,8 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "A v cem je tato zprava dobra?",
+    "DialogText": "I am sorry, @p, but I seem to fail to understand in which way it is good news from our point of view.
+Perhaps you can bring more light to your way of thinking, so we are on the same level of thought?",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -64,7 +65,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1550413303430L,
+        "TimePast": 1591190217627L,
         "Time": 0L,
         "Subject": ""
     }

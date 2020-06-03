@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Nebojte se, Kapitane! Prejte mi stesti.",
+                "Title": "Wish me luck then, Captain.",
                 "DialogColor": 14737632,
                 "OptionType": 0
             }
@@ -47,10 +47,14 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "At @p pocka!
-Je tu Bernard a chce s @p mluvit jeste nez odejde.
+    "DialogText": "Hold on, @p!
+Chicco doesn't like this attitude where you just run around doing anything but helping to fight!
+Chicco will allow it for @p has good arguments. But be warned, @p! Chicco's patience is starting to run low.
+If this thing won't bring ripe fruit soon, Chicco will halt it!
 
-A @p, pospeste si, oblehani brzy skonci.",
+Also. Bernard returned from Ramshorne. Chicco presumes @p wants to speak with him about something, right?
+
+Dismissed.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -67,7 +71,7 @@ A @p, pospeste si, oblehani brzy skonci.",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1562509289037L,
+        "TimePast": 1591195908824L,
         "Time": 0L,
         "Subject": ""
     }

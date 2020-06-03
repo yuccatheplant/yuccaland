@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 453,
-                "Title": "Eda me poslal prekonat hreben a zavolat pomoc. Ted mi dochazi, ze to asi vsechno tusil...",
+                "Title": "Eda sent me to climb the mountainside towards Ramshorne and get help. I see now he knew what will happen...",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,9 +47,8 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Chicco nechce byt necitlivy, ale musi se zeptat.
-
-Jak se @p dostal z tabora?",
+    "DialogText": "Chicco knows it is hard moment for @p...
+But how did @p get out of the mineshaft alive?",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -66,7 +65,7 @@ Jak se @p dostal z tabora?",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1557342597287L,
+        "TimePast": 1591192571628L,
         "Time": 0L,
         "Subject": ""
     }

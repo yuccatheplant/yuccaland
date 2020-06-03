@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Dobra.",
+                "Title": "Alright.",
                 "DialogColor": 14737632,
                 "OptionType": 0
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Potrebuji nakoupit.",
+                "Title": "I need to resuply.",
                 "DialogColor": 14737632,
                 "OptionType": 3
             }
@@ -67,7 +67,8 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Takze ses vratil? Mame nove zpravy. Asi by ti to mela rict Angela a ne ja.",
+    "DialogText": "So you came back? We have news for you.
+Talk with Angela, for it is better if you hear it from her.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": 50,
@@ -84,7 +85,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1566238998775L,
+        "TimePast": 1591190704127L,
         "Time": 0L,
         "Subject": ""
     }

@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 460,
-                "Title": "Na tom nesejde, Kapitane.",
+                "Title": "Doesn't matter, Captain! I have to go now!",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,7 +47,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "@p! Pockejte! Nevime, jestli to neni past!",
+    "DialogText": "@p! Halt! It may be a trap!",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -64,7 +64,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1557871312049L,
+        "TimePast": 1591193999775L,
         "Time": 0L,
         "Subject": ""
     }

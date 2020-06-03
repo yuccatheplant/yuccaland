@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 454,
-                "Title": "Co? Ja nic neslysim.",
+                "Title": "What? I hear nothing.",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,11 +47,10 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Chico ted rozumi.
-
+    "DialogText": "Chicco understands.
 ...
 
-Chicco neco slysi!",
+Chicco hears something!",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -68,7 +67,7 @@ Chicco neco slysi!",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1557342748838L,
+        "TimePast": 1591192607875L,
         "Time": 0L,
         "Subject": ""
     }

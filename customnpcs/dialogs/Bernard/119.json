@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 120,
-                "Title": "No, ano...",
+                "Title": "Not really...",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,13 +47,10 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Chapu, ze jsi necekal neco takoveho...
-Nevypadas zrovna nadsene, ale zatim te muzu uklidnit tim, ze mam napad.
-Potrebuji ale trosku casu na to, abych to uskutecnil.
+    "DialogText": "But worry not! We both are working tirelessly on the problem!
+And since it will take us some time for sure, I would be glad if you could do something in the meantime!
 
-Nastesti je tu pro tebe podle vseho prace!
-
-Urcite si pamatujes tu nehezkou bourku?",
+I am sure you do remember that big crazy storm which came from the east?",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -70,7 +67,7 @@ Urcite si pamatujes tu nehezkou bourku?",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1549217490485L,
+        "TimePast": 1591191382976L,
         "Time": 0L,
         "Subject": ""
     }

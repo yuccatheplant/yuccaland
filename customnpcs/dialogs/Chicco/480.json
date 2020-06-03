@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 481,
-                "Title": "Nevim to jiste, ale myslim, ze trpaslici tam nekde jsou a bojuji s nimi stejne jako my.",
+                "Title": "I found notes on that dwarf. It seems they never left, just went to hiding. And now they fight the undead.",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,7 +47,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "A jak presne @p vi, ze Trpaslici neopustili sve tunely?",
+    "DialogText": "But how does @p know? Ho is he so sure?",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -64,7 +64,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1566242790319L,
+        "TimePast": 1591195452574L,
         "Time": 0L,
         "Subject": ""
     }

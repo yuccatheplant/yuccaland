@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 489,
-                "Title": "Diky, Bernarde. Kdyby sis na neco vzpomnel, nevahej a rekni mi to az se vratim.",
+                "Title": "Thanks, Bernard. If you remember anything, please tell it to me as soon as I return.",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,8 +47,10 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Ptal jsem se ji na to, ale nerekla mi nic, tak jsem se spokojil s tim, ze mela jen bludy.
-Nejakou dobu mi pomahala s alchymii v Dorthlove, a pote si otevrela kramek v Ramshorne pote, co tam mistni bylinkarka umrela.",
+    "DialogText": "I asked her. No I interrogated her, but she was stubborn and told nothing.
+I soon stopped and just assumed she just practiced it and something went bad. So she stopped with it.
+I let her help me with my alchemy shop in Dorthlove.
+Soon after, herbalist in Ramshorne died, so she went there and took over her shop.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -65,7 +67,7 @@ Nejakou dobu mi pomahala s alchymii v Dorthlove, a pote si otevrela kramek v Ram
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1566242870019L,
+        "TimePast": 1591189444926L,
         "Time": 0L,
         "Subject": ""
     }

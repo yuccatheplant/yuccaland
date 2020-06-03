@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 476,
-                "Title": "Nejprve potrebuji ujasnit jednu vec. Co se presne pred 30 lety stalo?",
+                "Title": "Before that. I need to know. What exactly happened 30 years ago?",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,7 +47,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "@p, prosim reknete vic.",
+    "DialogText": "@p better explain.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -64,7 +64,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1566242802469L,
+        "TimePast": 1591194562075L,
         "Time": 0L,
         "Subject": ""
     }

@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 442,
-                "Title": "Potrebuji sipy",
+                "Title": "I need arrows.",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Potrebuji nakoupit.",
+                "Title": "I need to resuply.",
                 "DialogColor": 14737632,
                 "OptionType": 3
             }
@@ -27,7 +27,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "<Odejit>",
+                "Title": "<Leave>",
                 "DialogColor": 14737632,
                 "OptionType": 0
             }
@@ -67,9 +67,8 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "A hele, kdo je tady!
-
-Potrebujes neco?",
+    "DialogText": "Oh look who is here!
+Do you need anything?",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -86,7 +85,7 @@ Potrebujes neco?",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1557078160597L,
+        "TimePast": 1591188531376L,
         "Time": 0L,
         "Subject": ""
     }

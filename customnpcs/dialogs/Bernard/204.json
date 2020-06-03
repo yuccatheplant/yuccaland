@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 205,
-                "Title": "Jdu na to!",
+                "Title": "With pleasure, Bernard.",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,8 +47,9 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "To je skvele, @p! Pokud ti to nevadi, tak se k nim vrat a rekni jim, ze je ocekavame. 
-A vezmi jim i nejake zasoby, at tam zbytecne nehladovi.",
+    "DialogText": "I will notify our head, @p. There will be no problem with this approach.
+I would ask you for a favour, @p. Please, return to them and tell them we will gladly embrace their delegation.
+Also, I would like you to bring them some food as a peace treaty and as evidence of our good will.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -65,7 +66,7 @@ A vezmi jim i nejake zasoby, at tam zbytecne nehladovi.",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1557078002995L,
+        "TimePast": 1591190627076L,
         "Time": 0L,
         "Subject": ""
     }

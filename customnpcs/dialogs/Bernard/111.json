@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Potreboval bych neco koupit.",
+                "Title": "I need to resuply.",
                 "DialogColor": 14737632,
                 "OptionType": 3
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Prisel jsem jenom rict ahoj.",
+                "Title": "I need to go.",
                 "DialogColor": 14737632,
                 "OptionType": 0
             }
@@ -57,9 +57,9 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Zdravicko, @p! 
-At ti chlupy na nohou nikdy nevypadaji! 
-Co si budes prat?",
+    "DialogText": "Howdy, @p!
+May you never lose hair on your feet!
+What do you need friend?",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -76,7 +76,7 @@ Co si budes prat?",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1550938647201L,
+        "TimePast": 1591191708333L,
         "Time": 0L,
         "Subject": ""
     }

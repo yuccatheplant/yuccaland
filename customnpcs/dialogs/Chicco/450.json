@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 451,
-                "Title": "Takze... Eda je...",
+                "Title": "So Eda is...",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,15 +47,13 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Chicco uz chape o co vam jde a nebude vas dale napinat, @p.
+    "DialogText": "You better sit down, @p.
+When the messenger arrived, Chicco took light assault team with him. When we arrived to Lord's Musk's encampment, we seen him just leaving to hold Ramshorne pass.
 
-Kdyz dorazili poslove, Chicco vzal skupinu lehkych pesaku a dorazili jsme k lezeni Lorda Muska ve chvili, kdy se stahoval do Ramshornskeho lezeni.
-
-Chicco a jeho muzi videli jak do tabora vstupuji nemrtvi a vybehli na pomoc.
-Mala skupina zdrzela nas postup a pote se nemrtvi stahli z vnitrku tabora.
-Uvnitr nikdo neprezil, ale Edovo telo jsme nenasli.
-
-Chicco naridil ustup, aby jeho muzi nedopadli stejne jako Edovi.",
+Chicco and his men continued towards the mineshaft and just seen undead to enter it.
+We were too late, @p.
+They are all dead, or much worse.
+Chicco is sorry.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -72,7 +70,7 @@ Chicco naridil ustup, aby jeho muzi nedopadli stejne jako Edovi.",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1557342584089L,
+        "TimePast": 1591192440626L,
         "Time": 0L,
         "Subject": ""
     }

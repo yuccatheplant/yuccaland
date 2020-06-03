@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 117,
-                "Title": "Ehm... Rad te poznavam, Bernarde.",
+                "Title": "Glad to meet you, Bernard.",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,8 +47,8 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Vyborne! Jsem rad, ze vas konecne poznavam!
-Moje jmeno je Bernard Chlupata noha, protoze muj lektvar na rust chlupu je ten nejlepsi v cele hobiti republice!",
+    "DialogText": "Splendid! I am glad to finally meet you!
+My name is Bernard Hairyfoot.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -65,7 +65,7 @@ Moje jmeno je Bernard Chlupata noha, protoze muj lektvar na rust chlupu je ten n
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1549710717863L,
+        "TimePast": 1591191103927L,
         "Time": 0L,
         "Subject": ""
     }

@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 458,
-                "Title": "Angela je mrtva?!",
+                "Title": "Angela is dead?!",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,9 +47,9 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Kdyz @p odbehl pomahat branit mesto, Kapitan poslal Angelu se skupinou straznych do pevnosti do bezpeci.
+    "DialogText": "When @p went to help with the defense, Captain sent Angela with small group of soldiers to the fort.
 
-Ta skupina byla napadena a-",
+That group was ambushed...",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -66,7 +66,7 @@ Ta skupina byla napadena a-",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1557871196653L,
+        "TimePast": 1591193945575L,
         "Time": 0L,
         "Subject": ""
     }

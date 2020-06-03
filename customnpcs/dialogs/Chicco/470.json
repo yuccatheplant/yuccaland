@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Rozumim, kapitane. Hodne stesti.",
+                "Title": "I understand, Captain. Good luck.",
                 "DialogColor": 14737632,
                 "OptionType": 0
             }
@@ -47,11 +47,11 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Az se @p vrati, Chicco uz tu nebude.
+    "DialogText": "@p be better more smart in the future.
 
-Chicco se chysta svolat vsechny sily a oblehnout Northast.
-Odrazenim tohoto utoku armada zahnala nemrtve k uteku.
-Az se @p bude vracet, najde Chicca a ostatni v lezeni u Northastu.",
+Chicco is preparing to take his forces and besiege Northast.
+Vehil army has momentum and Chicco means to use it properly.
+So when @p will return from his recon, he will find Chicco near Northast.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -68,7 +68,7 @@ Az se @p bude vracet, najde Chicca a ostatni v lezeni u Northastu.",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1561814435194L,
+        "TimePast": 1591193736377L,
         "Time": 0L,
         "Subject": ""
     }

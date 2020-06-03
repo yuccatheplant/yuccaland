@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 467,
-                "Title": "Hnal jsem se za nimi, abych se ujistil. Podle stop na miste se Angela branila.",
+                "Title": "I was pursuing them to see the ambush. For what I understood, Angela didn't went willingly.",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,9 +47,8 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Dobra, Chicco chape, ze @p nechtel uskodit, ale tohle se mu vymklo kontrole.
-
-Jestli nekromancerovi slo o Angelu, co s jeji pomoci asi dokaze?",
+    "DialogText": "@p should have told Chicco! Chicco knows @p meant no harm, but @p is just stupid! Plain stupid!
+If necromancer tried to get his hands on Angela, Chicco wonders what he can achieve with her?",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -66,7 +65,7 @@ Jestli nekromancerovi slo o Angelu, co s jeji pomoci asi dokaze?",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1561802047668L,
+        "TimePast": 1591193109628L,
         "Time": 0L,
         "Subject": ""
     }

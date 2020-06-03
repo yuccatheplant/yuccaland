@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 480,
-                "Title": "Nemrtvi to mesto zapecetili, takze se do nej uz neda dostat.",
+                "Title": "Undead sealed the city entrance. It is unreachable at the moment.",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,7 +47,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "To by vysvetlovalo tak velky a silny utok, ktery Northast pravdepodobne obsadil behem nekolika hodin.",
+    "DialogText": "That explains a lot. It cerntainly explains how undead managed to pull such a strong attack that sacked Northast in matter of hours.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -64,7 +64,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1566242783218L,
+        "TimePast": 1591195288975L,
         "Time": 0L,
         "Subject": ""
     }

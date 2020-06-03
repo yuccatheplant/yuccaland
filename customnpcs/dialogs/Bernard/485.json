@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 486,
-                "Title": "Jak dlouho znas Angelu a jak jste se seznamili?",
+                "Title": "How long do you know Angela and how did you get to know each other?",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,13 +47,13 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Ano, ano, ze stejneho duvodu jsem chtel mluvit i ja s tebou.
+    "DialogText": "Aye. We need to talk.
 
-Lovec se mnou mluvil a snazil se ze mne vytahnout nejake informace. 
-Byl ale hodne napadny. Nic jsem mu nerekl, protoze se na to mohl zeptat ji.
-Ale ted se situace jaksi meni.
+Hunter visited me before and tried to get some info about her already.
+He is not much of a talker though. I didn't tell him anything, since he could just ask her instead.
+I guess the situation changed.
 
-Takze se ptej.",
+Ask away.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -70,7 +70,7 @@ Takze se ptej.",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1566240053574L,
+        "TimePast": 1591188707774L,
         "Time": 0L,
         "Subject": ""
     }

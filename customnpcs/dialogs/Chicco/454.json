@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Coze? Utok? Dobre, uz jdu.",
+                "Title": "Attack? I am on my way, Captain!",
                 "DialogColor": 14737632,
                 "OptionType": 0
             }
@@ -48,11 +48,10 @@
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
     "DialogText": "@p!
+Take your gear and move to the northern gate!
+Chicco thinks we are under attack!
 
-Vypada to, ze na severni strane mesta se bojuje.
-Chicco by chtel @p poprosit, aby se zapojil do bitvy.
-
-Chicco zatim posle Angelu s ochrankou do pevnosti nahore.",
+Please, @p must help to defend Aerilon. Chicco will send Angela to the fort in the meantime.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -69,7 +68,7 @@ Chicco zatim posle Angelu s ochrankou do pevnosti nahore.",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1557870727901L,
+        "TimePast": 1591192710224L,
         "Time": 0L,
         "Subject": ""
     }

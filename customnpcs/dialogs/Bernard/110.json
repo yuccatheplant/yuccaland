@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Ano, prosim.",
+                "Title": "Yes, please.",
                 "DialogColor": 14737632,
                 "OptionType": 3
             }
@@ -27,7 +27,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Ne, dekuji. Nashledanou",
+                "Title": "Thank you. Goodbye.",
                 "DialogColor": 14737632,
                 "OptionType": 0
             }
@@ -67,8 +67,9 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Dobry den, dobry pane. 
-Budete si prat koupit neco dobreho?",
+    "DialogText": "Good day, sir.
+Welcome to my humble shop. 
+Browse at your leasure and if you need anything, feel free to ask.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -85,7 +86,7 @@ Budete si prat koupit neco dobreho?",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1549217607636L,
+        "TimePast": 1591190791389L,
         "Time": 0L,
         "Subject": ""
     }

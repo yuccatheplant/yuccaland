@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 483,
-                "Title": "Hmm, ja mozna vim o nekom... Vydrzite chvilicku beze me, Kapitane?",
+                "Title": "I... I may know about someone? I just need to... I need to leave again, Captain.",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,7 +47,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Chicco se obava, ze nikoho takoveho, kdo by byl k zastizeni nezna.",
+    "DialogText": "And Chicco presumes @p knows about somebody who just cracks something nobody in past thirty years managed to do?",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -64,7 +64,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1566242798219L,
+        "TimePast": 1591195724424L,
         "Time": 0L,
         "Subject": ""
     }

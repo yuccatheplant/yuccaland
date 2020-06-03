@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 448,
-                "Title": "Kapitane Chicco.",
+                "Title": "Captain Chicco?",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -64,7 +64,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1557399924980L,
+        "TimePast": 1591191743775L,
         "Time": 0L,
         "Subject": ""
     }

@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 475,
-                "Title": "30 lety. Ano, to je to, co chteli abysme si mysleli.",
+                "Title": "30 years ago! Yes. That is exactly what they wanted us to think.",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,7 +47,8 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Ale vzdyt trpaslici odesli pred...",
+    "DialogText": "But dwarves are gone, @p!
+They left-",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -64,7 +65,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1566242800518L,
+        "TimePast": 1591194512275L,
         "Time": 0L,
         "Subject": ""
     }

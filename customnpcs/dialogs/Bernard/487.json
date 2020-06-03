@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 488,
-                "Title": "Myslis, ze ji neco pronasledovalo cele ty ctyri roky?",
+                "Title": "So she was in hiding for four full years now? Do you think her past catched up on her?",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,12 +47,12 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "O tomhle jsme se nikdy moc nebavili.
-Dozvedel jsem se to nahodou, kdyz jsem si vsiml jedne knihy co mela tehdy u sebe.
+    "DialogText": "I never talked about it with her.
+When I found her, she clutched a book in her hands.
 
-Rekla mi, ze ji praktikovala, ale uz to nikdy vic neudela.
-Predpokladam, ze proto utekla at uz to bylo odkudkoliv.
-Kdyz lezela v horeckach, mela bludy a kricela a prosila, at \"ji nenajde\".",
+I inspected it a little. It was about necromancy.
+She destroyed it as soon as she could.
+She also talked in her sleep. She pleaded for \"somebody\" to \"not find her\".",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -69,7 +69,7 @@ Kdyz lezela v horeckach, mela bludy a kricela a prosila, at \"ji nenajde\".",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1566241593375L,
+        "TimePast": 1591189216579L,
         "Time": 0L,
         "Subject": ""
     }

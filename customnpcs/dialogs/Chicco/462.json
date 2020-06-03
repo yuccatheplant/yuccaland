@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 463,
-                "Title": "Omlouvam se, kapitane. Musim vam neco rict, ale nejprve si prectete tohle.",
+                "Title": "I am sorry, Captain. But I have something you need to see.",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,9 +47,8 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "@p! Co to melo znamenat?!
-
-Uvedomuje si @p ze tim ohrozil svuj zivot pro nic?!",
+    "DialogText": "What was @p thinking?!
+Do @p understands that they risked their life for nothing?!",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": 85,
@@ -66,7 +65,7 @@ Uvedomuje si @p ze tim ohrozil svuj zivot pro nic?!",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1566242771021L,
+        "TimePast": 1591192766823L,
         "Time": 0L,
         "Subject": ""
     }

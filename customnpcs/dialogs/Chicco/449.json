@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 450,
-                "Title": "V tom pripade ocekavam, ze jste poslal zachranny tym!",
+                "Title": "So the backup is on its way, right?!",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -48,7 +48,8 @@
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
     "DialogText": "@p.
-Chicco to vi. Prisli poslove od Lorda Muska a vse nam rekli.",
+Take a breather.
+Chicco knows. Lord Mush sent a messenger and told us everything.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -65,7 +66,7 @@ Chicco to vi. Prisli poslove od Lorda Muska a vse nam rekli.",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1557870723309L,
+        "TimePast": 1591192233640L,
         "Time": 0L,
         "Subject": ""
     }

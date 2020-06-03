@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Diky.",
+                "Title": "Uhh, alright? Later, Captain.",
                 "DialogColor": 14737632,
                 "OptionType": 0
             }
@@ -47,11 +47,9 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Dobra, Chicco se stejne nechce priblizovat.
-Angela pouziva belidlo.
-Chicco nema rad belidlo!
-
-Hodne stesti, @p.",
+    "DialogText": "Good. Chicco does not want to go there anyway.
+Angela is using bleach.
+Chicco hates bleach!",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -68,7 +66,7 @@ Hodne stesti, @p.",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1552595103449L,
+        "TimePast": 1591194333525L,
         "Time": 0L,
         "Subject": ""
     }

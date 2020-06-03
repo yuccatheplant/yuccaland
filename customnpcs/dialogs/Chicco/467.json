@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 468,
-                "Title": "Ve vizi jsem videl vez. Nejakym zpusobem je dulezita.",
+                "Title": "I have seen a tower in the vision. High squarish tower dominating forested valley under it.",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,12 +47,12 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "To ale nedokazuje, ze byla na nasi strane, @p!
+    "DialogText": "Which means nothing at all, @p! Does @p understand how easy is to fake those things?!
+Back to the topic though.
+@p told Chicco that Bernard knows Angela very well.
+Chicco will interrogate him.
 
-@p rikal, ze Bernard ji znal uz z drivejska.
-Chicco ho vyslechne.
-
-Ma @p nejaky plan?",
+Unless @p has some better idea?",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -69,7 +69,7 @@ Ma @p nejaky plan?",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1561813939094L,
+        "TimePast": 1591193264637L,
         "Time": 0L,
         "Subject": ""
     }

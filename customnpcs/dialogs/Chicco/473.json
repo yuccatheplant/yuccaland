@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 474,
-                "Title": "V te vezi jsem nasel trpaslika.",
+                "Title": "I have found a dwarf in that tower!",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,7 +47,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Koho ma @p na mysli?",
+    "DialogText": "Chicco believes that @p has someone specific on his mind?",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -64,7 +64,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1562506263244L,
+        "TimePast": 1591194464626L,
         "Time": 0L,
         "Subject": ""
     }

@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 469,
-                "Title": "Problem je, ze nevim, kde je. Je na upati hrebenu a ma ctvercovy pudoris.",
+                "Title": "The problem is that I do not know where that tower is located.",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,8 +47,8 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "I pres to, ze Chicco je na @p velmi nastvany, pomuze mu.
-@p muze tuto vez vyhledat a prozkoumat.",
+    "DialogText": "So @p just made a huge fuck up and then just pulls something about a tower somewhere far from here?
+But whatever. Chicco gives @p permission to check that tower.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -65,7 +65,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1561813941393L,
+        "TimePast": 1591193359374L,
         "Time": 0L,
         "Subject": ""
     }
