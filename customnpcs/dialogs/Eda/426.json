@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 427,
-                "Title": "Ne. Tyhle kraviny jsem delal pred tydnem.",
+                "Title": "No, I did those things about a week ago...",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,7 +47,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Tys uz podobne kraviny nekdy delal? Takze se uz rozpominas?",
+    "DialogText": "You have done something like that already? So you remember something from your past?",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -64,7 +64,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1556473653051L,
+        "TimePast": 1591201348153L,
         "Time": 0L,
         "Subject": ""
     }

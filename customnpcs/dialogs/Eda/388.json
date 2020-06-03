@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 389,
-                "Title": "Jo, ja taky. Myslis, ze Ramshorne bude napadeno?",
+                "Title": "Aye. Do you really think Ramshorne will be the target?",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,9 +47,8 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "@p! Jsem rad, ze te opet vidim!
-
-I kdyz bych tedy uprednostnil veselejsi duvod k setkani.",
+    "DialogText": "@p! You have no idea how glad I am to see you in one piece.
+I would prefer different reason to meet up though...",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": 70,
@@ -66,7 +65,7 @@ I kdyz bych tedy uprednostnil veselejsi duvod k setkani.",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1554914118584L,
+        "TimePast": 1591200569802L,
         "Time": 0L,
         "Subject": ""
     }

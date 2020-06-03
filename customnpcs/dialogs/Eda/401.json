@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Jdu na to.",
+                "Title": "<Leave>",
                 "DialogColor": 14737632,
                 "OptionType": 0
             }
@@ -47,9 +47,10 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "To jsem si myslel.
+    "DialogText": "That's the spirit!
+Go talk with the Elder. He will know.
 
-Tak bez. My to tu zatim budeme predelavat.",
+Dismissed.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -66,7 +67,7 @@ Tak bez. My to tu zatim budeme predelavat.",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1554914532675L,
+        "TimePast": 1591202812914L,
         "Time": 0L,
         "Subject": ""
     }

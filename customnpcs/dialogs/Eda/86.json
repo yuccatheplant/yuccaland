@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 88,
-                "Title": "Ano, jsem.",
+                "Title": "I am.",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Jeste potrebuji cas.",
+                "Title": "I need more time to prepare.",
                 "DialogColor": 14737632,
                 "OptionType": 0
             }
@@ -57,7 +57,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Jsi pripraven, @p?",
+    "DialogText": "Are you ready, @p?",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -74,7 +74,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1548255475315L,
+        "TimePast": 1591202647498L,
         "Time": 0L,
         "Subject": ""
     }

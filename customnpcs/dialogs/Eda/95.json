@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Hned budu zpatky.",
+                "Title": "I will be right back.",
                 "DialogColor": 14737632,
                 "OptionType": 0
             }
@@ -47,10 +47,10 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Ano, ale nejdriv zajdi za Angelou. 
-Potkal jsem ji, kdyz jsem se vracel a vyridila mi, ze az te uvidim, tak te za ni mam poslat.
+    "DialogText": "Aye! But first, go see Angela.
+I have met here when returning back and she asked for you.
 
-Budeme na tebe cekat v hospode, takze se nezdrzuj dlouho!",
+We will wait for you at the tavern.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -67,7 +67,7 @@ Budeme na tebe cekat v hospode, takze se nezdrzuj dlouho!",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1548594639465L,
+        "TimePast": 1591201540598L,
         "Time": 0L,
         "Subject": ""
     }

@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 55,
-                "Title": "Nasel jsem je a jsou nazivu!",
+                "Title": "I... I have found them! They... they are alive!",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,8 +47,8 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Takze jsi zpatky.
-Nasel jsi neco?",
+    "DialogText": "You are back.
+Anything to report?",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": 16,
@@ -65,7 +65,7 @@ Nasel jsi neco?",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1548067595219L,
+        "TimePast": 1591202006749L,
         "Time": 0L,
         "Subject": ""
     }

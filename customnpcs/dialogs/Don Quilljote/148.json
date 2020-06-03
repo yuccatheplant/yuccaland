@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Prisaham, ze pokud na neco prijdu, tak vam to urcite nezatajim.",
+                "Title": "I swear that if I find something, I will inform you.",
                 "DialogColor": 14737632,
                 "OptionType": 0
             }
@@ -47,8 +47,9 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Tak proc jste sam?
-Ale mne do toho vlastne nic neni. Chci se vas zeptat. Pokud narazite na nejake informace ohledne Trpasliku, reknete nam o tom, prosim.",
+    "DialogText": "So why are you alone?
+Oh, whatever. It is not for me to judge.
+I just want to ask one favour. If you find something out about dwarves, please inform me with all haste.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -65,7 +66,7 @@ Ale mne do toho vlastne nic neni. Chci se vas zeptat. Pokud narazite na nejake i
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1549710621614L,
+        "TimePast": 1591198060451L,
         "Time": 0L,
         "Subject": ""
     }

@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 95,
-                "Title": "Jdeme oslavovat?",
+                "Title": "Celebration is in order I believe.",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,8 +47,9 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "My jsme to dokazali, @p!!!
-Nakopali jsme jim prdel a zvladli jsme to vsichni!",
+    "DialogText": "We did it, @p!
+It worked!
+And what is more, we made it out alive!",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": 24,
@@ -65,7 +66,7 @@ Nakopali jsme jim prdel a zvladli jsme to vsichni!",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1548594634113L,
+        "TimePast": 1591201488352L,
         "Time": 0L,
         "Subject": ""
     }

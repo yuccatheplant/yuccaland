@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 145,
-                "Title": "Takze tu uz zadni trpaslici nejsou?",
+                "Title": "So no dwarves left here?",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,13 +47,13 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Pred pul stoletim se zazehnala krize mezi lidmi a Trpasliky.
+    "DialogText": "Thirty years ago a crisis arose. A war between humans and dwarves.
 
-Puvod teto krize bylo zmizeni velkeho mnozstvi cennych surovin.
-Trpaslici videli v lidech zlodeje, protoze Elfove tyto suroviny nepotrebuji a Hobiti po nich neprahnou.
-Nikdy se neprislo na to, kam suroviny zmizely, nebo kdo je vzal, ale Trpaslici se kvuli tomuto nalodili a odjeli na vychod hledat novy domov.
+They say that this crisis was caused by disapearence of large amount of precious cargo.
+Dwarves accused people of stealing, because elves do not need such things and Hobbits do not care about them.
+Nobody found out where those supplies went, or who took them, but after the conflict there was so much bitterness left, Dwarves build ships and left the continent seeking new home.
 
-Zvlastni pribeh, vid?",
+Strange story, right?",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -70,7 +70,7 @@ Zvlastni pribeh, vid?",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1549709762713L,
+        "TimePast": 1591198749299L,
         "Time": 0L,
         "Subject": ""
     }

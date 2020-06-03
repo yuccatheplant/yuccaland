@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 430,
-                "Title": "Co se deje?",
+                "Title": "What in sweet dreams is going on?!",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -64,7 +64,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1556712251874L,
+        "TimePast": 1591202153897L,
         "Time": 0L,
         "Subject": ""
     }

@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Rad jsem te poznal.",
+                "Title": "Glad to meet you.",
                 "DialogColor": 14737632,
                 "OptionType": 0
             }
@@ -47,7 +47,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Protoze vsechno zapalim! Teda aspon vsecko, co jde zapalit.",
+    "DialogText": "Becouse I set everything on fire. Well everything that burns anyway.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -64,7 +64,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1549709349562L,
+        "TimePast": 1591199105650L,
         "Time": 0L,
         "Subject": ""
     }

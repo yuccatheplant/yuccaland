@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 425,
-                "Title": "Prozkoumat okoli zakladny a nasledne vniknout dovnitr?",
+                "Title": "So I will signal you when to attack?",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,9 +47,11 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Ten tabor je Severozapadne odsud. Presnou pozici najdes, kdyz se podivas na mapu. Ten tabor je presne na vychod od pramene reky tekouci do Ramshorne.
-Chci, aby ses tam porozhledl a nasel vstup dovnitr. My budeme schovani opodal a hned jak te uvidime najit vchod, nebo pokud by ses dostal do pruseru, tak tam pribehneme za tebou.
-Souhlasis?",
+    "DialogText": "That camp is Northwest from here.
+You can see exact location on the map.
+The camp is directly to the east from the spring of the river going around Ramshorne.
+I want you to scout around and find a way in. We will be hiding nearby and when we will see you entering the camp, or gettting to trouble, we will run to help you.
+Do you agree?",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -66,7 +68,7 @@ Souhlasis?",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1556443421801L,
+        "TimePast": 1591201273196L,
         "Time": 0L,
         "Subject": ""
     }

@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 390,
-                "Title": "Takze bysme meli vyrazit co nejdrive.",
+                "Title": "So we should hurry up then.",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,13 +47,11 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Hmmm.
-
-Vlastne to dava nejvetsi smysl.
-Kdyz se nad tim zamyslis, tak je to dalsi logicky krok.
-Nase armada je centralizovana u Aerilonu a cas bezi.
-
-Ramshorne je momentalne s minimalni posadkou, takze ano. Ramshorne bude dalsi cil.",
+    "DialogText": "It makes sense.
+If you think about it.
+Our main army is positioned in Aerilon and time is running.
+Ramshorne has minimal garisson and only thing protecting it is small pass in the mountains.
+Ramshorne will be the next target.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -70,7 +68,7 @@ Ramshorne je momentalne s minimalni posadkou, takze ano. Ramshorne bude dalsi ci
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1554832195468L,
+        "TimePast": 1591200657496L,
         "Time": 0L,
         "Subject": ""
     }

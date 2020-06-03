@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 394,
-                "Title": "Ne, Edo. Bohuzel na to nebyl cas.",
+                "Title": "No, Eda. Nothing at all.",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,11 +47,10 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Diky, tobe taky, brachu.
+    "DialogText": "Thanks, likewise.
 
-Jeste by me zajimalo...
-
-Uz sis na neco rozvzpomenul?",
+Just one more thing.
+Have you remembered anything since the last time?",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -68,7 +67,7 @@ Uz sis na neco rozvzpomenul?",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1554832679819L,
+        "TimePast": 1591200945047L,
         "Time": 0L,
         "Subject": ""
     }

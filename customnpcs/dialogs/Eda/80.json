@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Jdu za lovcem.",
+                "Title": "<Leave>",
                 "DialogColor": 14737632,
                 "OptionType": 0
             }
@@ -47,16 +47,17 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Rozumim, @p.
-Zautocime z jihu, idealne v noci. Sezenu lidi a presuneme se pred brany do hradu.
-Hrad stoji na vysokem svahu, a sice se da vylezt, ale nedoporucuji to.
-Kdyz budes obchazet ten hrad smerem na jihovychod, mel bys narazit na starou cestu. Po ni se vydej nahoru smerem k hradu, a nekde cestou nas tam potkas.
+    "DialogText": "Good.
+We will attack from south. At night. I will get few people together and we will move to the safe distance from castle main gate.
+The castle stands tall on unstable cliff. It can be climbed, but it is pretty dangerous.
+When you walk on the road around the castle, you will notice small path to the top.
+Follow it and  you will find us there waiting for you.
 
-A jeste jedna vec.
-Rekni lovcovi, ze odchazime, at to tady drzi pohromade, nez se vratime.
-Sice neni vojak, ale verim mu vic nez komukoliv jinemu.
+One more thing.
+Tell Hunter we are leaving. He will keep an eye on the village until we return.
+He is not a soldier, but I trust him more than anybody else in this town.
 
-Sejdeme se tam.",
+Dismissed.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -73,7 +74,7 @@ Sejdeme se tam.",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1548067646671L,
+        "TimePast": 1591200516848L,
         "Time": 0L,
         "Subject": ""
     }

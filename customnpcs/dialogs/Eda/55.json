@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 56,
-                "Title": "Jsou v jeskyni na upati hory. Presne na vychod od mista nehody.",
+                "Title": "They are hidden in cavern to the east from the ambush!",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,8 +47,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Jsou nazivu?
-Kde presne jsou?!",
+    "DialogText": "WHERE?!",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -65,7 +64,7 @@ Kde presne jsou?!",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1548255431790L,
+        "TimePast": 1591202035449L,
         "Time": 0L,
         "Subject": ""
     }

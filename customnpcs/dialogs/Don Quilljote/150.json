@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 151,
-                "Title": "Dekuji. Mohl bych se zeptat jakym smerem odsud je Dorthlove?",
+                "Title": "Thank you. May I ask which way from here lies Dorthlove?",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,9 +47,9 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Sakra! Proc to vzdycky musi byt pavouci?!
-Dekujeme za informace. Prosim, vezmete si tento mec jako dar.
-Vyrobil jsem ho sam.",
+    "DialogText": "Damn it! Why it is always spiders?!
+Thank you for your information. Please, take this sword as a token of my thanks.
+I made it myself.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -66,7 +66,7 @@ Vyrobil jsem ho sam.",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1549715117323L,
+        "TimePast": 1591198949347L,
         "Time": 0L,
         "Subject": ""
     }

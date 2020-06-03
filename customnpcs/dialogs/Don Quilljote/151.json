@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Dekuji mockrat. Hodne stesti s vasim patranim a nashledanou.",
+                "Title": "Thank you. I wish you luck with your investigation.",
                 "DialogColor": 14737632,
                 "OptionType": 0
             }
@@ -47,7 +47,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Dorthlove? K Dorthlove se dostanete, pokud pujdete na zapad, ale malicko smerem k jihu. Idealne se drzte pod timhle hrebenem a jdete k zapadu a najdete to.",
+    "DialogText": "Dorthlove lies to the west from here. Just go west and a little to the south. Keep walking along this ridge and you will find it with ease.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -64,7 +64,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1549715309873L,
+        "TimePast": 1591199029698L,
         "Time": 0L,
         "Subject": ""
     }

@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 80,
-                "Title": "No... Pokud nejakym zpusobem nekomunikujou s tim taborem dole, tak ne.",
+                "Title": "Well, I raided their listening post. But they suspended contact with it because of that caravan.",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,16 +47,16 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Do haje, @p!
-Ano, potrebujeme plan!
-A i tak to mozna nezvladneme!
+    "DialogText": "Damn it, @p!
+We need to plan this thoroughly.
+But even then we might not make it!
 
-Takze...
-Bohuzel, co se tyce taktiky, tak jedine, co nam hraje do karet je fakt, ze maji diry v opevneni.
-Jinak prijit se da jen z jedne strany a to je primo po ceste nahoru z jihu. Ta je ale zarostla stromy, takze pokud to primo nehlidaji, tak bychom mohli mit moment prekvapeni.
+So...
+Unfortunatelly our only advantage is that the walls are not intact.
+But it is kind of useless because only way the castle can be approached is via main road.
+If they are not expecting attack, it might be doable though. The path is overgrown so our approach might be covered.
 
-Hmmm...
-Nevis nahodou jestli nepratele vi, ze my vime?",
+Any idea if they know we are coming?",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -73,7 +73,7 @@ Nevis nahodou jestli nepratele vi, ze my vime?",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1554914128744L,
+        "TimePast": 1591200283700L,
         "Time": 0L,
         "Subject": ""
     }

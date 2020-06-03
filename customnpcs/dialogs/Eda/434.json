@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 436,
-                "Title": "Tak mi prej hodne stesti.",
+                "Title": "I am not sure if I am the good choice, Eda.",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,8 +47,9 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Ano, myslim, ze z nas mas nejvetsi sanci se tam dostat.
-Myslim, ze jde vysplhat do urcite vysky po tehle rimse, ktera stoupa vedle me, ale cim vys budes, tim tezsi to bude.",
+    "DialogText": "Yes! Of course I mean it!
+You can climb it and get through! And if not. Noone else can so there is no point trying.
+There is a ledge there. It may be good starting point for the climb.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -65,7 +66,7 @@ Myslim, ze jde vysplhat do urcite vysky po tehle rimse, ktera stoupa vedle me, a
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1556473720450L,
+        "TimePast": 1591202558247L,
         "Time": 0L,
         "Subject": ""
     }

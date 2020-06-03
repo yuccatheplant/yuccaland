@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 433,
-                "Title": "Pres hreben se asi dostat nejde?",
+                "Title": "I guess we just can't climb the mountain?",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,8 +47,8 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Do hajzlu, @p!
-Musime nejak poslat zpravu ven, ze jsme v haji!",
+    "DialogText": "Fuck!
+We need to get a message outside! They need to know we are fucked!",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -65,7 +65,7 @@ Musime nejak poslat zpravu ven, ze jsme v haji!",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1556473391751L,
+        "TimePast": 1591202366397L,
         "Time": 0L,
         "Subject": ""
     }

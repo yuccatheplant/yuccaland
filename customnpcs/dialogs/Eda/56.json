@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Zlomte vaz!",
+                "Title": "Good luck!",
                 "DialogColor": 14737632,
                 "OptionType": 0
             }
@@ -47,14 +47,14 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Ted me dobre poslouchej!
+    "DialogText": "Listen up!
+I will take few men and we will take care of them.
 
-Ja ted vezmu par muzu a dostaneme je do bezpeci.
+You will visit village Elder and tell him everything. He lives right next to the tavern!
 
-Ty mezitim pujdes za staresinou a vsechno mu reknes. Bydli hned vedle hostince, ma oznaceny dum ceduli!
+If all goes well, we will be back in few hours and will talk about it right?
 
-Kdyz vse pujde dobre, do par hodin jsem zpet a pak si promluvime vic, ano?
-Takze bez, nemam cas se zdrzovat o moc dele!",
+Dismissed!",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -71,7 +71,7 @@ Takze bez, nemam cas se zdrzovat o moc dele!",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1547556994729L,
+        "TimePast": 1591202121654L,
         "Time": 0L,
         "Subject": ""
     }

@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 148,
-                "Title": "Ne, dekuji. Svoji skupinu jiz mam.",
+                "Title": "Uhh, no, thanks. I have my group already.",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,10 +47,10 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Chcete se pridat do me druziny?
-Ona to vlastne neni druzina, jen bojove uskupeni...
-I kdyz vlastne bych to spis popsal jen jako skupinu.
-Sice tu mame hodnosti a tak, ale rozhodne to neni nic vetsiho nez jen skupina.",
+    "DialogText": "Do you want to join my guild?
+Well it actually is not a guild, more like team, or combat group...
+Well, we are more like a group than combat group...
+We have ranks here, but that does not really means we are nothing more than a group. Combat group.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -67,7 +67,7 @@ Sice tu mame hodnosti a tak, ale rozhodne to neni nic vetsiho nez jen skupina.",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1549714082525L,
+        "TimePast": 1591197998198L,
         "Time": 0L,
         "Subject": ""
     }

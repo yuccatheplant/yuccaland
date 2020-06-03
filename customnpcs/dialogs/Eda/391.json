@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 392,
-                "Title": "Chapu. jak vas potom najdu?",
+                "Title": "I understand. How do I find you guys?",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,16 +47,15 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "@p. Musime se tam dostat rychle, ale az tam dorazime, musime vybudovat opevneni.
+    "DialogText": "You see, we must get there as soon as posible. But after we get there, we must build forward base in the pass.
 
-Muzeme si vybrat. Budto opevneni, nebo rychlost.
-Ja volim rychlost.
-Ale to neznamena, ze opevneni nebude. To bude tvoje prace.
+We can either choose equipment, or speed.
+I choose speed.
+But it does not mean we will just stand there on the path when our enemy arrives.
 
-Zatimco my vyrazime rychle vpred, ty tu zustanes a vyzvednes nastroje v mistni kovarne.
-Potom vyrazis za nami do prusmyku, kde my uz budeme pripraveni k boji.
+While we will keep pass safe, you will take the tools in local smithy and then you will follow us.
 
-Dorucenim nastroju nam umoznis zacit s budovanim opevneni.",
+As soon as you bring the tools, we will start building the fort.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -73,7 +72,7 @@ Dorucenim nastroju nam umoznis zacit s budovanim opevneni.",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1554832469023L,
+        "TimePast": 1591200836746L,
         "Time": 0L,
         "Subject": ""
     }

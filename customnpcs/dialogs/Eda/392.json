@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 393,
-                "Title": "Myslim, ze rozumim vsemu. Takze hodne stesti.",
+                "Title": "Good luck then.",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,8 +47,8 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Jednoduse.
-Pujdes po ceste do Ramshorne. Budeme urcite nekde v prusmyku a pokud se budes drzet cesty, nemines nas.",
+    "DialogText": "Easily.
+The pass is very narrow in one or two places. We will pick one of those places, so it is impossible for you to reach Ramshorne before meeting with us.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -65,7 +65,7 @@ Pujdes po ceste do Ramshorne. Budeme urcite nekde v prusmyku a pokud se budes dr
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1554832576421L,
+        "TimePast": 1591200904497L,
         "Time": 0L,
         "Subject": ""
     }

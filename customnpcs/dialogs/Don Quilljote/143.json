@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 144,
-                "Title": "Co tu vlastne hledate?",
+                "Title": "What are you looking for actually?",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,10 +47,10 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Rad te poznavam, @p. 
-Ano, elfove ziji daleko odsud, na druhe strane Vehilskeho kralovstvi v hustych hvozdech za velkou bazinou.
-Mozna se tam nekdy podivas. Nase mesta zustavaji vetsine cizincu skryta, ale verim, ze s trochou usili se nekdo jako ty dokaze dostat i k nam.
-",
+    "DialogText": "Glad to know you, @p.
+Yes, elves live far away from here. At the other side of Vehil kingdom to be precise. My people live in rainforests located behind great swamp.
+
+Maybe you will visit them in the future. Our cities are hidden for strangers, but I believe you have the wits in you to be respected enough to gain access.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -67,7 +67,7 @@ Mozna se tam nekdy podivas. Nase mesta zustavaji vetsine cizincu skryta, ale ver
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1549710680413L,
+        "TimePast": 1591198225348L,
         "Time": 0L,
         "Subject": ""
     }

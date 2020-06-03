@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Drzte se.",
+                "Title": "<Nod slowly and leave>",
                 "DialogColor": 14737632,
                 "OptionType": 0
             }
@@ -47,9 +47,11 @@
     "DialogCommand": "/weather rain",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Preju, @p! Ale jestli se rozhodnou zautocit, tak budem potrebovat vsechno stesti, co jen lze mit.
+    "DialogText": "It is an order, @p!
+You will try, do you understand?!
+Go!
 
-Tak uz jdi. A bez posil se nevracej!",
+Dismissed!",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -66,7 +68,7 @@ Tak uz jdi. A bez posil se nevracej!",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1556712257624L,
+        "TimePast": 1591202594597L,
         "Time": 0L,
         "Subject": ""
     }

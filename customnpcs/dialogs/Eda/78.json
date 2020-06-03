@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 79,
-                "Title": "Staresina rekl, ze musime zautocit. Nejdriv ale potrebujeme plan.",
+                "Title": "Elder suggested to plan an attack before they manage to reinforce the place.",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,8 +47,8 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Doprdele!
-A co s tim budeme delat?",
+    "DialogText": "Fuck.
+What do we do now?",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -65,7 +65,7 @@ A co s tim budeme delat?",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1548067594588L,
+        "TimePast": 1591200088247L,
         "Time": 0L,
         "Subject": ""
     }

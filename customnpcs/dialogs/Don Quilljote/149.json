@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 150,
-                "Title": "Jenom pavouky.",
+                "Title": "Just some spiders.",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,7 +47,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Takze. Co jste nasel v te ruine, dobry pane?",
+    "DialogText": "So, What have you found in that ruin, good sir?",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": 30,
@@ -64,7 +64,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1549715339374L,
+        "TimePast": 1591198890550L,
         "Time": 0L,
         "Subject": ""
     }

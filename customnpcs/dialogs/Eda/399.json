@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 400,
-                "Title": "Sem s ni.",
+                "Title": "Fire away.",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,9 +47,8 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Diky, @p.
-
-Muzu te poprosit jeste o jednu laskavost?",
+    "DialogText": "Thank you, @p.
+May I ask you for one more thing?",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -66,7 +65,7 @@ Muzu te poprosit jeste o jednu laskavost?",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1554913971789L,
+        "TimePast": 1591202692246L,
         "Time": 0L,
         "Subject": ""
     }

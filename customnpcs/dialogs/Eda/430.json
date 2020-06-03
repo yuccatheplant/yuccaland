@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 431,
-                "Title": "Takze to byla past.",
+                "Title": "So we fallen into a trap.",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,11 +47,11 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Chvili po tom, co jsme vyrazili za tebou nas obklicili nemrtvi!
-Objevili se odnikud!
+    "DialogText": "Just moments after we followed you, we were surrounded by undead!
+They showed up from nowhere!
 
-Par z nas se sem dostalo, dve skupiny byly zahnany a dost nasich umrelo uprostred.
-Pevnost je obklicena!",
+Few of us got here soon enouugh, but two groups got parted from us.
+The fort is besieged!",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -68,7 +68,7 @@ Pevnost je obklicena!",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1556473268149L,
+        "TimePast": 1591202246546L,
         "Time": 0L,
         "Subject": ""
     }

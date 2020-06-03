@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 78,
-                "Title": "Staresina mne poslal najit tabor banditu. Opevnuji se na starem hrade.",
+                "Title": "The Elder sent me to check for bandit encampment and I found out they are hiding at the castle.",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,7 +47,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "No, tak povidej.",
+    "DialogText": "Spill it out.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -64,7 +64,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1554914108683L,
+        "TimePast": 1591200058097L,
         "Time": 0L,
         "Subject": ""
     }

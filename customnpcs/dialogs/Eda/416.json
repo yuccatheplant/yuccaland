@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 417,
-                "Title": "U Ramshorne?!",
+                "Title": "What? How did they managed to get there?!",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,7 +47,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Pruzkumna skupina nam donesla zpravu, ze narazili na opevneni nemrtvych pod hrebenem k Ramshorne.",
+    "DialogText": "Recon team have bringed disturbing news. There is undead encampment under mountainside to the east from Ramshorne.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -64,7 +64,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1555357782738L,
+        "TimePast": 1591201683198L,
         "Time": 0L,
         "Subject": ""
     }

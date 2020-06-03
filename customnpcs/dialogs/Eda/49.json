@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Vyrazim co nejdriv.",
+                "Title": "<Leave>",
                 "DialogColor": 14737632,
                 "OptionType": 0
             }
@@ -47,22 +47,22 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Takze k veci.
+    "DialogText": "Let's get to the point.
 
-Dnes zrana mela prijet karavana, ale nestalo se tak.
-Vyslali jsme hlidky smerem na jih - odtud mela prijet.
-A karavanu jsme nasli - vykradenou, zadne mrtvoly ani prezivsi nebyli pritomni.
-Na miste jsou stopy krve, takze jsou pravdepodobne mrtvi.
-V teto fazi pruseru uz zbyva jen projit oblast a najit mrtvoly, at tam zbytecne nehnijou.
+Today morning we were expecting supply caravan. But it did not arrived.
+We sent out patrols to see what happened. We found the caravan - raided.
+It was deserted and no bodies around.
+We believe those traders are long time dead, but we need to get their bodies.
 
-Tvoje instrukce jsou:
-- Dojit na misto nehody a prohledat to tam jeste jednou. Ne, ze bysme to uz neudelali, ale mozna te neco napadne.
-- Projit blizke okoli, jestli nenajdes ty mrtve chudaky.
+Your instructions are:
+-Go to the ambush site. It is in those rockies south of here. 
+-Take a walk around there and try to find something.
 
-Pokud te neco napadne, tak to nepodnikej sam a dojdi sem a prodiskutujeme to. Ti chudaci jsou pravdepodobne mrtvi, takze neni kam spechat.
-A hlavne tam nechod neozbrojenej, vezmi si tuhle zbroj a byt tebou, zainvestoval bych do stitu.
+If you figure anything out, do not do anything risky alone. Come to us and tell us what are you planning to do.
+Also. I hope you are not squamish, because there is a lot of blood around.
+And lastly. Do not go there unarmed. Take this armour and if I were you, I would buy a shield.
 
-Tak uz jdi. Ja tu jeste pockam na par dobrovolniku.",
+Dismissed.",
     "AvailabilityQuest4Id": 13,
     "AvailabilityQuest3Id": 11,
     "AvailabilityQuest2Id": 9,
@@ -79,7 +79,7 @@ Tak uz jdi. Ja tu jeste pockam na par dobrovolniku.",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1551119136799L,
+        "TimePast": 1591199935997L,
         "Time": 0L,
         "Subject": ""
     }

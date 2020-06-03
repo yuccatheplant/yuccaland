@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Uvidime se tam.",
+                "Title": "<Leave>",
                 "DialogColor": 14737632,
                 "OptionType": 0
             }
@@ -47,15 +47,14 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Dobre.
-Takze, Muskovo lezeni je na pahorku jizne od Northastu a severne od Aerilonu.
-Na mape je to ta tecka mezi temi vesnicemi.
-Je to dost dobre skryte lezeni, takze nejlepe jde najit tak, ze v udoli pod tim pahorkem je most pres reku.
+    "DialogText": "Good.
+So, Musk's camp lies on the hill to the south of Norhast and north from Aerilon.
+You can see it on the map as a green dot between those cities.
+It is well hidden camp, so your best chance is to check the bridge right under the hill.
 
-Takze Zapadne od mostu do udoli, Severne od Aerilonu a Jizne od Northastu.
+And if I were you, I would not come too close to Northast.
 
-A byt tebou, moc se nepriblizuju k Northastu.
-Takze rozchod. Sejdeme se tam.",
+Dismissed.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -72,7 +71,7 @@ Takze rozchod. Sejdeme se tam.",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1555360009187L,
+        "TimePast": 1591201965597L,
         "Time": 0L,
         "Subject": ""
     }

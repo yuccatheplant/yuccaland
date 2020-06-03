@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 399,
-                "Title": "Nesu ty nastroje.",
+                "Title": "I have the tools.",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,7 +47,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "A, konecne jsi tu, @p!",
+    "DialogText": "Finally here, @p?",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": 72,
@@ -64,7 +64,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1554914166753L,
+        "TimePast": 1591202669200L,
         "Time": 0L,
         "Subject": ""
     }

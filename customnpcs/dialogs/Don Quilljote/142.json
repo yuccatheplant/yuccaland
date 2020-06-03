@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 143,
-                "Title": "Zdravim, ja jsem @p. Elfa jsem tu jeste nevidel.",
+                "Title": "Hello. I am @p. Say, you are the first Elf I have seen around here.",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,7 +47,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Vitej, clovece. Me jmeno je Legoland",
+    "DialogText": "Welcome! My name is Legoland.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -64,7 +64,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1549710673962L,
+        "TimePast": 1591198106299L,
         "Time": 0L,
         "Subject": ""
     }

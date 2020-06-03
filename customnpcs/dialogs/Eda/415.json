@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 416,
-                "Title": "Co se zase deje?",
+                "Title": "What is going on?",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -48,8 +48,8 @@
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
     "DialogText": "@p!
-Diky za ty zasoby.
-Bojim se ale, ze si moc neodpocines.",
+Thank you for those supplies.
+But I worry that you will not rest for long.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": 74,
@@ -66,7 +66,7 @@ Bojim se ale, ze si moc neodpocines.",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1555360012886L,
+        "TimePast": 1591201600298L,
         "Time": 0L,
         "Subject": ""
     }

@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 426,
-                "Title": "Mam tak zhruba tri takove situace uz za sebou, takze, ano. Udelam to.",
+                "Title": "I did something similar like three times already, so I am in.",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,9 +47,8 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Ano, to je v kostce presne to, co jsem ted rekl.
-
-Jdes do toho? Nebo mam poslat nekoho jineho?",
+    "DialogText": "Exactly.
+So do you agree or shall I pick someone else for the job?",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -66,7 +65,7 @@ Jdes do toho? Nebo mam poslat nekoho jineho?",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1556442631150L,
+        "TimePast": 1591201313610L,
         "Time": 0L,
         "Subject": ""
     }

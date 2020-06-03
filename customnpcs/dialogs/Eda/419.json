@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 420,
-                "Title": "Chapu.",
+                "Title": "Understand.",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,9 +47,9 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Prusmyk bude v bezpeci. My budeme postupovat dopredu a z vychodni strany budou hlidat Muskovi muzi a ze zapadu mame hory.
+    "DialogText": "Pass will be safe. We will move forward and eastern side is protected by Musk's patrols and western side is protected by mountains.
 
-Nez zautocime, tak se dohodneme s Muskem na planu postupu, abychom byli synchronizovani.",
+Before we attack, we will discuss our plan with Musk, so we will be synchronized.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -66,7 +66,7 @@ Nez zautocime, tak se dohodneme s Muskem na planu postupu, abychom byli synchron
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1556473655150L,
+        "TimePast": 1591201852446L,
         "Time": 0L,
         "Subject": ""
     }

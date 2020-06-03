@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 418,
-                "Title": "Co budeme delat?",
+                "Title": "What are we going to do?",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,7 +47,9 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Podle vseho se snazi podkopat pod hrebenem a dostat se do Ramshorne.",
+    "DialogText": "Worry not, @p!
+It is from the outter side. Ramshorne is safe for the moment.
+We believe they are trying to make tunnel through the mountain towards Ramshorne.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -64,7 +66,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1555358426932L,
+        "TimePast": 1591201732255L,
         "Time": 0L,
         "Subject": ""
     }

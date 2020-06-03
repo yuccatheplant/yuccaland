@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 401,
-                "Title": "No, porad radsi, nez stavet opevneni...",
+                "Title": "More gladly than to help you build the fortification.",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,11 +47,9 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Nas tabor je zavisly na zasilkach jidla, ktere nam umozni fungovat podle potreby.
-
-Potrebujeme dovezt tyto zasoby z Ramshorne.
-
-Mohl bys tam skocit a donest je?",
+    "DialogText": "Our camp is dependent on supplies of food which allows us work as much as possible.
+We need those supplies from Ramshorne.
+Would you fetch them for us?",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -68,7 +66,7 @@ Mohl bys tam skocit a donest je?",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1554914569578L,
+        "TimePast": 1591202780647L,
         "Time": 0L,
         "Subject": ""
     }

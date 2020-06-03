@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 424,
-                "Title": "Posloucham.",
+                "Title": "I am listening.",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,7 +47,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Takze. Chci jen abys presne vedel, co se ted bude dit.",
+    "DialogText": "So. I want you to know exactly what will happen next.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": 75,
@@ -64,7 +64,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1556443367749L,
+        "TimePast": 1591201001610L,
         "Time": 0L,
         "Subject": ""
     }

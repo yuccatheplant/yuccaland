@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "<Mavnout na pozdrav a odejit>",
+                "Title": "<Wave goodbye and leave>",
                 "DialogColor": 14737632,
                 "OptionType": 0
             }
@@ -47,7 +47,10 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Dobre, tak uz vyraz. Nezapomen zkontrolovat mapu, at presne vis kam jit. Jakmile se dostanes do pruseru, nebo se ti podari dostat se dovnitr, pribehne za tebou polovina posadky se mnou v cele.",
+    "DialogText": "Alright. Now go. Do not forget to discuss your destination with the map so you know where are you going.
+We will watch your back, don't you worry. Those boys did not forget your deeds in Ramshorne, buddy.
+
+Dismissed.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -64,7 +67,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1556443467149L,
+        "TimePast": 1591201455649L,
         "Time": 0L,
         "Subject": ""
     }

@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 419,
-                "Title": "A co prusmyk?",
+                "Title": "What about the pass?",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,7 +47,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Nase skupina se presune k lezeni Lorda Muska. Tam se domluvime co dal.",
+    "DialogText": "Our group will advance towards Musk's encampment and we will talk it over there.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -64,7 +64,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1555359343594L,
+        "TimePast": 1591201777497L,
         "Time": 0L,
         "Subject": ""
     }

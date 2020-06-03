@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 77,
-                "Title": "To je skvele, Edo, ale mame tu komplikace.",
+                "Title": "Glad to hear that, Eda, but we have problem.",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,9 +47,10 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Nazdar, @p!
-Zachranili jsme ty lidi z karavany diky tobe!
-Momentalne jsou v peci Angely.",
+    "DialogText": "Hey, @p!
+We escorted those traders!
+They are alive thanks to you.
+Angela is taking care of them at the moment.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": 21,
@@ -66,7 +67,7 @@ Momentalne jsou v peci Angely.",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1554914116838L,
+        "TimePast": 1591199985146L,
         "Time": 0L,
         "Subject": ""
     }

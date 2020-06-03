@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 391,
-                "Title": "Coze?",
+                "Title": "What?",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,8 +47,8 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Presne tak!
-Ale ty s nami nepojedes.",
+    "DialogText": "Exactly.
+But without you.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -65,7 +65,7 @@ Ale ty s nami nepojedes.",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1554832242223L,
+        "TimePast": 1591200678897L,
         "Time": 0L,
         "Subject": ""
     }

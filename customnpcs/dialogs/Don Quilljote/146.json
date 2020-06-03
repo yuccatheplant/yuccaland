@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 147,
-                "Title": "Dobry den, ja jsem @p.",
+                "Title": "Good day. I am @p.",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,7 +47,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Zdravicko, dobrodruhu! Me jmeno je Don Quilljote de Lamanch!",
+    "DialogText": "Howdy, adventurer! My name is Don Quilljote de Lamanch!",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -64,7 +64,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1549710491461L,
+        "TimePast": 1591197864753L,
         "Time": 0L,
         "Subject": ""
     }

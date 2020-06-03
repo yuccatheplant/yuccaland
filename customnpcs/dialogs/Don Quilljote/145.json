@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Preji vam hodne stesti.",
+                "Title": "I wish you best of luck.",
                 "DialogColor": 14737632,
                 "OptionType": 0
             }
@@ -47,10 +47,11 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Zadni nezustali. Vsichni opustili kontinent uz velmi davno.
-Don Quilljote se snazi vystopovat Trpaslici ruiny a pomoci nich se dostat dovnitr do jejich starych chodeb pod horami na Severovychode.
-Problem je, ze jsou skryte a bez klice nejdou otevrit.
-Proto patrame po jakekoliv stope, ktera by nas priblizila.",
+    "DialogText": "Not a single one.
+All of them left this land long time ago.
+Don Quilljote is trying to uncover dwarven ruins and gain access to their cities uned Great mountains at Northeast part of continent.
+The problem is those tunnels are often booby trapped and dangerous.
+We are trying to find a way to deactivate those traps to make it easier.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -67,7 +68,7 @@ Proto patrame po jakekoliv stope, ktera by nas priblizila.",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1549715298625L,
+        "TimePast": 1591198868509L,
         "Time": 0L,
         "Subject": ""
     }

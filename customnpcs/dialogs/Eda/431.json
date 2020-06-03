@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 432,
-                "Title": "Ne. je slepy.",
+                "Title": "It is blind.",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,11 +47,10 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "A my jsme do ni nakraceli se zavrenyma ocima.
-Kdyby zautocili o chvili pozdeji, nedostal se odsud nikdo.
-
-Vypada to, ze se odsud nemame jak dostat.
-Nevede ten tunel nekam?",
+    "DialogText": "And we just walked into it like the morrons we are.
+If they would attack a few moments later, nobody would get out of here.
+It looks like we have no way to get out of here.
+Unless the tunnel leads somewhere?",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -68,7 +67,7 @@ Nevede ten tunel nekam?",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1556473353252L,
+        "TimePast": 1591202328300L,
         "Time": 0L,
         "Subject": ""
     }

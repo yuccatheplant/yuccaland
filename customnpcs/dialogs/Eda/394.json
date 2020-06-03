@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Jdu na to.",
+                "Title": "<Leave>",
                 "DialogColor": 14737632,
                 "OptionType": 0
             }
@@ -47,9 +47,10 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "...
+    "DialogText": "I am sorry, @p.
+We need to leave now.
 
-Dobre, meli bysme vyrazit.",
+Dismissed.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -66,7 +67,7 @@ Dobre, meli bysme vyrazit.",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1556473692502L,
+        "TimePast": 1591200973097L,
         "Time": 0L,
         "Subject": ""
     }
