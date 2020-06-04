@@ -7,8 +7,12 @@
     ],
     "FactionData": [
         {
-            "Points": 500,
+            "Points": 560,
             "Faction": 2
+        },
+        {
+            "Points": 1000,
+            "Faction": 9
         }
     ],
     "BankData": [
@@ -20,8 +24,70 @@
     "PlayerName": "YuccaThePlant",
     "QuestData": {
         "CompletedQuests": [
+            {
+                "Quest": 1,
+                "Date": 11942320L
+            },
+            {
+                "Quest": 2,
+                "Date": 11942962L
+            },
+            {
+                "Quest": 4,
+                "Date": 11943247L
+            },
+            {
+                "Quest": 5,
+                "Date": 11943313L
+            },
+            {
+                "Quest": 6,
+                "Date": 11943883L
+            },
+            {
+                "Quest": 7,
+                "Date": 11944133L
+            },
+            {
+                "Quest": 8,
+                "Date": 11944282L
+            },
+            {
+                "Quest": 9,
+                "Date": 11947330L
+            },
+            {
+                "Quest": 10,
+                "Date": 11947352L
+            },
+            {
+                "Quest": 11,
+                "Date": 11947370L
+            },
+            {
+                "Quest": 12,
+                "Date": 11944530L
+            },
+            {
+                "Quest": 13,
+                "Date": 11949284L
+            },
+            {
+                "Quest": 14,
+                "Date": 11948454L
+            },
+            {
+                "Quest": 15,
+                "Date": 11949818L
+            }
         ],
         "ActiveQuests": [
+            {
+                "QuestCompleted": 1b,
+                "ExtraData": {
+                },
+                "Quest": 16
+            }
         ]
     },
     "UUID": "124c5df7-77ca-3092-83c0-e947c80dd3fd",
@@ -29,6 +95,99 @@
     "DialogData": [
         {
             "Dialog": 10
+        },
+        {
+            "Dialog": 11
+        },
+        {
+            "Dialog": 12
+        },
+        {
+            "Dialog": 13
+        },
+        {
+            "Dialog": 14
+        },
+        {
+            "Dialog": 15
+        },
+        {
+            "Dialog": 16
+        },
+        {
+            "Dialog": 20
+        },
+        {
+            "Dialog": 21
+        },
+        {
+            "Dialog": 22
+        },
+        {
+            "Dialog": 26
+        },
+        {
+            "Dialog": 27
+        },
+        {
+            "Dialog": 28
+        },
+        {
+            "Dialog": 29
+        },
+        {
+            "Dialog": 30
+        },
+        {
+            "Dialog": 31
+        },
+        {
+            "Dialog": 32
+        },
+        {
+            "Dialog": 33
+        },
+        {
+            "Dialog": 39
+        },
+        {
+            "Dialog": 40
+        },
+        {
+            "Dialog": 41
+        },
+        {
+            "Dialog": 44
+        },
+        {
+            "Dialog": 45
+        },
+        {
+            "Dialog": 46
+        },
+        {
+            "Dialog": 47
+        },
+        {
+            "Dialog": 48
+        },
+        {
+            "Dialog": 49
+        },
+        {
+            "Dialog": 50
+        },
+        {
+            "Dialog": 51
+        },
+        {
+            "Dialog": 54
+        },
+        {
+            "Dialog": 55
+        },
+        {
+            "Dialog": 56
         }
     ]
 }
