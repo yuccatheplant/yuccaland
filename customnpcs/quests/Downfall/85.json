@@ -7,12 +7,12 @@
     "QuestRepeat": 0,
     "QuestCompletion": 1,
     "Title": "64. The tower",
-    "Text": "Kapitan Chicco mne navedl k vezi, kterou jsem videl ve vizi.
-Mela by byt kilometr severozapadne od Aramooru.
-Jde videt z cesty v udoli na severozapad od Aramooru.
-(Souradnice: X=1615 Z=2886)
+    "Text": "Captain Chicco told me about a tower which conforms to my description.
+It should be one kilometer northwest from Aramoor.
+She can be seen from the road from valley northwest from Aramoor.
+(Coords: X=1615 Z=2886)
 
-Mel bych ji jit prozkoumat.",
+I must go there at once!",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -33,7 +33,7 @@ Mel bych ji jit prozkoumat.",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1591383756031L,
+        "TimePast": 1591393665972L,
         "Time": 0L,
         "Subject": ""
     },
@@ -41,8 +41,8 @@ Mel bych ji jit prozkoumat.",
         "NpcMiscInv": [
         ]
     },
-    "CompleteText": "Trpaslik?! Co tady dela trpaslik?
-Mel bych ho prohledat.",
+    "CompleteText": "A dwarf?! What in all thunders a dwarf is doing here?!
+I should inspect him.",
     "NextQuestTitle": "",
     "QuestLocation": "Stara vez"
 }

@@ -6,7 +6,8 @@
     "QuestCompletion": 0,
     "IgnoreNBT": 0b,
     "Title": "28. Droplet of hope",
-    "Text": "Nasel jsem vzkaz. Mel bych si o jejim obsahu promluvit s hlidacem.",
+    "Text": "I have found a message.
+I should discuss its contents with the plantation sentry.",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -27,7 +28,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1591383125178L,
+        "TimePast": 1591391853272L,
         "Time": 0L,
         "Subject": ""
     },
@@ -61,6 +62,6 @@
         ]
     },
     "LeaveItems": 0b,
-    "CompleteText": "Nasel jsem hlidace.",
+    "CompleteText": "Done.",
     "NextQuestTitle": ""
 }

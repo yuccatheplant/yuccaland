@@ -7,8 +7,8 @@
     "QuestRepeat": 0,
     "QuestCompletion": 1,
     "Title": "60. Curiosity killed the cat",
-    "Text": "Kapitan Chicco neco slysel u severni brany.
-Mel bych se tam jit podivat.",
+    "Text": "Captain Chicco has heard something near northern gate.
+I should take a look.",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -29,7 +29,7 @@ Mel bych se tam jit podivat.",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1591383797532L,
+        "TimePast": 1591393355573L,
         "Time": 0L,
         "Subject": ""
     },
@@ -37,7 +37,8 @@ Mel bych se tam jit podivat.",
         "NpcMiscInv": [
         ]
     },
-    "CompleteText": "Aerilon je pod utokem, je potreba jej branit!",
+    "CompleteText": "Aerilon is under attack!
+We must defent it!",
     "NextQuestTitle": "61. Not a step back!",
     "QuestLocation": "Severni brana"
 }

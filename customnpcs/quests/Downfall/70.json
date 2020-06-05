@@ -7,7 +7,7 @@
     "QuestRepeat": 0,
     "QuestCompletion": 0,
     "Title": "50. Equipment",
-    "Text": "Eda mne poslal k Bedovi - mistnimu kovari v Aerilonu, ktery nam ma dodat nastroje potrebne k  vybudovani opevneni v prusmyku.",
+    "Text": "Eda sent me to Beda - local smith in Aerilon. He was instructed to provide us tools, so we can build fortifications in Ramshorne pass.",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -28,7 +28,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1591383458428L,
+        "TimePast": 1591392698074L,
         "Time": 0L,
         "Subject": ""
     },
@@ -66,7 +66,7 @@
             }
         ]
     },
-    "CompleteText": "Nasel jsem kovare.",
+    "CompleteText": "Done.",
     "NextQuestTitle": "",
     "QuestLocation": "Bedova kovarna"
 }

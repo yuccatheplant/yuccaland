@@ -6,7 +6,8 @@
     "QuestCompletion": 0,
     "IgnoreNBT": 0b,
     "Title": "57. Warning",
-    "Text": "Jsme obkliceni v puvodnim tabore nemrtvych. Musim se pokusit vysplhat na horu a dostat se pres hreben do Ramshorne, kde musim varovat mistniho staresinu.",
+    "Text": "We are surrounded and there is no way out!
+Eda instructed me to try to climb over mountainside and get to the other side right to Ramshorne, where I need to speak with village elder.",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -27,7 +28,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1591383607729L,
+        "TimePast": 1591393211527L,
         "Time": 0L,
         "Subject": ""
     },
@@ -61,6 +62,6 @@
         ]
     },
     "LeaveItems": 0b,
-    "CompleteText": "Dostal jsem se do Ramshorne!",
+    "CompleteText": "Done.",
     "NextQuestTitle": ""
 }

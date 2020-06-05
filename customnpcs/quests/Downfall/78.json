@@ -5,9 +5,10 @@
     "QuestRepeat": 0,
     "QuestCompletion": 0,
     "Title": "58. Archery competition",
-    "Text": "Musim se pridat k obrane Ramshorne.
+    "Text": "Ramshorne is under attack!
+I must help Musk's defense.
 
-U Bernarda si mohu vyzvednout sipy.",
+I can get some arrows at Bernard if I run low.",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -34,7 +35,7 @@ U Bernarda si mohu vyzvednout sipy.",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1591383634081L,
+        "TimePast": 1591393249879L,
         "Time": 0L,
         "Subject": ""
     },
@@ -42,6 +43,6 @@ U Bernarda si mohu vyzvednout sipy.",
         "NpcMiscInv": [
         ]
     },
-    "CompleteText": "Odrazili jsme utok!",
+    "CompleteText": "Done.",
     "NextQuestTitle": ""
 }

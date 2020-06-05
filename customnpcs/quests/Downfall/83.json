@@ -7,8 +7,8 @@
     "QuestRepeat": 0,
     "QuestCompletion": 1,
     "Title": "62. Amok",
-    "Text": "Angela byla napadena nekde pobliz hradu nad Aerilonem kdyz byla evakuovana.
-Musim se ujistit, jestli byla skutecne napadena!",
+    "Text": "Angela was ambushed somewhere near Aerilon castle, when she was being evacuated.
+I must know if it really was an ambush!",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -29,7 +29,7 @@ Musim se ujistit, jestli byla skutecne napadena!",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1591383714732L,
+        "TimePast": 1591393432023L,
         "Time": 0L,
         "Subject": ""
     },
@@ -64,6 +64,6 @@ Musim se ujistit, jestli byla skutecne napadena!",
         ]
     },
     "CompleteText": "",
-    "NextQuestTitle": "63. Zavadejici informace",
+    "NextQuestTitle": "63. Misleading information",
     "QuestLocation": "Misto napadeni"
 }

@@ -7,8 +7,8 @@
     "QuestRepeat": 0,
     "QuestCompletion": 1,
     "Title": "38. Dangerous accommodation",
-    "Text": "Tabor je prazdny a je tu spousta krve.
-Musim se tu porozhlednout, poslove urcite nebudou daleko.",
+    "Text": "The camp is empty, but there are traces of blood around!
+I need to investigate.",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -29,7 +29,7 @@ Musim se tu porozhlednout, poslove urcite nebudou daleko.",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1591383268178L,
+        "TimePast": 1591391862772L,
         "Time": 0L,
         "Subject": ""
     },
@@ -38,6 +38,6 @@ Musim se tu porozhlednout, poslove urcite nebudou daleko.",
         ]
     },
     "CompleteText": "",
-    "NextQuestTitle": "39. Takticky ustup",
+    "NextQuestTitle": "39. Tactical retreat",
     "QuestLocation": "2. Posel"
 }

@@ -6,9 +6,8 @@
     "QuestCompletion": 0,
     "IgnoreNBT": 0b,
     "Title": "52. Logistics",
-    "Text": "Byl jsem poslan z Ramshornskeho predsunuteho stanoviste do Ramshorne pro zasoby jidla.
-
-Mel bych se zastavit v hostinci.",
+    "Text": "I was sent from Ramshorne fortifications to Ramshorne for food supplies.
+I should pick them up at local tavern.",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -29,7 +28,7 @@ Mel bych se zastavit v hostinci.",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1591383528782L,
+        "TimePast": 1591392814773L,
         "Time": 0L,
         "Subject": ""
     },
@@ -73,6 +72,6 @@ Mel bych se zastavit v hostinci.",
         ]
     },
     "LeaveItems": 0b,
-    "CompleteText": "Nasel jsem Hospodskeho Karla!",
+    "CompleteText": "Done.",
     "NextQuestTitle": ""
 }

@@ -27,7 +27,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1591383750081L,
+        "TimePast": 1591393520623L,
         "Time": 0L,
         "Subject": ""
     },
@@ -65,5 +65,5 @@
     },
     "LeaveItems": 0b,
     "CompleteText": "",
-    "NextQuestTitle": "65. Mozna posila"
+    "NextQuestTitle": "65. Unexpected reinforcements"
 }

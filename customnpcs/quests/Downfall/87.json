@@ -6,10 +6,10 @@
     "QuestCompletion": 0,
     "IgnoreNBT": 1b,
     "Title": "65. Unexpected reinforcements",
-    "Text": "Trpaslici jsou tady?
-A bojuji proti nemrtvym!
-Musim tuto zpravu dorucit Kapitanovi.
-Kapitan Chicco prave pripravuje oblehani Northastu.",
+    "Text": "Dwarves are here?
+And they are fighting the undead!
+I must deliver the message to Captain!
+Captain is currently besieging Northast.",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -30,7 +30,7 @@ Kapitan Chicco prave pripravuje oblehani Northastu.",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1591383797930L,
+        "TimePast": 1591393724772L,
         "Time": 0L,
         "Subject": ""
     },
@@ -67,6 +67,6 @@ Kapitan Chicco prave pripravuje oblehani Northastu.",
         ]
     },
     "LeaveItems": 0b,
-    "CompleteText": "Musim prodiskutovat se skupinou nove informace.",
+    "CompleteText": "Done.",
     "NextQuestTitle": ""
 }

@@ -7,7 +7,9 @@
     "QuestRepeat": 0,
     "QuestCompletion": 1,
     "Title": "27. Searching for clues",
-    "Text": "Pole bylo vybileno! A ten zatracenej hlidac nic nevidel! Musim se porozhlednout v blizkem okoli, jestli tu neco nezapomneli.",
+    "Text": "The plantation has been raided!
+And that damned sentry was fast asleep!
+I must look in close vicinity if they forgot something.",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -28,7 +30,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1591383059381L,
+        "TimePast": 1591394661922L,
         "Time": 0L,
         "Subject": ""
     },
@@ -56,7 +58,7 @@
             }
         ]
     },
-    "CompleteText": "Nasel jsem knihu!",
-    "NextQuestTitle": "28. To follow the white powder",
+    "CompleteText": "Done.",
+    "NextQuestTitle": "28. Droplet of hope",
     "QuestLocation": "Ztracena kniha"
 }

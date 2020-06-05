@@ -6,8 +6,8 @@
     "QuestCompletion": 0,
     "IgnoreNBT": 0b,
     "Title": "39. Tactical retreat",
-    "Text": "Musim zpatky do Aramooru predat zpravu o tom, co se tady stalo.
-Aramoor je odsud Severozapadnim smerem.",
+    "Text": "I need to get back to Aramoor and tell others about what happened.
+Aramoor lies Northwest from here.",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -28,7 +28,7 @@ Aramoor je odsud Severozapadnim smerem.",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1591383275729L,
+        "TimePast": 1591391757972L,
         "Time": 0L,
         "Subject": ""
     },
@@ -62,6 +62,6 @@ Aramoor je odsud Severozapadnim smerem.",
         ]
     },
     "LeaveItems": 0b,
-    "CompleteText": "Uspesne jsem se vratil do Aramooru.",
+    "CompleteText": "Done.",
     "NextQuestTitle": ""
 }

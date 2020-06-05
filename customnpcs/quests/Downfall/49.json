@@ -6,7 +6,7 @@
     "QuestCompletion": 0,
     "IgnoreNBT": 0b,
     "Title": "35. Heroic return",
-    "Text": "Zalezitost s orky je vyresena. Ted se musim vratit zpet a vysvetlit situaci Bernardovi a Angele.",
+    "Text": "The bussiness with Orcs is managed. Now I must get back to Dorthlove and notify Bernard and Angela.",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -27,7 +27,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1591383210381L,
+        "TimePast": 1591391924073L,
         "Time": 0L,
         "Subject": ""
     },
@@ -51,6 +51,6 @@
         ]
     },
     "LeaveItems": 0b,
-    "CompleteText": "Potkal jsem se s Angelou a Bernardem",
+    "CompleteText": "Done.",
     "NextQuestTitle": ""
 }

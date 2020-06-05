@@ -7,9 +7,10 @@
     "QuestRepeat": 0,
     "QuestCompletion": 1,
     "Title": "32. Unwanted attention",
-    "Text": "Na vychod od tabora orku se rozprostira velke jezero. U nej byla nalezena zmasakrovana skupina orskych uprchliku. Na brehu tohoto jezera byly videny trosky domu.
+    "Text": "To the east from Orc stronghold there is large lake. On one of its shores there was found massacred group of Orc refugees. 
+It is said there is abadonned house nearby.
 
-Mym ukolem je prozkoumat ruiny tohoto domu a pokusit se zjistit, kde se ukryvaji nepratelsti zvedove.",
+I should investigate the house.",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -30,7 +31,7 @@ Mym ukolem je prozkoumat ruiny tohoto domu a pokusit se zjistit, kde se ukryvaji
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1591383171233L,
+        "TimePast": 1591391858373L,
         "Time": 0L,
         "Subject": ""
     },
@@ -39,6 +40,6 @@ Mym ukolem je prozkoumat ruiny tohoto domu a pokusit se zjistit, kde se ukryvaji
         ]
     },
     "CompleteText": "",
-    "NextQuestTitle": "33. Utek z vezeni",
+    "NextQuestTitle": "33. A way out",
     "QuestLocation": "Zniceny dum"
 }

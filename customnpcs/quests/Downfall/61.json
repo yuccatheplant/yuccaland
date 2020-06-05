@@ -5,12 +5,10 @@
     "QuestRepeat": 0,
     "QuestCompletion": 0,
     "IgnoreNBT": 0b,
-    "Title": "42. Mysterious attack",
-    "Text": "Usedlost severne od Aramooru byla napadena!
-
-Mam se tam setkat s Angelou a Kapitanem mestske straze.
-
-Do usedlosti se dostanu, pokud opustim Aramoore cestou vedouci smerek k Severu.",
+    "Title": "42. Another settlement needs help",
+    "Text": "Settlement not far to the north from Aramoor was attacked!
+I am supposed to randevous with Angela and City guard captain.
+I shall get to the settlement by traveling road directly north from Aramoor.",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -31,7 +29,7 @@ Do usedlosti se dostanu, pokud opustim Aramoore cestou vedouci smerek k Severu."
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1591383349981L,
+        "TimePast": 1591394686321L,
         "Time": 0L,
         "Subject": ""
     },
@@ -45,6 +43,6 @@ Do usedlosti se dostanu, pokud opustim Aramoore cestou vedouci smerek k Severu."
         ]
     },
     "LeaveItems": 0b,
-    "CompleteText": "Nasel jsem Kapitana.",
+    "CompleteText": "Done.",
     "NextQuestTitle": ""
 }

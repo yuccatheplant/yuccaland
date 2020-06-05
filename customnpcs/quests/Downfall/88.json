@@ -6,8 +6,8 @@
     "QuestCompletion": 0,
     "IgnoreNBT": 0b,
     "Title": "66. To talk things over",
-    "Text": "Kapitan Chicco me poslal promluvit si s Bernardem.
-Bernard je v tabore u Northastu.",
+    "Text": "Captain Chicco told me that Bernard arrived.
+I must speak with him.",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -28,7 +28,7 @@ Bernard je v tabore u Northastu.",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1591383866579L,
+        "TimePast": 1591393770775L,
         "Time": 0L,
         "Subject": ""
     },
@@ -42,6 +42,6 @@ Bernard je v tabore u Northastu.",
         ]
     },
     "LeaveItems": 0b,
-    "CompleteText": "Je cas si promluvit.",
+    "CompleteText": "Done.",
     "NextQuestTitle": ""
 }

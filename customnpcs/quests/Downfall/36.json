@@ -6,7 +6,8 @@
     "QuestCompletion": 0,
     "IgnoreNBT": 0b,
     "Title": "26. Sweet reward",
-    "Text": "Mym ukolem je koupit cukr od hlidace pole s cukrovou trtinou. Pole se nachazi kousek cesty na sever od Dorthlove.",
+    "Text": "I should buy some suger from sentry at sugar cane plantation.
+The plantation is located not far north from Dorthlove.",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -27,7 +28,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1591382993881L,
+        "TimePast": 1591391851372L,
         "Time": 0L,
         "Subject": ""
     },
@@ -41,6 +42,6 @@
         ]
     },
     "LeaveItems": 0b,
-    "CompleteText": "Nasel jsem hlidace.",
+    "CompleteText": "Done.",
     "NextQuestTitle": ""
 }

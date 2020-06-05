@@ -6,7 +6,7 @@
     "QuestCompletion": 0,
     "IgnoreNBT": 1b,
     "Title": "51. Delivery right home",
-    "Text": "Mym ukolem je najit v prusmyku jihovychodne od Ramshorne posadku Ramshorne a dorucit jim nastroje potrebne k uspesnemu vybudovani opevneni.",
+    "Text": "I am to travel the road towards Ramshorne. I should meet with Eda's group in the pass and deliver him the tools, so we can start building fortifications.",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -27,7 +27,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1591383490229L,
+        "TimePast": 1591392776378L,
         "Time": 0L,
         "Subject": ""
     },
@@ -71,6 +71,6 @@
         ]
     },
     "LeaveItems": 0b,
-    "CompleteText": "Dorucil jsem nastroje Edovi!",
+    "CompleteText": "Done.",
     "NextQuestTitle": ""
 }

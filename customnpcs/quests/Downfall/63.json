@@ -7,9 +7,9 @@
     "QuestRepeat": 0,
     "QuestCompletion": 0,
     "Title": "44. Race with Death",
-    "Text": "Mistni byli uneseni, a my je musime najit, nez budou zmeneni na nemrtve.
-
-Angela me poslala smerem na Zapad, zatimco ona zorganizuje patroly na sever.",
+    "Text": "Locals were kidnapped. We must find them. As soon as possible!
+Angela sent me to check directly to the west from the settlement.
+She will send patrols north.",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -30,7 +30,7 @@ Angela me poslala smerem na Zapad, zatimco ona zorganizuje patroly na sever.",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1591383402482L,
+        "TimePast": 1591394663171L,
         "Time": 0L,
         "Subject": ""
     },
@@ -48,7 +48,7 @@ Angela me poslala smerem na Zapad, zatimco ona zorganizuje patroly na sever.",
             }
         ]
     },
-    "CompleteText": "Muzu predat zpravu Angele.",
+    "CompleteText": "Done.",
     "NextQuestTitle": "",
     "QuestLocation": "Obetiste"
 }

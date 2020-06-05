@@ -7,8 +7,8 @@
     "QuestRepeat": 0,
     "QuestCompletion": 1,
     "Title": "47. High quality trip",
-    "Text": "Mam vypit u Angely (ve vile Lorda Muska) lektvar, ktery mi zpusobi halucinace.
-Behem halucinaci musim dat pozor na to, co se kolem mne deje a snazit se nahlednout do planu nekromanta.",
+    "Text": "Angela should give me potion to drink.
+The drink should cause me some sort of vision in which I shall see what necromancer plans to do.",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -29,7 +29,7 @@ Behem halucinaci musim dat pozor na to, co se kolem mne deje a snazit se nahledn
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1591383436181L,
+        "TimePast": 1591392510124L,
         "Time": 0L,
         "Subject": ""
     },

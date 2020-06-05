@@ -6,7 +6,7 @@
     "QuestCompletion": 0,
     "IgnoreNBT": 1b,
     "Title": "45. Cooking lesson",
-    "Text": "Angela mi rekla, at vezmu kost z nemrtveho a predam ji Bernardovi v Muskove vile.",
+    "Text": "Angela instructed me to bring the bone frome one of the undead and give it to Bernard in city hall of Aramoor.",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -27,7 +27,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1591383417130L,
+        "TimePast": 1591392422175L,
         "Time": 0L,
         "Subject": ""
     },
@@ -51,6 +51,6 @@
         ]
     },
     "LeaveItems": 0b,
-    "CompleteText": "Predal jsem Bernardovi kost.",
+    "CompleteText": "Done.",
     "NextQuestTitle": ""
 }

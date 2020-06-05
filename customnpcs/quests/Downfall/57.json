@@ -6,12 +6,11 @@
     "QuestCompletion": 0,
     "IgnoreNBT": 1b,
     "Title": "40. Alchemist's ingredients",
-    "Text": "Mam natezit Soul sand v jeskyni.
-
-Popis cesty:
-Opust Aramoor zapadnim smerem a jdi po ceste na jih, dokud nenarazis na most pres reku.
-Misto odboceni na most pokracuj po pravem brehu reky do udoli.
-Az narazis na Obsidianove jezirko, je vchod do jeskyne v dohledne vzdalenosti.",
+    "Text": "I need to fetch Soul sand from a cave.
+Directions:
+1. Leave Aramoor by western gate and travel the road south untill it crosses the river.
+2. Do not cross the river, instead turn right and continue along the river.
+3. When you see pond of obsidian, the entrance should be close.",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -32,7 +31,7 @@ Az narazis na Obsidianove jezirko, je vchod do jeskyne v dohledne vzdalenosti.",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1591383306581L,
+        "TimePast": 1591392146975L,
         "Time": 0L,
         "Subject": ""
     },
@@ -82,6 +81,6 @@ Az narazis na Obsidianove jezirko, je vchod do jeskyne v dohledne vzdalenosti.",
         ]
     },
     "LeaveItems": 0b,
-    "CompleteText": "Odevzdal jsem Angele Soul sand.",
+    "CompleteText": "Done.",
     "NextQuestTitle": ""
 }

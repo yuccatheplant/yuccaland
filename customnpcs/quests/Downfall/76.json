@@ -6,7 +6,7 @@
     "QuestCompletion": 0,
     "IgnoreNBT": 0b,
     "Title": "56. Surprise!",
-    "Text": "Musim si nutne promluvit s Edou!",
+    "Text": "I need to speak with Eda!",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -27,7 +27,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1591383597979L,
+        "TimePast": 1591393128021L,
         "Time": 0L,
         "Subject": ""
     },
@@ -41,6 +41,6 @@
         ]
     },
     "LeaveItems": 0b,
-    "CompleteText": "Nasel jsem Edu!",
+    "CompleteText": "Done.",
     "NextQuestTitle": ""
 }

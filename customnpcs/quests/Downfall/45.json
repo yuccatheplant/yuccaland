@@ -5,9 +5,8 @@
     "QuestRepeat": 0,
     "QuestCompletion": 1,
     "Title": "33. A way out",
-    "Text": "Byla to past, a ja do ni vletel primo po hlave!
-Jsem ve vezeni a musim prijit na to, jak odsud zmizet!
-Musim pouzit to, co mam po ruce...",
+    "Text": "I got out of my cell!
+Now I just need to leave this place in one piece...",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -34,7 +33,7 @@ Musim pouzit to, co mam po ruce...",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1591383195031L,
+        "TimePast": 1591391860822L,
         "Time": 0L,
         "Subject": ""
     },
@@ -120,7 +119,6 @@ Musim pouzit to, co mam po ruce...",
             }
         ]
     },
-    "CompleteText": "Nasel jsem klic od brany!
-Nyni odsud mohu odejit.",
-    "NextQuestTitle": "34. Odysea"
+    "CompleteText": "",
+    "NextQuestTitle": "34. Odyssea"
 }

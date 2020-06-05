@@ -7,10 +7,11 @@
     "QuestRepeat": 0,
     "QuestCompletion": 1,
     "Title": "55. Preparing surprise",
-    "Text": "Nemrtvi maji lezeni na upati hrebenu vychodne od pramene reky tekouci skrz Ramshorne.
-Alternativni navigace do tabora je jit na zapad z lezeni Lorda Muska, dokud nedojdu na upati hrebenu, odkud postupovat na sever po vrstevnici.
-Mym ukolem je prozkoumat okoli a najit cestu dovnitr.
-Budu podporen hned po te, co najdu cestu dovnitr, nebo se dostanu do pruseru.",
+    "Text": "Undead have encampment at the foot of mountainside directly east from spring of Ramshorne river.
+I will find it when I travel to the west from Musk's camp until I get to the foot of the mountainside, from where I should travel north and keep my altitude.
+
+My mission is to find a way in to the fortress.
+I will receive reinforcements at the very moment I find a way in, or I get into trouble.",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -31,7 +32,7 @@ Budu podporen hned po te, co najdu cestu dovnitr, nebo se dostanu do pruseru.",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1591383578683L,
+        "TimePast": 1591393113874L,
         "Time": 0L,
         "Subject": ""
     },
@@ -40,6 +41,6 @@ Budu podporen hned po te, co najdu cestu dovnitr, nebo se dostanu do pruseru.",
         ]
     },
     "CompleteText": "",
-    "NextQuestTitle": "56. Prekvapeni!",
+    "NextQuestTitle": "56. Surprise!",
     "QuestLocation": "Tabor nemrtvych u hrebenu"
 }

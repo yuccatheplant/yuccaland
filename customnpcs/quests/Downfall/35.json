@@ -6,7 +6,7 @@
     "QuestCompletion": 0,
     "IgnoreNBT": 0b,
     "Title": "25. Need no more wood!",
-    "Text": "Drevo je pripravene na zpracovani na pile. Musim dorucit Robinovi zpravu, ze se bude brzy opravovat.",
+    "Text": "The wood is ready for manufactory. I should tell Robin that it will be ready soon.",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -27,7 +27,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1591382952328L,
+        "TimePast": 1591388970824L,
         "Time": 0L,
         "Subject": ""
     },
@@ -51,6 +51,6 @@
         ]
     },
     "LeaveItems": 0b,
-    "CompleteText": "Dorucil jsem Robinovi zpravu!",
+    "CompleteText": "Done.",
     "NextQuestTitle": ""
 }

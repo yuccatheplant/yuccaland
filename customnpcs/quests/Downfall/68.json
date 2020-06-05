@@ -6,8 +6,10 @@
     "QuestCompletion": 0,
     "IgnoreNBT": 0b,
     "Title": "48. Conspiration theory",
-    "Text": "To byla Angela! Prisaham, ze na tom trunu sedela Angela!
-Musim si promluvit s lovcem o jeji minulosti a zkusit zjistit co to pujde.",
+    "Text": "It was Angela!
+I swear it was Angela!
+I do not know what to do! Is Angela necromancer too? Is she helping him? What does it mean?!
+I need to speak with Hunter about it.",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -28,7 +30,7 @@ Musim si promluvit s lovcem o jeji minulosti a zkusit zjistit co to pujde.",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1591383444729L,
+        "TimePast": 1591392589275L,
         "Time": 0L,
         "Subject": ""
     },
@@ -42,6 +44,6 @@ Musim si promluvit s lovcem o jeji minulosti a zkusit zjistit co to pujde.",
         ]
     },
     "LeaveItems": 0b,
-    "CompleteText": "Nasel jsem Lovce.",
+    "CompleteText": "Done.",
     "NextQuestTitle": ""
 }

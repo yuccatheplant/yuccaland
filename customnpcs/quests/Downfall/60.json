@@ -6,10 +6,9 @@
     "QuestCompletion": 0,
     "IgnoreNBT": 1b,
     "Title": "41. Colour pallette",
-    "Text": "Angela potrebuje pet kvetu vlciho maku.
-A par kvetu pivonky.
+    "Text": "Angela needs five poppies and few heads of peony.
 
-Na vychode od mesta Aramoore se nachazi oblast, kde se vyskytuji rozsahle variace kvetin.",
+If I travel to the east across the lake from Aramoor, I should find area, where a lot of flowers grow.",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -30,7 +29,7 @@ Na vychode od mesta Aramoore se nachazi oblast, kde se vyskytuji rozsahle variac
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1591383329080L,
+        "TimePast": 1591394683870L,
         "Time": 0L,
         "Subject": ""
     },
@@ -91,6 +90,6 @@ Na vychode od mesta Aramoore se nachazi oblast, kde se vyskytuji rozsahle variac
         ]
     },
     "LeaveItems": 0b,
-    "CompleteText": "Odevzdal jsem vzorky Angele.",
+    "CompleteText": "Done.",
     "NextQuestTitle": ""
 }

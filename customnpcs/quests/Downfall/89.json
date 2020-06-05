@@ -6,9 +6,10 @@
     "QuestCompletion": 0,
     "IgnoreNBT": 0b,
     "Title": "67. Don't ask the wise man, ask the dumb one",
-    "Text": "Abych se o trpaslicich dozvedel vic, mel bych se poptat u Dona Quilljota.
-Potkal jsem ho u Dorthlove, takze to snad bude misto, kde bude prebyvat.
-Mel bych jit po ceste na zapad z Northastu do Dorthlove.",
+    "Text": "I need to find someone who knows something about dwarves.
+That someone might be Don Quilljote.
+Last time I have seen him, he was near Dorthlove, so I should look for him there.
+I should travel western road from Northast directly to Dorthlove (Through old underground tunnel).",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -29,7 +30,7 @@ Mel bych jit po ceste na zapad z Northastu do Dorthlove.",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1591383870430L,
+        "TimePast": 1591393874073L,
         "Time": 0L,
         "Subject": ""
     },
@@ -43,6 +44,6 @@ Mel bych jit po ceste na zapad z Northastu do Dorthlove.",
         ]
     },
     "LeaveItems": 0b,
-    "CompleteText": "Nasel jsem Dona Quilljota!",
+    "CompleteText": "Done.",
     "NextQuestTitle": ""
 }

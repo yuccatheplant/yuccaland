@@ -27,7 +27,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1591383163583L,
+        "TimePast": 1591391857572L,
         "Time": 0L,
         "Subject": ""
     },
@@ -52,5 +52,5 @@
     },
     "LeaveItems": 0b,
     "CompleteText": "",
-    "NextQuestTitle": "32. Nezadana pozornost"
+    "NextQuestTitle": "32. Unwanted attention"
 }

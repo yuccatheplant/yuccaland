@@ -6,7 +6,7 @@
     "QuestCompletion": 0,
     "IgnoreNBT": 1b,
     "Title": "31. Humanitary help",
-    "Text": "Mym ukolem je se vratit do tabora orku se zasobami jidla a dorucit jim zpravu od Hobitu. ",
+    "Text": "I should return to the Orc stronghold and pass them supplies and message from Hobbits.",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -27,7 +27,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1591383154080L,
+        "TimePast": 1591391856529L,
         "Time": 0L,
         "Subject": ""
     },
@@ -61,6 +61,6 @@
         ]
     },
     "LeaveItems": 0b,
-    "CompleteText": "Predal jsem nacelnikovi zasoby.",
+    "CompleteText": "Done.",
     "NextQuestTitle": ""
 }

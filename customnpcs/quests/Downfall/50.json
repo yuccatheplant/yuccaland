@@ -6,10 +6,10 @@
     "QuestCompletion": 0,
     "IgnoreNBT": 0b,
     "Title": "36. The great unknown",
-    "Text": "Angela byla upozornena, ze v hlavnim meste se neco deje.
-Nebylo mi receno, co presne. Ale stejne nemam nic lepsiho na praci nez se tam jit podivat.
+    "Text": "Angela was messaged by her old friend.
+I was not told what is going on, but it seems we are traveling again.
 
-Hlavni mesto Aramoor lezi na vychod od mesta Ramshorne. Na pobrezi velkeho jezera severne od delty, na jiznim pobrezi, ktera vytvari nejvetsi odtok z kontinentu.",
+Aramoor. Capital of Vehil Kingdom lies to the east from Ramshorne. It lies on the shore of lake, from which main river of the continent goes to the ocean to the south.",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -30,7 +30,7 @@ Hlavni mesto Aramoor lezi na vychod od mesta Ramshorne. Na pobrezi velkeho jezer
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1591383232180L,
+        "TimePast": 1591391869625L,
         "Time": 0L,
         "Subject": ""
     },
@@ -44,6 +44,6 @@ Hlavni mesto Aramoor lezi na vychod od mesta Ramshorne. Na pobrezi velkeho jezer
         ]
     },
     "LeaveItems": 0b,
-    "CompleteText": "Nasekl jsem kupce Muska.",
+    "CompleteText": "Done.",
     "NextQuestTitle": ""
 }

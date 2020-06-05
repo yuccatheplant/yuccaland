@@ -6,8 +6,8 @@
     "QuestCompletion": 0,
     "IgnoreNBT": 0b,
     "Title": "63. Misleading information",
-    "Text": "Nasel jsem Angelininy zapisky. Musim se poradit s Kapitanem.
-Mam co vysvetlovat.",
+    "Text": "I have found Angela's notes. I must to check in with Captain.
+I have some explaining to do...",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -28,7 +28,7 @@ Mam co vysvetlovat.",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1591383734029L,
+        "TimePast": 1591393520121L,
         "Time": 0L,
         "Subject": ""
     },
@@ -68,6 +68,6 @@ Mam co vysvetlovat.",
         ]
     },
     "LeaveItems": 1b,
-    "CompleteText": "Nyni je cas vylozit karty na stul.",
+    "CompleteText": "It is time to lay the cards on the table...",
     "NextQuestTitle": ""
 }

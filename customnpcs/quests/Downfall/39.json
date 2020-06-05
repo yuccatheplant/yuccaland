@@ -6,14 +6,14 @@
     "QuestCompletion": 0,
     "IgnoreNBT": 0b,
     "Title": "29. To follow the white trail",
-    "Text": "Cukrova trtina byla ukradena. Lupici po sobe zanechali zpravu s popisem jejich umisteni.
+    "Text": "I need to find location where raiders stored our sugar.
+The instructions:
+1. Head north from Dorthlove.
+2. When nearby cave entrance, head to the tunnel to the far left.
+3. Continue north and stay near the river.
 
-Popis cesty: 
-1. Jit do udoli na sever od vesnice Dorthlove 
-2. az bude videt vstup do jeskyne, vydat se nejlevejsim (Nejzapadnejsim) tunelem 
-3. Pokracovat dal do dalsiho udoli a podel reky na sever
-
-Zlodeji se tvari, ze nemeli na vybranou. Vyplatilo by se zjistit jak moc uprimne to bylo.",
+Raiders seemed to not doing so willingly.
+It might be good idea to check their reasons.",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -34,7 +34,7 @@ Zlodeji se tvari, ze nemeli na vybranou. Vyplatilo by se zjistit jak moc uprimne
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1591383114579L,
+        "TimePast": 1591391853873L,
         "Time": 0L,
         "Subject": ""
     },
@@ -48,6 +48,6 @@ Zlodeji se tvari, ze nemeli na vybranou. Vyplatilo by se zjistit jak moc uprimne
         ]
     },
     "LeaveItems": 0b,
-    "CompleteText": "Nasel jsem pisatele zpravy!",
+    "CompleteText": "Done.",
     "NextQuestTitle": ""
 }

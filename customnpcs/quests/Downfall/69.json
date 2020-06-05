@@ -7,7 +7,7 @@
     "QuestRepeat": 0,
     "QuestCompletion": 0,
     "Title": "49. War council",
-    "Text": "Mam se dostavit do mesta Aerilon do velitelskeho stanoviste na poradu ohledne nadchazejiciho tazeni proti nemrtvym.",
+    "Text": "I am needed at commander's tent in Aerilon to attend meeting about following campaign against undead.",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -28,7 +28,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1591383451181L,
+        "TimePast": 1591392646973L,
         "Time": 0L,
         "Subject": ""
     },
@@ -56,7 +56,7 @@
             }
         ]
     },
-    "CompleteText": "Dorazil jsem na poradu.",
+    "CompleteText": "Done.",
     "NextQuestTitle": "",
     "QuestLocation": "Velitelsky stan"
 }

@@ -6,7 +6,7 @@
     "QuestCompletion": 0,
     "IgnoreNBT": 0b,
     "Title": "46. Cheers and bottoms up!",
-    "Text": "Mam si promluvit s Angelou.",
+    "Text": "I should speek with Angela.",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -27,7 +27,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1591383427437L,
+        "TimePast": 1591392437274L,
         "Time": 0L,
         "Subject": ""
     },
@@ -41,6 +41,6 @@
         ]
     },
     "LeaveItems": 0b,
-    "CompleteText": "Nasel jsem Angelu.",
+    "CompleteText": "Done.",
     "NextQuestTitle": ""
 }

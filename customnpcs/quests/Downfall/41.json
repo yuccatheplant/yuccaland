@@ -27,7 +27,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1591383146881L,
+        "TimePast": 1591391856122L,
         "Time": 0L,
         "Subject": ""
     },
@@ -62,5 +62,5 @@
     },
     "LeaveItems": 0b,
     "CompleteText": "",
-    "NextQuestTitle": "31. Humanitarni pomoc"
+    "NextQuestTitle": "31. Humanitary help"
 }

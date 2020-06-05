@@ -7,10 +7,8 @@
     "QuestRepeat": 0,
     "QuestCompletion": 0,
     "Title": "54. Randevous",
-    "Text": "Kdyz jsem byl v Ramshornu, dorazil posel se zpravou, ze nemrtvi stavi opevneny tabor na vychodni strane horskeho hrebenu u Ramshorne. 
-Nasim ukolem je se presunout do Muskova taboriste mezi Northastem a Aerilonem.
-
-",
+    "Text": "I am to meet with Lord Musk in his camp.
+His camp lies on a hill between Northast and Aerilon, directly to the east from one of the bridges in the valley between the cities.",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -31,7 +29,7 @@ Nasim ukolem je se presunout do Muskova taboriste mezi Northastem a Aerilonem.
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1591383570379L,
+        "TimePast": 1591392936771L,
         "Time": 0L,
         "Subject": ""
     },
@@ -39,7 +37,7 @@ Nasim ukolem je se presunout do Muskova taboriste mezi Northastem a Aerilonem.
         "NpcMiscInv": [
         ]
     },
-    "CompleteText": "Nasel jsem Lorda Muska",
+    "CompleteText": "Done.",
     "NextQuestTitle": "",
     "QuestLocation": "Muskovo lezeni"
 }

@@ -5,8 +5,8 @@
     "QuestRepeat": 0,
     "QuestCompletion": 0,
     "Title": "61. Not a step back!",
-    "Text": "Aerilon je pod utokem ze severni strany!
-Mym ukolem je podporit obrance a zabit co nejvice nemrtvych, co to jde!",
+    "Text": "Aerilon is under attack from its northern side!
+My task is to help to defent it.",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -33,7 +33,7 @@ Mym ukolem je podporit obrance a zabit co nejvice nemrtvych, co to jde!",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1591383685283L,
+        "TimePast": 1591393384222L,
         "Time": 0L,
         "Subject": ""
     },
@@ -41,6 +41,6 @@ Mym ukolem je podporit obrance a zabit co nejvice nemrtvych, co to jde!",
         "NpcMiscInv": [
         ]
     },
-    "CompleteText": "Ubranili jsme Aerilon!",
+    "CompleteText": "Done.",
     "NextQuestTitle": "62. Amok"
 }

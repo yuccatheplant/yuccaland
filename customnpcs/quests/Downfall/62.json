@@ -6,7 +6,7 @@
     "QuestCompletion": 0,
     "IgnoreNBT": 0b,
     "Title": "43. Angela's consultation",
-    "Text": "Mam se poradit s Angelou, ktera se nachazi u vchodu do trosek nejvetsi budovy.",
+    "Text": "Angela should be stationed near ruins of main building.",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -27,7 +27,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1591383371081L,
+        "TimePast": 1591394670670L,
         "Time": 0L,
         "Subject": ""
     },
@@ -41,6 +41,6 @@
         ]
     },
     "LeaveItems": 0b,
-    "CompleteText": "Musim se poradit s Angelou.",
+    "CompleteText": "Done.",
     "NextQuestTitle": ""
 }

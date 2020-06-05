@@ -7,15 +7,13 @@
     "QuestRepeat": 0,
     "QuestCompletion": 1,
     "Title": "37. Seeking the seekers",
-    "Text": "Mym ukolem je projit trasu, po ktere se vydali poslove smerem k Elfum.
-
-Instrukce zni:
-1. Vydat se na vychod po vode z pristaviste az na protejsi breh
-2. Pokracovat vychodnim smerem do bazin tak, aby breh byl po leve ruce
-3. Plout po rece bazinou, dokud se neobjevi po prave ruce ostruvek
-4. Od ostruvku pokracovat na jih az k severnimu brehu velkeho jezera
-
-Pro mne se instrukce meni tim, ze se mam zastavit na kraji dzungle a pote se vratit.",
+    "Text": "I need to find messengers who traveled towards Darkwell Empire border.
+Instructions:
+1. Sail east towards opposite shore.
+2. Sail south towards entrance to the Great marsh.
+3. Sail east through Great marsh, until there is bigger island to my right.
+4. From the isle, I should continue on foot south untill I get nearby big forest.
+5. Turn back and return to Aramoor.",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -36,7 +34,7 @@ Pro mne se instrukce meni tim, ze se mam zastavit na kraji dzungle a pote se vra
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1591383248782L,
+        "TimePast": 1591391868771L,
         "Time": 0L,
         "Subject": ""
     },
@@ -44,8 +42,8 @@ Pro mne se instrukce meni tim, ze se mam zastavit na kraji dzungle a pote se vra
         "NpcMiscInv": [
         ]
     },
-    "CompleteText": "Tabor je prazdny a je tu kolem krev!
-Mel bych se tu porozhlednout.",
-    "NextQuestTitle": "38. Nebezpecne ubytovani",
+    "CompleteText": "The camp is empty, but there are traces of blood around!
+I need to investigate.",
+    "NextQuestTitle": "38. Dangerous accommodation",
     "QuestLocation": "Ostruvek"
 }

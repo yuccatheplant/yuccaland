@@ -6,7 +6,7 @@
     "QuestCompletion": 0,
     "IgnoreNBT": 0b,
     "Title": "34. Odyssea",
-    "Text": "Podarilo se mi utect z vezeni. Nyni je treba predat zpravu nacelnikovi.",
+    "Text": "I managed to escape the captivity. Now I have to get to the Orc chief and give him the message.",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -27,7 +27,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1591383201832L,
+        "TimePast": 1591390726525L,
         "Time": 0L,
         "Subject": ""
     },
@@ -59,6 +59,6 @@
         ]
     },
     "LeaveItems": 0b,
-    "CompleteText": "Dostihl jsem Nacelnika!",
+    "CompleteText": "Done.",
     "NextQuestTitle": ""
 }
