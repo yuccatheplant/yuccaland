@@ -1,0 +1,87 @@
+{
+    "CompleterNpc": "Angela",
+    "NextQuestId": -1,
+    "RandomReward": 0b,
+    "QuestRepeat": 0,
+    "QuestCompletion": 0,
+    "IgnoreNBT": 1b,
+    "Title": "40. Alchemist's ingredients",
+    "Text": "Mam natezit Soul sand v jeskyni.
+
+Popis cesty:
+Opust Aramoor zapadnim smerem a jdi po ceste na jih, dokud nenarazis na most pres reku.
+Misto odboceni na most pokracuj po pravem brehu reky do udoli.
+Az narazis na Obsidianove jezirko, je vchod do jeskyne v dohledne vzdalenosti.",
+    "QuestFactionPoints": {
+        "DecreaseFaction1Points": 0b,
+        "OptionFaction2Points": 100,
+        "OptionFactions1": -1,
+        "OptionFactions2": -1,
+        "OptionFaction1Points": 100,
+        "DecreaseFaction2Points": 0b
+    },
+    "RewardExp": 0,
+    "QuestCommand": "",
+    "ModRev": 18,
+    "Type": 0,
+    "QuestMail": {
+        "Sender": "",
+        "BeenRead": 0b,
+        "Message": {
+        },
+        "MailItems": [
+        ],
+        "MailQuest": -1,
+        "TimePast": 1591383306581L,
+        "Time": 0L,
+        "Subject": ""
+    },
+    "IgnoreDamage": 1b,
+    "Rewards": {
+        "NpcMiscInv": [
+            {
+                "Slot": 4b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "minecraft:gold_nugget",
+                "Count": 32b,
+                "Damage": 0s
+            }
+        ]
+    },
+    "Items": {
+        "NpcMiscInv": [
+            {
+                "Slot": 0b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "minecraft:soul_sand",
+                "Count": 10b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 1b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "minecraft:stone_shovel",
+                "Count": 1b,
+                "tag": {
+                    "Unbreakable": 1,
+                    "CanDestroy": [
+                        "minecraft:soul_sand"
+                    ]
+                },
+                "Damage": 0s
+            }
+        ]
+    },
+    "LeaveItems": 0b,
+    "CompleteText": "Odevzdal jsem Angele Soul sand.",
+    "NextQuestTitle": ""
+}

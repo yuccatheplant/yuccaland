@@ -1,0 +1,46 @@
+{
+    "CompleterNpc": "Kapitan Chicco",
+    "NextQuestId": 83,
+    "RandomReward": 0b,
+    "QuestRepeat": 0,
+    "QuestCompletion": 0,
+    "Title": "61. Not a step back!",
+    "Text": "Aerilon je pod utokem ze severni strany!
+Mym ukolem je podporit obrance a zabit co nejvice nemrtvych, co to jde!",
+    "QuestFactionPoints": {
+        "DecreaseFaction1Points": 0b,
+        "OptionFaction2Points": 100,
+        "OptionFactions1": -1,
+        "OptionFactions2": -1,
+        "OptionFaction1Points": 100,
+        "DecreaseFaction2Points": 0b
+    },
+    "RewardExp": 0,
+    "QuestCommand": "",
+    "QuestDialogs": [
+        {
+            "Value": 25,
+            "Slot": "Kostlivec_aerilon"
+        }
+    ],
+    "ModRev": 18,
+    "Type": 4,
+    "QuestMail": {
+        "Sender": "",
+        "BeenRead": 0b,
+        "Message": {
+        },
+        "MailItems": [
+        ],
+        "MailQuest": -1,
+        "TimePast": 1591383685283L,
+        "Time": 0L,
+        "Subject": ""
+    },
+    "Rewards": {
+        "NpcMiscInv": [
+        ]
+    },
+    "CompleteText": "Ubranili jsme Aerilon!",
+    "NextQuestTitle": "62. Amok"
+}

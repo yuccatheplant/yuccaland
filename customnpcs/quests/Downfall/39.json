@@ -1,0 +1,53 @@
+{
+    "CompleterNpc": "Velitel Orku",
+    "NextQuestId": -1,
+    "RandomReward": 0b,
+    "QuestRepeat": 0,
+    "QuestCompletion": 0,
+    "IgnoreNBT": 0b,
+    "Title": "29. To follow the white trail",
+    "Text": "Cukrova trtina byla ukradena. Lupici po sobe zanechali zpravu s popisem jejich umisteni.
+
+Popis cesty: 
+1. Jit do udoli na sever od vesnice Dorthlove 
+2. az bude videt vstup do jeskyne, vydat se nejlevejsim (Nejzapadnejsim) tunelem 
+3. Pokracovat dal do dalsiho udoli a podel reky na sever
+
+Zlodeji se tvari, ze nemeli na vybranou. Vyplatilo by se zjistit jak moc uprimne to bylo.",
+    "QuestFactionPoints": {
+        "DecreaseFaction1Points": 0b,
+        "OptionFaction2Points": 100,
+        "OptionFactions1": -1,
+        "OptionFactions2": -1,
+        "OptionFaction1Points": 100,
+        "DecreaseFaction2Points": 0b
+    },
+    "RewardExp": 0,
+    "QuestCommand": "",
+    "ModRev": 18,
+    "Type": 0,
+    "QuestMail": {
+        "Sender": "",
+        "BeenRead": 0b,
+        "Message": {
+        },
+        "MailItems": [
+        ],
+        "MailQuest": -1,
+        "TimePast": 1591383114579L,
+        "Time": 0L,
+        "Subject": ""
+    },
+    "IgnoreDamage": 0b,
+    "Rewards": {
+        "NpcMiscInv": [
+        ]
+    },
+    "Items": {
+        "NpcMiscInv": [
+        ]
+    },
+    "LeaveItems": 0b,
+    "CompleteText": "Nasel jsem pisatele zpravy!",
+    "NextQuestTitle": ""
+}

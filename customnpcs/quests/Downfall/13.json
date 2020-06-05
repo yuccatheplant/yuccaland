@@ -1,0 +1,44 @@
+{
+    "CompleterNpc": "Doprovod karavany",
+    "NextQuestId": -1,
+    "QuestLocation3": "",
+    "RandomReward": 0b,
+    "QuestLocation2": "",
+    "QuestRepeat": 0,
+    "QuestCompletion": 0,
+    "Title": "7. Find and burry",
+    "Text": "Eda wants me to go south to the rockies and locate ambushed caravan.
+From then I should scout the area and try to find their bodies.
+Eda mentioned blood at the ambushsite, so maybe I should check it out more closely...",
+    "QuestFactionPoints": {
+        "DecreaseFaction1Points": 0b,
+        "OptionFaction2Points": 100,
+        "OptionFactions1": -1,
+        "OptionFactions2": -1,
+        "OptionFaction1Points": 100,
+        "DecreaseFaction2Points": 0b
+    },
+    "RewardExp": 0,
+    "QuestCommand": "",
+    "ModRev": 18,
+    "Type": 3,
+    "QuestMail": {
+        "Sender": "",
+        "BeenRead": 0b,
+        "Message": {
+        },
+        "MailItems": [
+        ],
+        "MailQuest": -1,
+        "TimePast": 1591384678728L,
+        "Time": 0L,
+        "Subject": ""
+    },
+    "Rewards": {
+        "NpcMiscInv": [
+        ]
+    },
+    "CompleteText": "I have found the traders!",
+    "NextQuestTitle": "",
+    "QuestLocation": "Karavana"
+}

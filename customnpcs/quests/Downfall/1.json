@@ -1,0 +1,51 @@
+{
+    "CompleterNpc": "Lovec",
+    "NextQuestId": -1,
+    "RandomReward": 0b,
+    "QuestRepeat": 0,
+    "QuestCompletion": 0,
+    "IgnoreNBT": 0b,
+    "Title": "1. Who am I? Where am I?",
+    "Text": "I do not feel good.
+I have woken up in some tavern and have no idea who am I, or where am I.
+Tavernkeeper told me, local Hunter found me somewhere.
+And this said Hunter sits right in this very building.
+
+I need to talk with him.",
+    "QuestFactionPoints": {
+        "DecreaseFaction1Points": 0b,
+        "OptionFaction2Points": 100,
+        "OptionFactions1": 2,
+        "OptionFactions2": -1,
+        "OptionFaction1Points": 10,
+        "DecreaseFaction2Points": 0b
+    },
+    "RewardExp": 0,
+    "QuestCommand": "",
+    "ModRev": 18,
+    "Type": 0,
+    "QuestMail": {
+        "Sender": "",
+        "BeenRead": 0b,
+        "Message": {
+        },
+        "MailItems": [
+        ],
+        "MailQuest": -1,
+        "TimePast": 1591383958730L,
+        "Time": 0L,
+        "Subject": ""
+    },
+    "IgnoreDamage": 0b,
+    "Rewards": {
+        "NpcMiscInv": [
+        ]
+    },
+    "Items": {
+        "NpcMiscInv": [
+        ]
+    },
+    "LeaveItems": 0b,
+    "CompleteText": "I have found the Hunter!",
+    "NextQuestTitle": ""
+}

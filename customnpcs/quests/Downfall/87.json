@@ -1,0 +1,72 @@
+{
+    "CompleterNpc": "Kapitan Chicco",
+    "NextQuestId": -1,
+    "RandomReward": 0b,
+    "QuestRepeat": 0,
+    "QuestCompletion": 0,
+    "IgnoreNBT": 1b,
+    "Title": "65. Unexpected reinforcements",
+    "Text": "Trpaslici jsou tady?
+A bojuji proti nemrtvym!
+Musim tuto zpravu dorucit Kapitanovi.
+Kapitan Chicco prave pripravuje oblehani Northastu.",
+    "QuestFactionPoints": {
+        "DecreaseFaction1Points": 0b,
+        "OptionFaction2Points": 100,
+        "OptionFactions1": -1,
+        "OptionFactions2": -1,
+        "OptionFaction1Points": 100,
+        "DecreaseFaction2Points": 0b
+    },
+    "RewardExp": 0,
+    "QuestCommand": "",
+    "ModRev": 18,
+    "Type": 0,
+    "QuestMail": {
+        "Sender": "",
+        "BeenRead": 0b,
+        "Message": {
+        },
+        "MailItems": [
+        ],
+        "MailQuest": -1,
+        "TimePast": 1591383797930L,
+        "Time": 0L,
+        "Subject": ""
+    },
+    "IgnoreDamage": 1b,
+    "Rewards": {
+        "NpcMiscInv": [
+        ]
+    },
+    "Items": {
+        "NpcMiscInv": [
+            {
+                "Slot": 0b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "minecraft:written_book",
+                "Count": 1b,
+                "tag": {
+                    "pages": [
+                        "{\"text\":\"Pozorovaci skupina c. 12.\\n\\nNemrtvi opustili sve utociste v Dandarimu a zautocili na Northast.\\nLide z kralovstvi zareagovali dostatecne rychle, aby zachranili Aerilon.\\n\"}",
+                        "{\"text\":\"Dle zpravy skupiny 7 byl pod odchodu nemrtvych Dandarim zapeceten a nyni se do nej neda vstoupit ani z katakomb ani z venku.\"}",
+                        "{\"text\":\"Lide se utkali s nemrtvymi u Ramshorne a Aerilonu, zatim prevlada defenzivni chovani.\\n\\nPokud lide maji nejaky plan na ziskani Northastu, nemeli prilezitost jej provest.\"}",
+                        "{\"text\":\"S lidmi se v momentalnim stadiu konfliktu neda pocitat jako s pomocnou silou. Stejne jako elfove jsou zamestnani odrazenim utoku.\\n\\nVypada to, ze na vyhnani nemrtvych z katakomb jsme sami.\"}",
+                        "{\"text\":\"Dochazeji mi zasoby. Za par dni budu muset vyrazit zpet do hora hlasit se na velitelstvi.\"}",
+                        "{\"text\":\"Nemrtvi zautocili na Aerilon, ale predtim doslo nedaleko k bitve a cast nemrtvych zaujala tato stara vez.\\n\\nByl jsem odhalen.\"}"
+                    ],
+                    "author": "Trpaslik",
+                    "title": "Zprava",
+                    "resolved": 1b
+                },
+                "Damage": 0s
+            }
+        ]
+    },
+    "LeaveItems": 0b,
+    "CompleteText": "Musim prodiskutovat se skupinou nove informace.",
+    "NextQuestTitle": ""
+}

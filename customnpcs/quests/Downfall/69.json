@@ -1,0 +1,62 @@
+{
+    "CompleterNpc": "Kapitan Chicco",
+    "NextQuestId": -1,
+    "QuestLocation3": "",
+    "RandomReward": 0b,
+    "QuestLocation2": "",
+    "QuestRepeat": 0,
+    "QuestCompletion": 0,
+    "Title": "49. War council",
+    "Text": "Mam se dostavit do mesta Aerilon do velitelskeho stanoviste na poradu ohledne nadchazejiciho tazeni proti nemrtvym.",
+    "QuestFactionPoints": {
+        "DecreaseFaction1Points": 0b,
+        "OptionFaction2Points": 100,
+        "OptionFactions1": -1,
+        "OptionFactions2": -1,
+        "OptionFaction1Points": 100,
+        "DecreaseFaction2Points": 0b
+    },
+    "RewardExp": 0,
+    "QuestCommand": "",
+    "ModRev": 18,
+    "Type": 3,
+    "QuestMail": {
+        "Sender": "",
+        "BeenRead": 0b,
+        "Message": {
+        },
+        "MailItems": [
+        ],
+        "MailQuest": -1,
+        "TimePast": 1591383451181L,
+        "Time": 0L,
+        "Subject": ""
+    },
+    "Rewards": {
+        "NpcMiscInv": [
+            {
+                "Slot": 4b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "minecraft:gold_nugget",
+                "Count": 64b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 5b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "minecraft:gold_nugget",
+                "Count": 32b,
+                "Damage": 0s
+            }
+        ]
+    },
+    "CompleteText": "Dorazil jsem na poradu.",
+    "NextQuestTitle": "",
+    "QuestLocation": "Velitelsky stan"
+}

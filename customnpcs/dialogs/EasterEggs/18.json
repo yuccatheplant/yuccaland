@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Jo, to je...",
+                "Title": "Aye... it is.",
                 "DialogColor": 14737632,
                 "OptionType": 0
             }
@@ -64,7 +64,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1591199388848L,
+        "TimePast": 1591385638430L,
         "Time": 0L,
         "Subject": ""
     }
