@@ -1,5 +1,5 @@
 {
-    "CompleterNpc": "Lovec",
+    "CompleterNpc": "Hunter",
     "NextQuestId": -1,
     "RandomReward": 0b,
     "QuestRepeat": 0,
@@ -28,7 +28,7 @@ Hunter is in the tavern.",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1591384921429L,
+        "TimePast": 1591444456966L,
         "Time": 0L,
         "Subject": ""
     },

@@ -7,8 +7,12 @@
     ],
     "FactionData": [
         {
-            "Points": 560,
+            "Points": 1060,
             "Faction": 2
+        },
+        {
+            "Points": 0,
+            "Faction": 5
         },
         {
             "Points": 1000,
@@ -26,59 +30,103 @@
         "CompletedQuests": [
             {
                 "Quest": 1,
-                "Date": 11942320L
+                "Date": 12225388L
             },
             {
                 "Quest": 2,
-                "Date": 11942962L
+                "Date": 12229442L
+            },
+            {
+                "Quest": 3,
+                "Date": 12229192L
             },
             {
                 "Quest": 4,
-                "Date": 11943247L
+                "Date": 12230017L
             },
             {
                 "Quest": 5,
-                "Date": 11943313L
+                "Date": 12230065L
             },
             {
                 "Quest": 6,
-                "Date": 11943883L
+                "Date": 12230810L
             },
             {
                 "Quest": 7,
-                "Date": 11944133L
+                "Date": 12231206L
             },
             {
                 "Quest": 8,
-                "Date": 11944282L
+                "Date": 12231291L
             },
             {
                 "Quest": 9,
-                "Date": 11947330L
+                "Date": 12236726L
             },
             {
                 "Quest": 10,
-                "Date": 11947352L
+                "Date": 12236809L
             },
             {
                 "Quest": 11,
-                "Date": 11947370L
+                "Date": 12236833L
             },
             {
                 "Quest": 12,
-                "Date": 11944530L
+                "Date": 12231666L
             },
             {
                 "Quest": 13,
-                "Date": 11949284L
+                "Date": 12242658L
             },
             {
                 "Quest": 14,
-                "Date": 11948454L
+                "Date": 12239045L
             },
             {
                 "Quest": 15,
-                "Date": 11949818L
+                "Date": 12247214L
+            },
+            {
+                "Quest": 16,
+                "Date": 12247542L
+            },
+            {
+                "Quest": 17,
+                "Date": 12247925L
+            },
+            {
+                "Quest": 18,
+                "Date": 12248774L
+            },
+            {
+                "Quest": 19,
+                "Date": 12250368L
+            },
+            {
+                "Quest": 20,
+                "Date": 12250732L
+            },
+            {
+                "Quest": 21,
+                "Date": 12250891L
+            },
+            {
+                "Quest": 22,
+                "Date": 12259445L
+            },
+            {
+                "Quest": 23,
+                "Date": 12259784L
+            },
+            {
+                "Quest": 24,
+                "Date": 12260178L
+            },
+            {
+                "Quest": 25,
+                "Date": 12262336L
             }
         ],
         "ActiveQuests": [
@@ -86,13 +134,22 @@
                 "QuestCompleted": 1b,
                 "ExtraData": {
                 },
-                "Quest": 16
+                "Quest": 26
             }
         ]
     },
     "UUID": "124c5df7-77ca-3092-83c0-e947c80dd3fd",
     "PlayerCompanionId": 0,
     "DialogData": [
+        {
+            "Dialog": 1
+        },
+        {
+            "Dialog": 3
+        },
+        {
+            "Dialog": 5
+        },
         {
             "Dialog": 10
         },
@@ -115,7 +172,10 @@
             "Dialog": 16
         },
         {
-            "Dialog": 18
+            "Dialog": 17
+        },
+        {
+            "Dialog": 19
         },
         {
             "Dialog": 20
@@ -125,9 +185,6 @@
         },
         {
             "Dialog": 22
-        },
-        {
-            "Dialog": 280
         },
         {
             "Dialog": 26
@@ -194,6 +251,141 @@
         },
         {
             "Dialog": 56
+        },
+        {
+            "Dialog": 57
+        },
+        {
+            "Dialog": 58
+        },
+        {
+            "Dialog": 59
+        },
+        {
+            "Dialog": 60
+        },
+        {
+            "Dialog": 61
+        },
+        {
+            "Dialog": 62
+        },
+        {
+            "Dialog": 63
+        },
+        {
+            "Dialog": 64
+        },
+        {
+            "Dialog": 65
+        },
+        {
+            "Dialog": 66
+        },
+        {
+            "Dialog": 67
+        },
+        {
+            "Dialog": 68
+        },
+        {
+            "Dialog": 69
+        },
+        {
+            "Dialog": 70
+        },
+        {
+            "Dialog": 71
+        },
+        {
+            "Dialog": 72
+        },
+        {
+            "Dialog": 73
+        },
+        {
+            "Dialog": 76
+        },
+        {
+            "Dialog": 77
+        },
+        {
+            "Dialog": 78
+        },
+        {
+            "Dialog": 79
+        },
+        {
+            "Dialog": 80
+        },
+        {
+            "Dialog": 81
+        },
+        {
+            "Dialog": 82
+        },
+        {
+            "Dialog": 83
+        },
+        {
+            "Dialog": 84
+        },
+        {
+            "Dialog": 85
+        },
+        {
+            "Dialog": 86
+        },
+        {
+            "Dialog": 88
+        },
+        {
+            "Dialog": 89
+        },
+        {
+            "Dialog": 92
+        },
+        {
+            "Dialog": 93
+        },
+        {
+            "Dialog": 94
+        },
+        {
+            "Dialog": 95
+        },
+        {
+            "Dialog": 100
+        },
+        {
+            "Dialog": 101
+        },
+        {
+            "Dialog": 102
+        },
+        {
+            "Dialog": 103
+        },
+        {
+            "Dialog": 104
+        },
+        {
+            "Dialog": 105
+        },
+        {
+            "Dialog": 106
+        },
+        {
+            "Dialog": 107
+        },
+        {
+            "Dialog": 108
+        },
+        {
+            "Dialog": 109
+        },
+        {
+            "Dialog": 124
         }
     ]
 }

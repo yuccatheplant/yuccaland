@@ -1,5 +1,5 @@
 {
-    "CompleterNpc": "Hospodsky Karel",
+    "CompleterNpc": "Tavenkeeper Carl",
     "NextQuestId": -1,
     "RandomReward": 0b,
     "QuestRepeat": 0,
@@ -29,7 +29,7 @@ I hope I will find it.",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1591384346327L,
+        "TimePast": 1591446307354L,
         "Time": 0L,
         "Subject": ""
     },

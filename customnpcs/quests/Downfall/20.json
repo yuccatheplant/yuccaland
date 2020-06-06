@@ -5,7 +5,7 @@
     "QuestRepeat": 0,
     "QuestCompletion": 0,
     "IgnoreNBT": 0b,
-    "Title": "12. Eda! On me!",
+    "Title": "12. Eda! Come here!",
     "Text": "Elder sent me to Eda to the tavern.
 We must attack the old castle and Eda should create good plan of assault.",
     "QuestFactionPoints": {
@@ -28,7 +28,7 @@ We must attack the old castle and Eda should create good plan of assault.",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1591386628729L,
+        "TimePast": 1591446871603L,
         "Time": 0L,
         "Subject": ""
     },

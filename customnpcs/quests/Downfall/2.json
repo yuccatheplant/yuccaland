@@ -1,5 +1,5 @@
 {
-    "CompleterNpc": "Lovec",
+    "CompleterNpc": "Hunter",
     "NextQuestId": -1,
     "RandomReward": 0b,
     "QuestRepeat": 0,
@@ -29,7 +29,7 @@ When I get it, I shall return back to Hunter to the tavern.",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1591384035989L,
+        "TimePast": 1591444397364L,
         "Time": 0L,
         "Subject": ""
     },

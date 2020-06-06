@@ -1,5 +1,5 @@
 {
-    "CompleterNpc": "Lovec",
+    "CompleterNpc": "Hunter",
     "NextQuestId": -1,
     "RandomReward": 0b,
     "QuestRepeat": 0,
@@ -28,7 +28,7 @@ Elder advised me to talk it over with Hunter in the tavern.",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1591384747981L,
+        "TimePast": 1591448836139L,
         "Time": 0L,
         "Subject": ""
     },

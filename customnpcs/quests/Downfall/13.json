@@ -1,5 +1,5 @@
 {
-    "CompleterNpc": "Doprovod karavany",
+    "CompleterNpc": "Caravan companion",
     "NextQuestId": -1,
     "QuestLocation3": "",
     "RandomReward": 0b,
@@ -30,7 +30,7 @@ Eda mentioned blood at the ambushsite, so maybe I should check it out more close
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1591384678728L,
+        "TimePast": 1591445036776L,
         "Time": 0L,
         "Subject": ""
     },
@@ -40,5 +40,5 @@ Eda mentioned blood at the ambushsite, so maybe I should check it out more close
     },
     "CompleteText": "I have found the traders!",
     "NextQuestTitle": "",
-    "QuestLocation": "Karavana"
+    "QuestLocation": "Caravan"
 }

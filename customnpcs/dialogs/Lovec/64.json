@@ -47,7 +47,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Oh let's see mistre hero coming back from the recon!
+    "DialogText": "Oh let's see mister hero coming back from the recon!
 So, any news worth telling?",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
@@ -65,7 +65,7 @@ So, any news worth telling?",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1591205451180L,
+        "TimePast": 1591444663713L,
         "Time": 0L,
         "Subject": ""
     }

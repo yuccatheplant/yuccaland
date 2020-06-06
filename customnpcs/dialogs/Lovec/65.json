@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 66,
-                "Title": "So, ahve you seen something out of ordinary during one of your hunts?",
+                "Title": "So, have you seen something out of ordinary during one of your hunts?",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -65,7 +65,7 @@ Right, how exactly shall I help you?",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1591205515241L,
+        "TimePast": 1591444706467L,
         "Time": 0L,
         "Subject": ""
     }

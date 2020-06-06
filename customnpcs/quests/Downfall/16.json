@@ -1,5 +1,5 @@
 {
-    "CompleterNpc": "Staresina",
+    "CompleterNpc": "Village Elder",
     "NextQuestId": -1,
     "RandomReward": 0b,
     "QuestRepeat": 0,
@@ -30,7 +30,7 @@ His house is marked with \"Village Elder\" label.",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1591384740983L,
+        "TimePast": 1591444451332L,
         "Time": 0L,
         "Subject": ""
     },

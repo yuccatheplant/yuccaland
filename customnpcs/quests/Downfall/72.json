@@ -1,5 +1,5 @@
 {
-    "CompleterNpc": "Hospodsky Karel",
+    "CompleterNpc": "Tavenkeeper Carl",
     "NextQuestId": -1,
     "RandomReward": 0b,
     "QuestRepeat": 0,
@@ -28,7 +28,7 @@ I should pick them up at local tavern.",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1591392814773L,
+        "TimePast": 1591444339514L,
         "Time": 0L,
         "Subject": ""
     },

@@ -1,5 +1,5 @@
 {
-    "CompleterNpc": "Lovec",
+    "CompleterNpc": "Hunter",
     "NextQuestId": -1,
     "RandomReward": 0b,
     "QuestRepeat": 0,
@@ -32,7 +32,7 @@ I need to talk with him.",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1591383958730L,
+        "TimePast": 1591444396612L,
         "Time": 0L,
         "Subject": ""
     },

@@ -1,5 +1,5 @@
 {
-    "CompleterNpc": "Staresina",
+    "CompleterNpc": "Village Elder",
     "NextQuestId": -1,
     "RandomReward": 0b,
     "QuestRepeat": 0,
@@ -29,7 +29,7 @@ I am looking for a camp or anything similar.",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1591384843629L,
+        "TimePast": 1591448847938L,
         "Time": 0L,
         "Subject": ""
     },
@@ -70,11 +70,10 @@ I am looking for a camp or anything similar.",
                 "Count": 1b,
                 "tag": {
                     "pages": [
-                        "{\"text\":\"VY ZATRACENI PITOMCI!\\nNechapete vyznam vety \\\"Nebuddte zbytecny rozruch\\\"?!\\n\\nProc prepadate karavany, kdyz jeste nejsme pripraveni!\\n\\nPokud na vas prijdou, tak jste na to sami!\\n\\nA ten vsivak, ktereho to napadlo za mnou\"}",
-                        "{\"text\":\"prijde nahoru na hrad a bude se mi zodpovidat!!!\"}"
+                        "{\"text\":\"IDIOTS! I told you to lay low! Not to attack random caravans!\\n\\nIf they find you before we finnish reinforcing the castle up there, you are on your own!\"}"
                     ],
-                    "author": "Vudce_banditu",
-                    "title": "Tupci zasrani!",
+                    "author": "Bandit",
+                    "title": "BLOODY IDIOTS!",
                     "resolved": 1b
                 },
                 "Damage": 0s
