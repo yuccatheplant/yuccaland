@@ -30,7 +30,7 @@ I must look in close vicinity if they forgot something.",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1591444312165L,
+        "TimePast": 1591460336322L,
         "Time": 0L,
         "Subject": ""
     },
@@ -46,12 +46,11 @@ I must look in close vicinity if they forgot something.",
                 "Count": 1b,
                 "tag": {
                     "pages": [
-                        "{\"text\":\"Nechci to delat, ale nemame na vyber.\\n\\nVem svoji partu a vezmete jim ten cukr.\\n\\nBez nej neprezijeme.\\n\\nA pokud tam nekdo bude, tak ho hlavne nezabijejte!\\n\"}",
-                        "{\"text\":\"Az budete mit cukr, najdete nas v sousednim udoli smerem na sever od jejich vesnice.\\n\\nDa se tam pohodlne dostat, pokud jizni udoli opustite nejlevjejsim tunelem smerem na sever. Hlavne nechodte po ceste!\"}",
-                        "{\"text\":\"Hodne stesti, panove...\"}"
+                        "{\"text\":\"I do not want to do it.\\n\\nBut we have no choice.\\nTake a few fighters and go raid that suger field.\\n\\nI do not want to hear about any killing! So you better make sure nobody gets hurt in the process, understand?!\"}",
+                        "{\"text\":\"We are on the move again, so when you are finished down there, move directly north from the field, until the river goes under ground.\\nThere, go through the cave on far left and continue north.\\n\\nWe will build small setlement there.\"}"
                     ],
-                    "author": "Neznamy",
-                    "title": "Instrukce",
+                    "author": "Unknown",
+                    "title": "Battle plan",
                     "resolved": 1b
                 },
                 "Damage": 0s
@@ -60,5 +59,5 @@ I must look in close vicinity if they forgot something.",
     },
     "CompleteText": "Done.",
     "NextQuestTitle": "28. Droplet of hope",
-    "QuestLocation": "Ztracena kniha"
+    "QuestLocation": "Lost note"
 }

@@ -1,5 +1,5 @@
 {
-    "CompleterNpc": "Bernard Chlupata noha",
+    "CompleterNpc": "Bernard Hairyfoot",
     "NextQuestId": -1,
     "RandomReward": 0b,
     "QuestRepeat": 0,
@@ -28,7 +28,7 @@ My target city is Dorthlove.",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1591444462865L,
+        "TimePast": 1591456361380L,
         "Time": 0L,
         "Subject": ""
     },

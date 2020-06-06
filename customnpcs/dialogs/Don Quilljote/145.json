@@ -49,7 +49,7 @@
     "OptionFaction2Points": 100,
     "DialogText": "Not a single one.
 All of them left this land long time ago.
-Don Quilljote is trying to uncover dwarven ruins and gain access to their cities uned Great mountains at Northeast part of continent.
+Don Quilljote is trying to uncover dwarven ruins and gain access to their cities under Great mountains at Northeast part of continent.
 The problem is those tunnels are often booby trapped and dangerous.
 We are trying to find a way to deactivate those traps to make it easier.",
     "AvailabilityQuest4Id": -1,
@@ -68,7 +68,7 @@ We are trying to find a way to deactivate those traps to make it easier.",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1591198868509L,
+        "TimePast": 1591458340974L,
         "Time": 0L,
         "Subject": ""
     }

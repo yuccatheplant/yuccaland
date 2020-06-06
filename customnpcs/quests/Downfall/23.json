@@ -5,7 +5,7 @@
     "QuestRepeat": 0,
     "QuestCompletion": 0,
     "IgnoreNBT": 0b,
-    "Title": "15. Afterbattle euphory",
+    "Title": "15. Afterbattle euphoria",
     "Text": "We won!
 I should meet up with Eda and Hunter and drink on our victory at the tavern.",
     "QuestFactionPoints": {
@@ -28,7 +28,7 @@ I should meet up with Eda and Hunter and drink on our victory at the tavern.",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1591444459865L,
+        "TimePast": 1591455688972L,
         "Time": 0L,
         "Subject": ""
     },

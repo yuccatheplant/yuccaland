@@ -1,5 +1,5 @@
 {
-    "CompleterNpc": "Hlidac",
+    "CompleterNpc": "Sentry",
     "NextQuestId": -1,
     "RandomReward": 0b,
     "QuestRepeat": 0,
@@ -28,7 +28,7 @@ The plantation is located not far north from Dorthlove.",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1591444467866L,
+        "TimePast": 1591459660494L,
         "Time": 0L,
         "Subject": ""
     },

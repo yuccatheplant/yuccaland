@@ -3,7 +3,7 @@
     "NextQuestId": 45,
     "QuestLocation3": "",
     "RandomReward": 0b,
-    "QuestLocation2": "Ukryt spehu",
+    "QuestLocation2": "Pursuier's hideout",
     "QuestRepeat": 0,
     "QuestCompletion": 1,
     "Title": "32. Unwanted attention",
@@ -31,7 +31,7 @@ I should investigate the house.",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1591444468613L,
+        "TimePast": 1591462073622L,
         "Time": 0L,
         "Subject": ""
     },
@@ -41,5 +41,5 @@ I should investigate the house.",
     },
     "CompleteText": "",
     "NextQuestTitle": "33. A way out",
-    "QuestLocation": "Zniceny dum"
+    "QuestLocation": "Destroyed house"
 }

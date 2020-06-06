@@ -1,5 +1,5 @@
 {
-    "CompleterNpc": "Drevorubec",
+    "CompleterNpc": "Lumberjack",
     "NextQuestId": -1,
     "RandomReward": 0b,
     "QuestRepeat": 0,
@@ -27,7 +27,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1591444439164L,
+        "TimePast": 1591458722572L,
         "Time": 0L,
         "Subject": ""
     },

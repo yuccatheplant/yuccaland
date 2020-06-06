@@ -29,7 +29,7 @@ The cavern path is obviously out of question, so our best chance is to try to cl
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1591444430366L,
+        "TimePast": 1591457828921L,
         "Time": 0L,
         "Subject": ""
     },
@@ -39,5 +39,5 @@ The cavern path is obviously out of question, so our best chance is to try to cl
     },
     "CompleteText": "",
     "NextQuestTitle": "",
-    "QuestLocation": "Quilljotova vyprava"
+    "QuestLocation": "Quilljote's party"
 }

@@ -11,8 +11,16 @@
             "Faction": 2
         },
         {
+            "Points": 750,
+            "Faction": 4
+        },
+        {
             "Points": 0,
             "Faction": 5
+        },
+        {
+            "Points": 700,
+            "Faction": 7
         },
         {
             "Points": 1000,
@@ -127,14 +135,94 @@
             {
                 "Quest": 25,
                 "Date": 12262336L
+            },
+            {
+                "Quest": 26,
+                "Date": 12307531L
+            },
+            {
+                "Quest": 27,
+                "Date": 12309820L
+            },
+            {
+                "Quest": 28,
+                "Date": 12335059L
+            },
+            {
+                "Quest": 29,
+                "Date": 12337110L
+            },
+            {
+                "Quest": 30,
+                "Date": 12344116L
+            },
+            {
+                "Quest": 31,
+                "Date": 12354016L
+            },
+            {
+                "Quest": 32,
+                "Date": 12356030L
+            },
+            {
+                "Quest": 33,
+                "Date": 12356649L
+            },
+            {
+                "Quest": 34,
+                "Date": 12357980L
+            },
+            {
+                "Quest": 35,
+                "Date": 12359741L
+            },
+            {
+                "Quest": 36,
+                "Date": 12361305L
+            },
+            {
+                "Quest": 37,
+                "Date": 12370401L
+            },
+            {
+                "Quest": 38,
+                "Date": 12370600L
+            },
+            {
+                "Quest": 39,
+                "Date": 12374050L
+            },
+            {
+                "Quest": 40,
+                "Date": 12377673L
+            },
+            {
+                "Quest": 41,
+                "Date": 12397822L
+            },
+            {
+                "Quest": 42,
+                "Date": 12398910L
+            },
+            {
+                "Quest": 43,
+                "Date": 12404522L
+            },
+            {
+                "Quest": 44,
+                "Date": 12408252L
+            },
+            {
+                "Quest": 47,
+                "Date": 12410306L
             }
         ],
         "ActiveQuests": [
             {
-                "QuestCompleted": 1b,
+                "QuestCompleted": 0b,
                 "ExtraData": {
                 },
-                "Quest": 26
+                "Quest": 45
             }
         ]
     },
@@ -185,6 +273,9 @@
         },
         {
             "Dialog": 22
+        },
+        {
+            "Dialog": 25
         },
         {
             "Dialog": 26
@@ -385,7 +476,292 @@
             "Dialog": 109
         },
         {
+            "Dialog": 111
+        },
+        {
+            "Dialog": 112
+        },
+        {
+            "Dialog": 113
+        },
+        {
+            "Dialog": 114
+        },
+        {
+            "Dialog": 115
+        },
+        {
+            "Dialog": 116
+        },
+        {
+            "Dialog": 117
+        },
+        {
+            "Dialog": 118
+        },
+        {
+            "Dialog": 119
+        },
+        {
+            "Dialog": 120
+        },
+        {
+            "Dialog": 121
+        },
+        {
             "Dialog": 124
+        },
+        {
+            "Dialog": 125
+        },
+        {
+            "Dialog": 126
+        },
+        {
+            "Dialog": 128
+        },
+        {
+            "Dialog": 129
+        },
+        {
+            "Dialog": 130
+        },
+        {
+            "Dialog": 131
+        },
+        {
+            "Dialog": 132
+        },
+        {
+            "Dialog": 133
+        },
+        {
+            "Dialog": 134
+        },
+        {
+            "Dialog": 135
+        },
+        {
+            "Dialog": 136
+        },
+        {
+            "Dialog": 137
+        },
+        {
+            "Dialog": 138
+        },
+        {
+            "Dialog": 142
+        },
+        {
+            "Dialog": 143
+        },
+        {
+            "Dialog": 144
+        },
+        {
+            "Dialog": 145
+        },
+        {
+            "Dialog": 146
+        },
+        {
+            "Dialog": 147
+        },
+        {
+            "Dialog": 148
+        },
+        {
+            "Dialog": 149
+        },
+        {
+            "Dialog": 150
+        },
+        {
+            "Dialog": 151
+        },
+        {
+            "Dialog": 152
+        },
+        {
+            "Dialog": 153
+        },
+        {
+            "Dialog": 154
+        },
+        {
+            "Dialog": 155
+        },
+        {
+            "Dialog": 156
+        },
+        {
+            "Dialog": 158
+        },
+        {
+            "Dialog": 159
+        },
+        {
+            "Dialog": 160
+        },
+        {
+            "Dialog": 161
+        },
+        {
+            "Dialog": 162
+        },
+        {
+            "Dialog": 163
+        },
+        {
+            "Dialog": 164
+        },
+        {
+            "Dialog": 166
+        },
+        {
+            "Dialog": 169
+        },
+        {
+            "Dialog": 170
+        },
+        {
+            "Dialog": 171
+        },
+        {
+            "Dialog": 172
+        },
+        {
+            "Dialog": 173
+        },
+        {
+            "Dialog": 174
+        },
+        {
+            "Dialog": 175
+        },
+        {
+            "Dialog": 178
+        },
+        {
+            "Dialog": 179
+        },
+        {
+            "Dialog": 180
+        },
+        {
+            "Dialog": 181
+        },
+        {
+            "Dialog": 182
+        },
+        {
+            "Dialog": 183
+        },
+        {
+            "Dialog": 184
+        },
+        {
+            "Dialog": 185
+        },
+        {
+            "Dialog": 186
+        },
+        {
+            "Dialog": 187
+        },
+        {
+            "Dialog": 188
+        },
+        {
+            "Dialog": 189
+        },
+        {
+            "Dialog": 190
+        },
+        {
+            "Dialog": 191
+        },
+        {
+            "Dialog": 192
+        },
+        {
+            "Dialog": 193
+        },
+        {
+            "Dialog": 194
+        },
+        {
+            "Dialog": 195
+        },
+        {
+            "Dialog": 196
+        },
+        {
+            "Dialog": 197
+        },
+        {
+            "Dialog": 198
+        },
+        {
+            "Dialog": 199
+        },
+        {
+            "Dialog": 200
+        },
+        {
+            "Dialog": 201
+        },
+        {
+            "Dialog": 202
+        },
+        {
+            "Dialog": 203
+        },
+        {
+            "Dialog": 204
+        },
+        {
+            "Dialog": 205
+        },
+        {
+            "Dialog": 206
+        },
+        {
+            "Dialog": 207
+        },
+        {
+            "Dialog": 208
+        },
+        {
+            "Dialog": 209
+        },
+        {
+            "Dialog": 210
+        },
+        {
+            "Dialog": 211
+        },
+        {
+            "Dialog": 212
+        },
+        {
+            "Dialog": 213
+        },
+        {
+            "Dialog": 214
+        },
+        {
+            "Dialog": 215
+        },
+        {
+            "Dialog": 216
+        },
+        {
+            "Dialog": 218
+        },
+        {
+            "Dialog": 228
         }
     ]
 }
