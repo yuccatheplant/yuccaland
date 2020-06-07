@@ -27,7 +27,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1591460348472L,
+        "TimePast": 1591531682127L,
         "Time": 0L,
         "Subject": ""
     },
@@ -48,10 +48,10 @@
                 "Count": 1b,
                 "tag": {
                     "pages": [
-                        "{\"text\":\"Povstalci se nachazeji nekde severne od hobiti vesnice Dorthlove.\\n\\nAz budeme vedet vice, posleme dalsiho posla s vice informacemi.\\n\\nOar-thul.\"}"
+                        "{\"text\":\"Their encampment is located somewhere to the north of that Hobbit village.\\n\\nWe will send more info when we know more.\\n\\nOar-Thul\"}"
                     ],
-                    "author": "Neznamy",
-                    "title": "Pozice povstalcu",
+                    "author": "Unknown",
+                    "title": "Position",
                     "resolved": 1b
                 },
                 "Damage": 0s

@@ -1,5 +1,5 @@
 {
-    "CompleterNpc": "Kapitan Chicco",
+    "CompleterNpc": "Captain Chicco",
     "NextQuestId": -1,
     "RandomReward": 0b,
     "QuestRepeat": 0,
@@ -27,7 +27,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1591455741920L,
+        "TimePast": 1591536500986L,
         "Time": 0L,
         "Subject": ""
     },

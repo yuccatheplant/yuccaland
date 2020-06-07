@@ -1,5 +1,5 @@
 {
-    "CompleterNpc": "Zbrojir",
+    "CompleterNpc": "Armsman",
     "NextQuestId": -1,
     "RandomReward": 0b,
     "QuestRepeat": 0,
@@ -27,7 +27,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1591460335422L,
+        "TimePast": 1591531558584L,
         "Time": 0L,
         "Subject": ""
     },

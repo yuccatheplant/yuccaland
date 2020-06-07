@@ -1,5 +1,5 @@
 {
-    "CompleterNpc": "Kapitan Chicco",
+    "CompleterNpc": "Captain Chicco",
     "NextQuestId": -1,
     "QuestLocation3": "",
     "RandomReward": 0b,
@@ -28,7 +28,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1591455733688L,
+        "TimePast": 1591540763489L,
         "Time": 0L,
         "Subject": ""
     },
@@ -58,5 +58,5 @@
     },
     "CompleteText": "Done.",
     "NextQuestTitle": "",
-    "QuestLocation": "Velitelsky stan"
+    "QuestLocation": "Leader's tent"
 }

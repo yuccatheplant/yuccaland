@@ -1,5 +1,5 @@
 {
-    "CompleterNpc": "Velitel Orku",
+    "CompleterNpc": "Orc chief",
     "NextQuestId": 45,
     "QuestLocation3": "",
     "RandomReward": 0b,
@@ -31,7 +31,7 @@ I should investigate the house.",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1591462073622L,
+        "TimePast": 1591531680332L,
         "Time": 0L,
         "Subject": ""
     },

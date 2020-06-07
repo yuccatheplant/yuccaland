@@ -1,5 +1,5 @@
 {
-    "CompleterNpc": "Velitel Orku",
+    "CompleterNpc": "Orc chief",
     "NextQuestId": 44,
     "RandomReward": 0b,
     "QuestRepeat": 0,
@@ -27,7 +27,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1591461920972L,
+        "TimePast": 1591531678248L,
         "Time": 0L,
         "Subject": ""
     },

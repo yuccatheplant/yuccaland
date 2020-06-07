@@ -81,7 +81,8 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "forest": "2020-06-06 18:03:24 +0200",
-      "plains": "2020-06-06 18:00:25 +0200"
+      "plains": "2020-06-06 18:00:25 +0200",
+      "river": "2020-06-07 13:54:12 +0200"
     },
     "done": false
   },
@@ -97,21 +98,27 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2020-06-07 13:54:12 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/leather": {
     "criteria": {
       "has_rabbit_hide": "2020-06-06 18:00:25 +0200"
     },
     "done": true
   },
-  "minecraft:husbandry/root": {
-    "criteria": {
-      "consumed_item": "2020-06-06 18:02:59 +0200"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/redstone_torch": {
     "criteria": {
       "has_redstone": "2020-06-06 18:00:25 +0200"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2020-06-06 18:02:59 +0200"
     },
     "done": true
   },

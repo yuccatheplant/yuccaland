@@ -77,8 +77,9 @@ Tabor nemrtvych u hrebenu
 /tp @e[type=customnpcs:customnpc,name=Mrtvola,x=2835,y=61,z=2428,r=20] ~ 89 ~
 
 
-Misto napadeni
-Angelininy stopy
+2. messenger
+3. messenger
+4. messenger
 
 
 Lore - SPOILERY:

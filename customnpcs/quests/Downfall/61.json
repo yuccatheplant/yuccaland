@@ -1,5 +1,5 @@
 {
-    "CompleterNpc": "Kapitan Chicco",
+    "CompleterNpc": "Captain Chicco",
     "NextQuestId": -1,
     "RandomReward": 0b,
     "QuestRepeat": 0,
@@ -29,7 +29,7 @@ I shall get to the settlement by traveling road directly north from Aramoor.",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1591455727871L,
+        "TimePast": 1591536482938L,
         "Time": 0L,
         "Subject": ""
     },

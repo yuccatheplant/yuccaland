@@ -47,7 +47,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Chicco is hlad to see @p convious.
+    "DialogText": "Chicco is glad to see @p concious.
 Chicco have heard about @p's triumph at Ramshorne and is glad that someone like @p will help Vehil's cause.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
@@ -65,7 +65,7 @@ Chicco have heard about @p's triumph at Ramshorne and is glad that someone like 
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1591194103278L,
+        "TimePast": 1591538737439L,
         "Time": 0L,
         "Subject": ""
     }

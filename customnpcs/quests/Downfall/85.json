@@ -1,5 +1,5 @@
 {
-    "CompleterNpc": "Kapitan Chicco",
+    "CompleterNpc": "Captain Chicco",
     "NextQuestId": -1,
     "QuestLocation3": "",
     "RandomReward": 0b,
@@ -33,7 +33,7 @@ I must go there at once!",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1591455745220L,
+        "TimePast": 1591536530087L,
         "Time": 0L,
         "Subject": ""
     },

@@ -1,9 +1,9 @@
 {
-    "CompleterNpc": "Posel",
+    "CompleterNpc": "Messenger",
     "NextQuestId": 55,
-    "QuestLocation3": "4. Posel",
+    "QuestLocation3": "4. messenger",
     "RandomReward": 0b,
-    "QuestLocation2": "3. Posel",
+    "QuestLocation2": "3. messenger",
     "QuestRepeat": 0,
     "QuestCompletion": 1,
     "Title": "38. Dangerous accommodation",
@@ -29,7 +29,7 @@ I need to investigate.",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1591455722573L,
+        "TimePast": 1591540683138L,
         "Time": 0L,
         "Subject": ""
     },
@@ -39,5 +39,5 @@ I need to investigate.",
     },
     "CompleteText": "",
     "NextQuestTitle": "39. Tactical retreat",
-    "QuestLocation": "2. Posel"
+    "QuestLocation": "2. messenger"
 }

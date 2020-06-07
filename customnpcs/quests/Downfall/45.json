@@ -1,5 +1,5 @@
 {
-    "CompleterNpc": "Velitel Orku",
+    "CompleterNpc": "Orc chief",
     "NextQuestId": 48,
     "RandomReward": 0b,
     "QuestRepeat": 0,
@@ -16,11 +16,11 @@ Now I just need to leave this place in one piece...",
         "DecreaseFaction2Points": 0b
     },
     "RewardExp": 0,
-    "QuestCommand": "",
+    "QuestCommand": "/spawnpoint @dp 344 63 1950",
     "QuestDialogs": [
         {
             "Value": 1,
-            "Slot": "Vudce Orskych pruzkumniku"
+            "Slot": "Leader of Orcish scout party"
         }
     ],
     "ModRev": 18,
@@ -33,7 +33,7 @@ Now I just need to leave this place in one piece...",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1591461924271L,
+        "TimePast": 1591531708979L,
         "Time": 0L,
         "Subject": ""
     },
@@ -79,10 +79,10 @@ Now I just need to leave this place in one piece...",
                 "Count": 1b,
                 "tag": {
                     "pages": [
-                        "{\"text\":\"Povstalci se nachazeji nekde severne od hobiti vesnice Dorthlove.\\n\\nAz budeme vedet vice, posleme dalsiho posla s vice informacemi.\\n\\nOar-thul.\"}"
+                        "{\"text\":\"Their encampment is located somewhere to the north of that Hobbit village.\\n\\nWe will send more info when we know more.\\n\\nOar-Thul\"}"
                     ],
-                    "author": "Neznamy",
-                    "title": "Pozice povstalcu",
+                    "author": "Unknown",
+                    "title": "Position",
                     "resolved": 1b
                 },
                 "Damage": 0s

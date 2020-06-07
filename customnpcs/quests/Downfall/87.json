@@ -1,5 +1,5 @@
 {
-    "CompleterNpc": "Kapitan Chicco",
+    "CompleterNpc": "Captain Chicco",
     "NextQuestId": -1,
     "RandomReward": 0b,
     "QuestRepeat": 0,
@@ -30,7 +30,7 @@ Captain is currently besieging Northast.",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1591455750322L,
+        "TimePast": 1591536535486L,
         "Time": 0L,
         "Subject": ""
     },

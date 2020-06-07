@@ -1,5 +1,5 @@
 {
-    "CompleterNpc": "Bernard Chlupata noha",
+    "CompleterNpc": "Bernard Hairyfoot",
     "NextQuestId": 42,
     "RandomReward": 0b,
     "QuestRepeat": 0,
@@ -27,7 +27,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1591460342472L,
+        "TimePast": 1591531676378L,
         "Time": 0L,
         "Subject": ""
     },

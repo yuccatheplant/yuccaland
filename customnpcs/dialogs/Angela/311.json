@@ -47,11 +47,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Dobra, reknu Chiccovi, aby tam poslal vojaky a zajistili to.
-
-Musim se zeptat. Mas nejakou kost nebo cast tech nemrtvych?
-
-I will inform Captain. We will need to secure the area.
+    "DialogText": "I will inform Captain. We will need to secure the area.
 I must ask... Have you found some bone or other part of the unded?",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
@@ -69,7 +65,7 @@ I must ask... Have you found some bone or other part of the unded?",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1591129851003L,
+        "TimePast": 1591536868536L,
         "Time": 0L,
         "Subject": ""
     }

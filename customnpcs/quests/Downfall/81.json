@@ -1,5 +1,5 @@
 {
-    "CompleterNpc": "Kapitan Chicco",
+    "CompleterNpc": "Captain Chicco",
     "NextQuestId": 83,
     "RandomReward": 0b,
     "QuestRepeat": 0,
@@ -33,7 +33,7 @@ My task is to help to defent it.",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1591455742827L,
+        "TimePast": 1591536508188L,
         "Time": 0L,
         "Subject": ""
     },

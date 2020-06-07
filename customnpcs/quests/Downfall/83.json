@@ -1,9 +1,9 @@
 {
-    "CompleterNpc": "Kapitan Chicco",
+    "CompleterNpc": "Captain Chicco",
     "NextQuestId": 84,
     "QuestLocation3": "",
     "RandomReward": 0b,
-    "QuestLocation2": "Angelininy stopy",
+    "QuestLocation2": "Angela's position",
     "QuestRepeat": 0,
     "QuestCompletion": 1,
     "Title": "62. Amok",
@@ -29,7 +29,7 @@ I must know if it really was an ambush!",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1591455743373L,
+        "TimePast": 1591543254738L,
         "Time": 0L,
         "Subject": ""
     },
@@ -65,5 +65,5 @@ I must know if it really was an ambush!",
     },
     "CompleteText": "",
     "NextQuestTitle": "63. Misleading information",
-    "QuestLocation": "Misto napadeni"
+    "QuestLocation": "Place of ambush"
 }

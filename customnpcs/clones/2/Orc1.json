@@ -102,22 +102,22 @@
     "NpcAttackLines": {
         "Lines": [
             {
-                "Line": "Vezen!",
+                "Line": "Prisoner!",
                 "Song": "",
                 "Slot": 0
             },
             {
-                "Line": "A hele, masicko!",
+                "Line": "You look tasty!",
                 "Song": "",
                 "Slot": 1
             },
             {
-                "Line": "Odsud se nedostanes!",
+                "Line": "You won't leave this place alive!",
                 "Song": "",
                 "Slot": 2
             },
             {
-                "Line": "Tady koncis!",
+                "Line": "Never should have come here!",
                 "Song": "",
                 "Slot": 3
             }
@@ -168,7 +168,7 @@
         "Lines": [
         ]
     },
-    "HurtByTimestamp": 4243,
+    "HurtByTimestamp": 1104,
     "pSpin": 0b,
     "NpcHurtSound": "minecraft:entity.player.hurt",
     "pTrail": 0,
@@ -216,7 +216,7 @@
     "NoFallDamage": 0b,
     "AbsorptionAmount": 0.0f,
     "TransformHasRole": 0b,
-    "Name": "Ork pruzkumnik",
+    "Name": "Orcish scout",
     "FallDistance": 0.0f,
     "SkinColor": 16777215,
     "NpcIdleSound": "",
@@ -413,9 +413,9 @@
     "NpcDeathSound": "minecraft:entity.player.hurt",
     "FactionID": 5,
     "Title": "",
-    "TotalTicksAlive": 74894L,
+    "TotalTicksAlive": 76314L,
     "Rotation": [
-        254.83871f,
+        169.45712f,
         0.0f
     ],
     "ShowName": 1,

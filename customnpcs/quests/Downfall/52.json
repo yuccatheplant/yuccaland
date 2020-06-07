@@ -3,7 +3,7 @@
     "NextQuestId": 54,
     "QuestLocation3": "",
     "RandomReward": 0b,
-    "QuestLocation2": "Okraj lesa",
+    "QuestLocation2": "Forest border",
     "QuestRepeat": 0,
     "QuestCompletion": 1,
     "Title": "37. Seeking the seekers",
@@ -34,7 +34,7 @@ Instructions:
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1591455721783L,
+        "TimePast": 1591535309390L,
         "Time": 0L,
         "Subject": ""
     },
@@ -45,5 +45,5 @@ Instructions:
     "CompleteText": "The camp is empty, but there are traces of blood around!
 I need to investigate.",
     "NextQuestTitle": "38. Dangerous accommodation",
-    "QuestLocation": "Ostruvek"
+    "QuestLocation": "Small island"
 }
