@@ -29,7 +29,7 @@ I must know if it really was an ambush!",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1591543254738L,
+        "TimePast": 1591548536946L,
         "Time": 0L,
         "Subject": ""
     },
@@ -45,18 +45,20 @@ I must know if it really was an ambush!",
                 "Count": 1b,
                 "tag": {
                     "pages": [
-                        "{\"text\":\"---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\"}",
-                        "{\"text\":\"Dnes se do vesnice vratil Lovec s neznamym muzem.\\nJe extremne vycerpany a v bezvedomi. Pripravila jsem mu par povzbuzujicich leciv.\\n\\n----------------------------------------------------------------------------------------------\"}",
-                        "{\"text\":\"Neznamy se vzbudil. Ma zvlastni symptomy amnesie. Pamatuje si sve jmeno, ale nic vic.\\n\\n------------------------------------------------------------------------------------------------------------------------------------------------------------------------\"}",
-                        "{\"text\":\"Dnes za mnou prisel posel se zpravou od Lorda Musca. Neco spatneho se deje u elfu. Vezmu neznameho a Bernarda do Aerilonu.\\n\\n-----------------------------------------------------------------------------------------------------------------\"}",
-                        "{\"text\":\"Nemrtvi? To snad ne!\\nTo neni mozne!\\n\\nMusim zjistit vice!\\n\\nNavrhla jsem neznamemu moznost zjistit vice o nemrtvych. Je to nebezpecne, ale musim si byt jista!\"}",
-                        "{\"text\":\"Lektvar je hotovy.\\n\\nNeznamy souhlasil ze jej vypije.\\n\\n--------------------------------------------------------------------------------------------------------------------------------------------------------------------------\"}",
-                        "{\"text\":\"Neznamy se probudil z komatu. Okamzite jsem jej vyslechla, ale nezjistila jsem zadne uzitecne informace krome jedne. Na konci sve halucinace videl na trunu dve siluety.\\nTake jsem si vsimla, ze se chova zvlastne zarazene.\"}",
-                        "{\"text\":\"Bohuzel neznamy byl prevelen na jine stanoviste.\\nMyslim, ze mi neveri, a pokud sam nechce, nikdy se nedozvim...\\n\\nZajimalo by me, co ve sve vizi videl, ze to tak zradilo jeho duveru ve me...\"}",
-                        "{\"text\":\"Kdyz tak premyslim nad zmenou chovani neznameho vuci mne a me skutecne obavy, myslim, ze je vice nez pravdepodobne, ze se moje obavy potvrdily.\\n\\nMusim pri prvni prilezitosti neznamemu objasnit co mne trapi.\"}"
+                        "{\"text\":\"Subject got dragged into our village by Hunter.\\n\\nHunter claims he jumped down the cliff right into the river.\\n\\nHe unconcious since the moment Hunter got him out of the river.\\n\\nHe seems to be extremely exhausted.\"}",
+                        "{\"text\":\"Two days after Hunter foud him, he finally woken up.\\n\\nHe claims that he does not remember anything but his name.\\n\\nHe is eager to help.\"}",
+                        "{\"text\":\"I failed to find anything about his symptoms.\\n\\nSubject seems to be very combat-capable.\\nMaybe soldier or sellsword?\\n\\nSubject is becoming quite popular in the village.\"}",
+                        "{\"text\":\"I now lose all hope to find reason between his amnesia.\\nI will travel to Dorthlove and consult Bernard.\\n\\nI will ask him to travel there too.\"}",
+                        "{\"text\":\"The subject have shown that he is skilled tracer and diplomat.\\nIt is kind of scary to watch him skillfuly pass every obstacle there is in front of him...\"}",
+                        "{\"text\":\"I worry that I have to put finding of the cure for later, since we were called to help in Aramoor.\"}",
+                        "{\"text\":\"It seems that my worst nightmare come true.\\nUndead are here!\\n\\nI must know!\\nSubject have agreed to drink potion I prepare for him.\\n\\nIt should show if my worries are justify.\"}",
+                        "{\"text\":\"Subject have consumed the potion and now is uncouncious.\\n\\nI am wathcing his vital functions and wait.\"}",
+                        "{\"text\":\"He woke up, saying he seen two persons sitting on the throne commanding undead.\\n\\nHe said he did not recognised them.\"}",
+                        "{\"text\":\"A war is here and we have been parted.\\n\\nI can not watch over the Subject for the moment. He is on his own.\"}",
+                        "{\"text\":\"I can not keep it any longer! But there is nobody I can tell anything. I must wait for the Subject, Hunter or Bernard to return. Then I am going to tell them what troubles me.\\n\\nI hope they will be able to forgive me for it...\"}"
                     ],
                     "author": "Angela",
-                    "title": "Zapisky",
+                    "title": "Subject",
                     "resolved": 1b
                 },
                 "Damage": 0s

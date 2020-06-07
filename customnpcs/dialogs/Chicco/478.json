@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 479,
-                "Title": "Dandarim is a place where undead kept their numbers before the first attack.",
+                "Title": "I belive that Dandarim is the place where undead kept their troops before the first attack.",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -47,10 +47,12 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "When Vehil regained Northast, Dwarves expected attack so they evacuated civilians to their capital.
+    "DialogText": "It was dwarven city quite close to the Northast.
+When Vehil regained Northast, Dwarves expected attack so they evacuated civilians to their capital.
 Chicco's tactics enabled Vehil to take control of Dandarim. Dwarves have fallen back, detonating volatile substance inside of the tunnel. Everybody had to evacuate and Dandarim was destroyed.
+Funny thing is that dwarves called Dandarim \"Lost city\" ever after that battle.
 
-After that, Dwarves called truce and soon after that evacuated their cities seeking for new continent to settle on.
+Shortly after, Dwarves called truce and a year after that evacuated their cities seeking for new continent to settle on.
 People tried to colonise underground cities, but dwarves left lots of traps and bombs in the tunnels.
 Mountains remains no man's land to this day.
 
@@ -71,7 +73,7 @@ Chicco returned to Aramoor and later worked himself to the post of Captain.",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1591195223629L,
+        "TimePast": 1591552154998L,
         "Time": 0L,
         "Subject": ""
     }

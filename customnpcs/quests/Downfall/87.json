@@ -30,7 +30,7 @@ Captain is currently besieging Northast.",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1591536535486L,
+        "TimePast": 1591551562045L,
         "Time": 0L,
         "Subject": ""
     },
@@ -51,16 +51,14 @@ Captain is currently besieging Northast.",
                 "Count": 1b,
                 "tag": {
                     "pages": [
-                        "{\"text\":\"Pozorovaci skupina c. 12.\\n\\nNemrtvi opustili sve utociste v Dandarimu a zautocili na Northast.\\nLide z kralovstvi zareagovali dostatecne rychle, aby zachranili Aerilon.\\n\"}",
-                        "{\"text\":\"Dle zpravy skupiny 7 byl pod odchodu nemrtvych Dandarim zapeceten a nyni se do nej neda vstoupit ani z katakomb ani z venku.\"}",
-                        "{\"text\":\"Lide se utkali s nemrtvymi u Ramshorne a Aerilonu, zatim prevlada defenzivni chovani.\\n\\nPokud lide maji nejaky plan na ziskani Northastu, nemeli prilezitost jej provest.\"}",
-                        "{\"text\":\"S lidmi se v momentalnim stadiu konfliktu neda pocitat jako s pomocnou silou. Stejne jako elfove jsou zamestnani odrazenim utoku.\\n\\nVypada to, ze na vyhnani nemrtvych z katakomb jsme sami.\"}",
-                        "{\"text\":\"Dochazeji mi zasoby. Za par dni budu muset vyrazit zpet do hora hlasit se na velitelstvi.\"}",
-                        "{\"text\":\"Nemrtvi zautocili na Aerilon, ale predtim doslo nedaleko k bitve a cast nemrtvych zaujala tato stara vez.\\n\\nByl jsem odhalen.\"}"
+                        "{\"text\":\"Observing group number 7.\\n\\nMy companion have returned from Northast. Large amount of undead soldiers have left Lost city and attacked Northast with destructible force.\"}",
+                        "{\"text\":\"We are curently hidden in the catacombs of old watching tower.\\n\\nFrom observing group number 12 we found out that Undead have sealed entrance to the Lost city, so there is no possible way to reach it from neither side now.\"}",
+                        "{\"text\":\"Human army just disembarked near Aerilon. It must be reaction to the attack that happened few days before.\"}",
+                        "{\"text\":\"Humans are under attack. They are holding pass towards one of their villages.\\n\\nFew of undead ventured too south and found our tower.\\n\\nWe hide ourselves before they found us.\"}",
+                        "{\"text\":\"We can not leave the tower, for undead took it for their own!\\n\\nIt is just a matter of time before they decide to check the basement completely!\"}"
                     ],
-                    "author": "Trpaslik",
-                    "title": "Zprava",
-                    "resolved": 1b
+                    "author": "Dwarf",
+                    "title": "Notes"
                 },
                 "Damage": 0s
             }

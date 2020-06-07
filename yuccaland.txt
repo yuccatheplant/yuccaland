@@ -252,10 +252,49 @@ Kapitola 5 - Nezhojene rany:
 
 Quiljotova vyprava
 
+Quiljot:
+1 rotate @p
+2 say Im- This is just some stupid joke, right? Please, stop it!
+10 say You can not talk to the dwarves for one simple reason and it is that they have left!
+20 say I am sorry, but this is just unacceptable.
+50 say WHAT? So now both of you are going to make fun from me?!
+70 say Shut up!
+80 say You are serious, right?
+100 say But why?! You are traveling with me for so long! Why you did not said anything?!
+120 say Alright...
+125 command /noppes scene reset konspirace_don
+
+Lego:
+1 rotate @p
+30 say You say that you know that dwarves have not left?
+40 say Maybe I would know how to get to them.
+70 say Shut up!
+90 say Yes.
+110 say I will explain to you later. Now, please let me explain to @p.
+125 command /noppes scene reset konspirace_lego
+
+Zap:
+1 rotate @p
+60 say Hey, boss, with all respect, you are hard not to make fun of...
+125 command /noppes scene reset konspirace_zap
 
 
 
 
+0 rotate 0
+2 say So, my dear companions, I told you we will find those dwarven ruins!
+12 say Shut it, private!
+25 say And how would you know those are elven ruins and not dwarven ones?!
+40 say Would you shut up?!
+50 say Just, please, be qui-
+54 rotate 180
+55 say Oh, so we were too late. Don't be shy, traveler. Tell us, what have you found down there?
+119 rotate 0
+120 command /noppes scene reset elfi_ruiny_don
+
+/noppes scene start konspirace_don
+
+rotate clear
 
 
 

@@ -1,9 +1,9 @@
 {
     "CompleterNpc": "Captain Chicco",
-    "NextQuestId": -1,
+    "NextQuestId": 87,
     "QuestLocation3": "",
     "RandomReward": 0b,
-    "QuestLocation2": "Pruzkum veze",
+    "QuestLocation2": "Tower basement",
     "QuestRepeat": 0,
     "QuestCompletion": 1,
     "Title": "64. The tower",
@@ -33,7 +33,7 @@ I must go there at once!",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1591536530087L,
+        "TimePast": 1591551634044L,
         "Time": 0L,
         "Subject": ""
     },
@@ -43,6 +43,6 @@ I must go there at once!",
     },
     "CompleteText": "A dwarf?! What in all thunders a dwarf is doing here?!
 I should inspect him.",
-    "NextQuestTitle": "",
-    "QuestLocation": "Stara vez"
+    "NextQuestTitle": "65. Unexpected reinforcements",
+    "QuestLocation": "The tower"
 }
