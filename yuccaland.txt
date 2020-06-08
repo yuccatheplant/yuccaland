@@ -21,6 +21,15 @@ Windforge
 Fast travel: 				/tp @p -552 62 2616
 
 
+Northast bridge
+Northast tavern
+Northast center
+
+/tp @e[type=customnpcs:customnpc,name=Strazny,x=2489,y=-17,z=1742,r=65] ~ 64 ~
+
+
+
+
 /clone 2314 62 3493 2290 80 3517 
 /tp @p 2831 94 2437
 
@@ -289,12 +298,36 @@ Zap:
 50 say Just, please, be qui-
 54 rotate 180
 55 say Oh, so we were too late. Don't be shy, traveler. Tell us, what have you found down there?
-119 rotate 0
+119 rotate clear
 120 command /noppes scene reset elfi_ruiny_don
 
 /noppes scene start konspirace_don
 
 rotate clear
+
+Bernard:
+90 say For Angela!
+
+Hunter:
+95 say: For Eda!
+
+Chicco:
+1 say Our kingdom is standing before large danger!
+10 say This city behind me is the evidence of what is our enemy capable of.
+20 say At the beggining of this conflict, our nation was weakened.
+30 say But still we managed to react quickly and now!
+40 say We stand at the very place all this started!
+50 say Be wary though. Our enemy does not feel pain, nor remorse.
+60 say Many of you knew somebody who lived in this city before.
+70 say Chicco himself probably lost his old good friend in this city...
+80 say So let's march towards the city and retake for the people we lost in it!
+100 say Let's show them what happens when they mess with Vehil kingdom!!!
+101 rotate -90
+110 say FIRE!
+113 command /fill 2499 49 1734 2499 49 1734 minecraft:redstone_block 0
+117 say ATTACK!
+119 rotate clear
+120 command /noppes scene reset beforeNorthast
 
 
 
