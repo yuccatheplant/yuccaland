@@ -43,7 +43,7 @@
         "Melee": 1.0f
     },
     "BossBar": 0b,
-    "RespawnTime": 60,
+    "RespawnTime": 300,
     "NpcAngrySound": "",
     "ReactsToFire": 0b,
     "IgnoreCobweb": 0b,
@@ -158,7 +158,7 @@
         "Lines": [
         ]
     },
-    "HurtByTimestamp": 613,
+    "HurtByTimestamp": 4195,
     "pSpin": 0b,
     "NpcHurtSound": "minecraft:entity.player.hurt",
     "pTrail": 0,
@@ -463,7 +463,7 @@
         }
     },
     "minDelay": 20,
-    "DoorInteract": 1,
+    "DoorInteract": 2,
     "MoveSpeed": 5,
     "TransformEditingModus": 0b,
     "UsingSkinUrl": 0b,
@@ -571,7 +571,7 @@
     "NpcDeathSound": "minecraft:entity.player.hurt",
     "FactionID": 6,
     "Title": "",
-    "TotalTicksAlive": 81875L,
+    "TotalTicksAlive": 86084L,
     "Rotation": [
         270.33185f,
         0.0f

@@ -39,11 +39,11 @@
     "Resistances": {
         "Arrow": 1.0f,
         "Explosion": 1.0f,
-        "Knockback": 1.0f,
+        "Knockback": 2.0f,
         "Melee": 1.0f
     },
     "BossBar": 0b,
-    "RespawnTime": 60,
+    "RespawnTime": 300,
     "NpcAngrySound": "",
     "ReactsToFire": 0b,
     "IgnoreCobweb": 0b,
@@ -158,7 +158,7 @@
         "Lines": [
         ]
     },
-    "HurtByTimestamp": 174,
+    "HurtByTimestamp": 4843,
     "pSpin": 0b,
     "NpcHurtSound": "minecraft:entity.player.hurt",
     "pTrail": 0,
@@ -173,7 +173,7 @@
             "Name": "generic.knockbackResistance"
         },
         {
-            "Base": 0.25d,
+            "Base": 0.0d,
             "Name": "generic.movementSpeed"
         },
         {
@@ -197,7 +197,7 @@
             "Name": "generic.attackDamage"
         },
         {
-            "Base": 2.5d,
+            "Base": 0.0d,
             "Name": "generic.flyingSpeed"
         }
     ],
@@ -473,8 +473,8 @@
         }
     },
     "minDelay": 20,
-    "DoorInteract": 1,
-    "MoveSpeed": 5,
+    "DoorInteract": 2,
+    "MoveSpeed": 0,
     "TransformEditingModus": 0b,
     "UsingSkinUrl": 0b,
     "Leashed": 0b,
@@ -581,7 +581,7 @@
     "NpcDeathSound": "minecraft:entity.player.hurt",
     "FactionID": 6,
     "Title": "",
-    "TotalTicksAlive": 81839L,
+    "TotalTicksAlive": 90110L,
     "Rotation": [
         352.6781f,
         0.0f
