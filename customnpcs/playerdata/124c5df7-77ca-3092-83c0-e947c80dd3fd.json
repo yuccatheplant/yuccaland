@@ -375,18 +375,17 @@
             {
                 "Quest": 90,
                 "Date": 12805178L
+            },
+            {
+                "Quest": 91,
+                "Date": 13088632L
+            },
+            {
+                "Quest": 92,
+                "Date": 13179040L
             }
         ],
         "ActiveQuests": [
-            {
-                "QuestCompleted": 1b,
-                "ExtraData": {
-                    "Location3Found": 1b,
-                    "Location2Found": 1b,
-                    "LocationFound": 1b
-                },
-                "Quest": 91
-            }
         ]
     },
     "UUID": "124c5df7-77ca-3092-83c0-e947c80dd3fd",
@@ -1627,6 +1626,27 @@
         },
         {
             "Dialog": 514
+        },
+        {
+            "Dialog": 515
+        },
+        {
+            "Dialog": 516
+        },
+        {
+            "Dialog": 517
+        },
+        {
+            "Dialog": 518
+        },
+        {
+            "Dialog": 519
+        },
+        {
+            "Dialog": 520
+        },
+        {
+            "Dialog": 521
         }
     ]
 }

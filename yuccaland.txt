@@ -3,9 +3,9 @@ Command to reset player gamemode, inventory and position back to the start:
 
 Vehilske kralovstvi
   Aramoor - hlavni mesto  	/tp @p 2407 62 3412
-  Ramshorne 				/tp @p 1625 63 2012		Opevneni		/tp @p 1773 64 2427
-  Aerilon					/tp @p 2688 63 2589		Opevneni		/tp @p 2473 85 2062
-  Northast					/tp @p 2468 63 1767
+  Ramshorne (Eda)			/tp @p 1625 63 2012		Opevneni		/tp @p 1773 64 2427
+  Aerilon 					/tp @p 2688 63 2589		Opevneni		/tp @p 2473 85 2062
+  Northast (Gabor)			/tp @p 2468 63 1767
   
 Hobiti republika
   Dorthlove					/tp @p 224 62 1979
@@ -26,8 +26,6 @@ Northast tavern
 Northast center
 
 /tp @e[type=customnpcs:customnpc,name=Strazny,x=2489,y=-17,z=1742,r=65] ~ 64 ~
-
-
 
 
 /clone 2314 62 3493 2290 80 3517 
