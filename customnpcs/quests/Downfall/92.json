@@ -28,7 +28,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1593371773882L,
+        "TimePast": 1594380393840L,
         "Time": 0L,
         "Subject": ""
     },
@@ -36,7 +36,7 @@
         "NpcMiscInv": [
         ]
     },
-    "CompleteText": "",
+    "CompleteText": "I have found Chicco.",
     "NextQuestTitle": "",
     "QuestLocation": "Fortress cellar"
 }

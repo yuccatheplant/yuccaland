@@ -28,7 +28,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1593371772132L,
+        "TimePast": 1594380408138L,
         "Time": 0L,
         "Subject": ""
     },
@@ -36,7 +36,7 @@
         "NpcMiscInv": [
         ]
     },
-    "CompleteText": "",
+    "CompleteText": "We took over Northast!",
     "NextQuestTitle": "",
     "QuestLocation": "Northast bridge"
 }

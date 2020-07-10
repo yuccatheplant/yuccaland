@@ -28,7 +28,7 @@
     "AvailabilityQuest4": 0,
     "ModRev": 18,
     "DecreaseFaction1Points": 0b,
-    "DialogQuest": -1,
+    "DialogQuest": 93,
     "AvailabilityDialog2": 0,
     "OptionFactions1": -1,
     "AvailabilityDayTime": 0,
@@ -65,7 +65,7 @@ Lead the way, please. There should be opened trapdoor in the kitchens.",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1594246756520L,
+        "TimePast": 1594378793186L,
         "Time": 0L,
         "Subject": ""
     }

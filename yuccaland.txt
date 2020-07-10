@@ -44,6 +44,105 @@ Kapitola 6 - Dlouhy pad - Downfall
 
 
 
+BernardV2
+1 say Are you guys okay?
+2 rotate @p
+10 say All the undead had sudenly fallen down and died!
+22 rotate 40
+33 say Is it over then?!
+37 rotate 0
+109 rotate 40
+110 say What do you say, Captain?
+121 rotate 90
+140 rotate 40
+270 rotate reset
+275 command noppes scene reset to_dwarves_bernard
+
+LovecV2
+2 rotate @p
+5 say What happened, @p? We though we had lost you.
+15 say I guess you two had something to do with it, right?
+23 rotate 50
+30 say So that means...
+36 rotate 20
+45 say What do YOU know about it?! You haven't even fought the battle!
+105 say Hmmm.
+122 rotate 80
+140 rotate 50
+270 rotate reset
+275 command noppes scene reset to_dwarves_lovec
+
+ChiccoV2
+2 rotate @p
+20 say Please! Be quiet for a moment!
+25 say @p an Chicco attacked the castle and killed the necromancer.
+32 rotate -120
+38 rotate -90
+85 say What does the elf means exactly? That there are more of them?
+114 rotate -140
+115 say Chicco thinks that we should ask Lord Musk about his opinion.
+120 rotate 180
+135 say Good idea. Chicco has already plan in mind.
+139 rotate -90
+140 say But first, Chicco have few questions for our elf visitor.
+155 say @p told Chicco, that you know how to get to dwarven capital.
+165 say He also mentioned that the said capital was never abadoned.
+180 say And you are able to escort small group of people there and estabilish contact?
+195 say You see, we do not have time to play games, if you catch Chicco's meaning?
+215 say Chicco understands.
+219 rotate @p
+220 say @p, elf, Hunter and Bernard will travel to the mountains and try to contact the dwarves.
+229 rotate 180
+230 say Lord Musk should take his garrison to scout and defend the area around the Lost city.
+240 say After five days he will retread back to Aerilon and hold position.
+254 rotate reset
+255 say Chicco will retreat back to Aramoor. Next week, civilians will be sent back to Aerilon.
+275 command noppes scene reset to_dwarves_chicco
+
+LegoV2
+2 rotate @p
+22 rotate 90
+35 say Excuse me for interrupting you, but it seems quite improbable.
+46 rotate -155
+55 say I haven't indeed, but unlike you, I have been receiving news from home.
+65 say The attacks on our land started quite sooner before you even realised something is wrong.
+75 say All I am saying is that it is quite improbable that he would be positioned right here.
+87 rotate 90
+95 say No, I did not said that. But I am quite sure, Lord Gabor was not the one.
+123 rotate 140
+140 rotate 90
+150 say Sure.
+175 say It is true.
+185 say Your people alone have to estabilish said contact.
+205 say I am sorry, captain, but dwarves themselves wanted to complicate estabilishing the contact as much as possible.
+264 rotate @p
+265 say Alright. @p, I would like to discuss our new mission in detail with you.
+270 rotate reset
+275 command noppes scene reset to_dwarves_lego
+
+MuskV2
+2 rotate @p
+24 rotate 0
+37 rotate -30
+120 rotate 0
+125 say Sir, I think we need to scout the entrance and area around Dandarim.
+250 say Will do, Captain.
+270 rotate reset
+275 command noppes scene reset to_dwarves_musk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 /spawnpoint @a[r=10] 1876 38 3285
 /tp @p 1876 38 3285
 
