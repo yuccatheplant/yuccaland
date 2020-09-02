@@ -1,6 +1,8 @@
 Command to reset player gamemode, inventory and position back to the start:
 /fill 1537 49 2014 1537 49 2014 minecraft:redstone_block
 
+West->south
+
 Vehilske kralovstvi
   Aramoor - hlavni mesto  	/tp @p 2407 62 3412
   Ramshorne (Eda)			/tp @p 1625 63 2012		Opevneni		/tp @p 1773 64 2427
