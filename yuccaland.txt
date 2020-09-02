@@ -1,7 +1,9 @@
 Command to reset player gamemode, inventory and position back to the start:
 /fill 1537 49 2014 1537 49 2014 minecraft:redstone_block
 
-West->south
+3513 67 752 > 3584 53 641 = ~71 ~-14 ~-111
+
+Dam Start: /tp @p 3456 76 726
 
 Vehilske kralovstvi
   Aramoor - hlavni mesto  	/tp @p 2407 62 3412
