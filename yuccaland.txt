@@ -24,10 +24,8 @@ Windforge
   
 Fast travel: 				/tp @p -552 62 2616
 
+Mountain camp
 
-Northast bridge
-Northast tavern
-Northast center
 
 /tp @e[type=customnpcs:customnpc,name=Strazny,x=2489,y=-17,z=1742,r=65] ~ 64 ~
 

@@ -27,13 +27,43 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1594380386074L,
+        "TimePast": 1602866642458L,
         "Time": 0L,
         "Subject": ""
     },
     "IgnoreDamage": 0b,
     "Rewards": {
         "NpcMiscInv": [
+            {
+                "Slot": 0b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "minecraft:gold_nugget",
+                "Count": 64b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 1b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "minecraft:gold_nugget",
+                "Count": 64b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 2b,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                },
+                "id": "minecraft:gold_nugget",
+                "Count": 64b,
+                "Damage": 0s
+            }
         ]
     },
     "Items": {
