@@ -1,0 +1,58 @@
+{
+    "ItemGiverChained": [
+    ],
+    "TransportData": [
+    ],
+    "NpcsTimers": [
+    ],
+    "FactionData": [
+    ],
+    "BankData": [
+    ],
+    "ItemGiversList": [
+    ],
+    "MailData": [
+    ],
+    "PlayerName": "Yuccatheplant",
+    "QuestData": {
+        "CompletedQuests": [
+            {
+                "Quest": 95,
+                "Date": 13667589L
+            }
+        ],
+        "ActiveQuests": [
+        ]
+    },
+    "UUID": "2ea0471f-191c-16a1-d8a3-631044199103",
+    "PlayerCompanionId": 0,
+    "DialogData": [
+        {
+            "Dialog": 544
+        },
+        {
+            "Dialog": 534
+        },
+        {
+            "Dialog": 535
+        },
+        {
+            "Dialog": 536
+        },
+        {
+            "Dialog": 537
+        },
+        {
+            "Dialog": 540
+        },
+        {
+            "Dialog": 541
+        },
+        {
+            "Dialog": 542
+        },
+        {
+            "Dialog": 543
+        }
+    ]
+}
