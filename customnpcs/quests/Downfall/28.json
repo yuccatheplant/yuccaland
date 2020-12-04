@@ -3,7 +3,7 @@
     "NextQuestId": -1,
     "QuestLocation3": "",
     "RandomReward": 0b,
-    "QuestLocation2": "Opustena hrobka",
+    "QuestLocation2": "Abadonned tomb",
     "QuestRepeat": 0,
     "QuestCompletion": 0,
     "Title": "20. Tunnel rat",
@@ -31,7 +31,7 @@ He is either somewhere nearby, or drowned down in the ruins.",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1591530553008L,
+        "TimePast": 1606943389233L,
         "Time": 0L,
         "Subject": ""
     },
@@ -41,5 +41,5 @@ He is either somewhere nearby, or drowned down in the ruins.",
     },
     "CompleteText": "Done.",
     "NextQuestTitle": "",
-    "QuestLocation": "Vodni prutrz"
+    "QuestLocation": "Water ravine"
 }

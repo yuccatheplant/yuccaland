@@ -2,6 +2,16 @@
     "DialogShowWheel": 0b,
     "AvailabilityQuestId": -1,
     "Options": [
+        {
+            "OptionSlot": 0,
+            "Option": {
+                "DialogCommand": "",
+                "Dialog": 549,
+                "Title": "And there is no other way how to reach them, right?",
+                "DialogColor": 14737632,
+                "OptionType": 1
+            }
+        }
     ],
     "AvailabilityScoreboardType": 1,
     "DialogHideNPC": 0b,
@@ -37,7 +47,10 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "",
+    "DialogText": "But this time it will be different!
+Your skill in swordplay and agility will be useless.
+To reach dwarven city you need to show that you are able to think logically.
+All your senses will be tested thoroughly.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -54,7 +67,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1606936385075L,
+        "TimePast": 1606941208728L,
         "Time": 0L,
         "Subject": ""
     }

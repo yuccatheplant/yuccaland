@@ -2,6 +2,16 @@
     "DialogShowWheel": 0b,
     "AvailabilityQuestId": -1,
     "Options": [
+        {
+            "OptionSlot": 0,
+            "Option": {
+                "DialogCommand": "",
+                "Dialog": 548,
+                "Title": "TalkI have visited too much places like this already. One more is nothing.",
+                "DialogColor": 14737632,
+                "OptionType": 1
+            }
+        }
     ],
     "AvailabilityScoreboardType": 1,
     "DialogHideNPC": 0b,
@@ -37,7 +47,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "",
+    "DialogText": "The place you are going to visit is very dangerous and it might cost you your life.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -54,7 +64,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1606936382381L,
+        "TimePast": 1606940983781L,
         "Time": 0L,
         "Subject": ""
     }

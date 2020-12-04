@@ -1,13 +1,37 @@
 {
-  "minecraft:recipes/building_blocks/spruce_planks": {
+  "minecraft:recipes/tools/fishing_rod": {
     "criteria": {
-      "has_log": "2020-12-02 20:10:12 +0100"
+      "has_string": "2020-12-02 22:22:21 +0100"
     },
     "done": true
   },
-  "minecraft:recipes/misc/light_gray_dye_from_gray_bonemeal": {
+  "minecraft:recipes/combat/wooden_sword": {
     "criteria": {
-      "has_bonemeal": "2020-12-02 20:10:12 +0100"
+      "has_stick": "2020-12-02 22:22:22 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2020-12-02 22:22:21 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/string_to_wool": {
+    "criteria": {
+      "has_string": "2020-12-02 22:22:21 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2020-12-02 21:52:36 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_log": "2020-12-02 22:16:30 +0100"
     },
     "done": true
   },
@@ -17,21 +41,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/wooden_axe": {
+    "criteria": {
+      "has_stick": "2020-12-02 22:22:22 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "entered_water": "2020-12-02 20:15:30 +0100"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/chest": {
+  "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
-      "has_lots_of_items": "2020-12-02 20:10:56 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/birch_boat": {
-    "criteria": {
-      "entered_water": "2020-12-02 20:15:30 +0100"
+      "has_bowl": "2020-12-02 21:54:40 +0100"
     },
     "done": true
   },
@@ -47,21 +71,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/light_gray_dye_from_ink_bonemeal": {
+  "minecraft:recipes/misc/pink_dye_from_peony": {
     "criteria": {
-      "has_bonemeal": "2020-12-02 20:10:12 +0100"
+      "has_double_plant": "2020-12-02 22:34:59 +0100"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/acacia_boat": {
+  "minecraft:story/obtain_armor": {
     "criteria": {
-      "entered_water": "2020-12-02 20:15:30 +0100"
+      "iron_helmet": "2020-12-02 21:59:04 +0100"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/stone_button": {
+  "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
-      "has_stone": "2020-12-02 20:21:19 +0100"
+      "has_stone": "2020-12-02 22:06:21 +0100"
     },
     "done": true
   },
@@ -77,51 +101,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_slab": {
+  "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
-      "has_stone": "2020-12-02 20:21:19 +0100"
+      "has_gold_nugget": "2020-12-02 21:53:19 +0100"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/stone_pressure_plate": {
+  "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
-      "has_stone": "2020-12-02 20:21:19 +0100"
+      "has_stick": "2020-12-02 22:22:22 +0100"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/redstone_lamp": {
+  "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
-      "has_glowstone": "2020-12-02 20:59:23 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/lime_dye": {
-    "criteria": {
-      "has_bonemeal": "2020-12-02 20:10:12 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/boat": {
-    "criteria": {
-      "entered_water": "2020-12-02 20:15:30 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/jungle_boat": {
-    "criteria": {
-      "entered_water": "2020-12-02 20:15:30 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/bowl": {
-    "criteria": {
-      "has_brown_mushroom": "2020-12-02 20:22:32 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/spruce_boat": {
-    "criteria": {
-      "entered_water": "2020-12-02 20:15:30 +0100"
+      "has_string": "2020-12-02 22:22:21 +0100"
     },
     "done": true
   },
@@ -139,12 +133,158 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "ice_flats": "2020-12-02 22:18:43 +0100",
+      "forest": "2020-12-02 21:50:11 +0100",
+      "swampland": "2020-12-02 22:30:24 +0100",
+      "beaches": "2020-12-02 22:27:56 +0100",
+      "forest_hills": "2020-12-02 21:47:25 +0100",
+      "plains": "2020-12-02 21:49:51 +0100",
       "ice_mountains": "2020-12-02 21:00:02 +0100",
       "redwood_taiga": "2020-12-02 20:10:12 +0100",
       "taiga": "2020-12-02 21:01:10 +0100",
       "taiga_hills": "2020-12-02 20:36:01 +0100",
-      "taiga_cold": "2020-12-02 21:00:47 +0100"
+      "taiga_cold": "2020-12-02 21:00:47 +0100",
+      "ocean": "2020-12-02 22:03:09 +0100",
+      "river": "2020-12-02 21:44:05 +0100"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_log": "2020-12-02 20:10:12 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone": {
+    "criteria": {
+      "has_bone": "2020-12-02 22:37:34 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_pickaxe": {
+    "criteria": {
+      "has_stick": "2020-12-02 22:22:22 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_gray_bonemeal": {
+    "criteria": {
+      "has_bonemeal": "2020-12-02 20:10:12 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2020-12-02 22:22:22 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2020-12-02 20:10:56 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "entered_water": "2020-12-02 20:15:30 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_at_least_9_gold_nugget": "2020-12-02 21:53:19 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_ink_bonemeal": {
+    "criteria": {
+      "has_bonemeal": "2020-12-02 20:10:12 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_shovel": {
+    "criteria": {
+      "has_stick": "2020-12-02 22:22:22 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_red_flower": "2020-12-02 22:34:55 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "entered_water": "2020-12-02 20:15:30 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2020-12-02 20:21:19 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2020-12-02 20:21:19 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2020-12-02 20:21:19 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2020-12-02 22:01:36 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_dye": {
+    "criteria": {
+      "has_bonemeal": "2020-12-02 20:10:12 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/boat": {
+    "criteria": {
+      "entered_water": "2020-12-02 20:15:30 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2020-12-02 20:59:23 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "entered_water": "2020-12-02 20:15:30 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_yellow_flower": "2020-12-02 21:53:17 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2020-12-02 20:22:32 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "entered_water": "2020-12-02 20:15:30 +0100"
+    },
+    "done": true
   }
 }

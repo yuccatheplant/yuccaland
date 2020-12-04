@@ -5,11 +5,11 @@
         {
             "OptionSlot": 0,
             "Option": {
-                "DialogCommand": "",
+                "DialogCommand": "/spawnpoint @dp 2685 78 1831",
                 "Dialog": -1,
                 "Title": "Let's get to it then.",
                 "DialogColor": 14737632,
-                "OptionType": 0
+                "OptionType": 4
             }
         }
     ],
@@ -64,7 +64,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1594246263519L,
+        "TimePast": 1606942114739L,
         "Time": 0L,
         "Subject": ""
     }

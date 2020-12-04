@@ -2,6 +2,16 @@
     "DialogShowWheel": 0b,
     "AvailabilityQuestId": -1,
     "Options": [
+        {
+            "OptionSlot": 0,
+            "Option": {
+                "DialogCommand": "",
+                "Dialog": -1,
+                "Title": "Thanks.",
+                "DialogColor": 14737632,
+                "OptionType": 0
+            }
+        }
     ],
     "AvailabilityScoreboardType": 1,
     "DialogHideNPC": 0b,
@@ -37,7 +47,9 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "",
+    "DialogText": "You need to march southeast from our camp untill you find another lake. In one of the islands in that lake there is underground stream shrine.
+From there on, you are on your own.
+Good luck, @p. You will need every bit of it.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -54,7 +66,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1606936390274L,
+        "TimePast": 1606941731383L,
         "Time": 0L,
         "Subject": ""
     }
