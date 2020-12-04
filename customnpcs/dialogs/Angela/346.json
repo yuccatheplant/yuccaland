@@ -47,16 +47,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "First few days nothing interesting happened.
-We were taking care of you at the city hall, waiting for you to wake up.
-At the third day we got a horrible message from the north.
-
-There are two cities to the north from here before big mountains. The undead showed there... And not in small numbers, @p.
-
-Messenger came from the city of Aerilon, which is closer of those two. Undead attacked there from the north... From the second city. Northast.
-Apparently Northast was sacked before anyone could warn Aerilon.
-Aerilon was under big scale attack which got reflected only thanks to small garrison which was stationed there at the moment due higher bandit activity in the area.
-They will not stand their ground for long though. Unless Vehil army answers.",
+    "DialogText": "First few days nothing interesting happened. We were taking care of you at the city hall, waiting for you to wake up. At the third day we got a horrible message from the north. There are two cities to the north from here before big mountains. The undead showed there... And not in small numbers, @p. Messenger came from the city of Aerilon, which is closer of those two. Undead attacked there from the north... From the second city. Northast. Apparently Northast was sacked before anyone could warn Aerilon. Aerilon was under big scale attack which got reflected only thanks to small garrison which was stationed there at the moment due higher bandit activity in the area. They will not stand their ground for long though. Unless Vehil army answers.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -73,7 +64,7 @@ They will not stand their ground for long though. Unless Vehil army answers.",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1591131807903L,
+        "TimePast": 1607109026173L,
         "Time": 0L,
         "Subject": ""
     }

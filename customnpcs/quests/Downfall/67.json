@@ -3,7 +3,7 @@
     "NextQuestId": -1,
     "QuestLocation3": "",
     "RandomReward": 0b,
-    "QuestLocation2": "Konec Halucicnace",
+    "QuestLocation2": "End of halutiation",
     "QuestRepeat": 0,
     "QuestCompletion": 1,
     "Title": "47. High quality trip",
@@ -29,7 +29,7 @@ The drink should cause me some sort of vision in which I shall see what necroman
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1591536487588L,
+        "TimePast": 1607108652068L,
         "Time": 0L,
         "Subject": ""
     },
@@ -39,5 +39,5 @@ The drink should cause me some sort of vision in which I shall see what necroman
     },
     "CompleteText": "",
     "NextQuestTitle": "",
-    "QuestLocation": "Halucinace"
+    "QuestLocation": "Halutination"
 }
