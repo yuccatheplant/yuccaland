@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 548,
-                "Title": "TalkI have visited too much places like this already. One more is nothing.",
+                "Title": "I have visited too much places like this already. One more is nothing.",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -64,7 +64,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1606940983781L,
+        "TimePast": 1608504935339L,
         "Time": 0L,
         "Subject": ""
     }
