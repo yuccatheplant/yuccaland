@@ -77,6 +77,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2020-12-21 20:58:17 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/furnace": {
     "criteria": {
       "has_cobblestone": "2020-12-04 20:03:01 +0100"
@@ -109,9 +115,17 @@
       "taiga_hills": "2020-12-02 20:36:01 +0100",
       "taiga_cold": "2020-12-02 21:00:47 +0100",
       "ocean": "2020-12-02 22:03:09 +0100",
-      "river": "2020-12-02 21:44:05 +0100"
+      "roofed_forest": "2020-12-21 21:06:44 +0100",
+      "river": "2020-12-02 21:44:05 +0100",
+      "jungle": "2020-12-21 21:08:05 +0100"
     },
     "done": false
+  },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2020-12-21 20:58:17 +0100"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/mossy_stonebrick": {
     "criteria": {
@@ -149,6 +163,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stonebrick": "2020-12-21 20:57:20 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2020-12-02 20:10:56 +0100"
@@ -161,9 +181,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2020-12-21 20:58:17 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2020-12-04 20:03:01 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2020-12-21 20:52:09 +0100"
     },
     "done": true
   },
@@ -209,6 +241,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2020-12-21 20:52:09 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/stone_pressure_plate": {
     "criteria": {
       "has_stone": "2020-12-02 20:21:19 +0100"
@@ -242,6 +280,12 @@
   "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
       "has_yellow_flower": "2020-12-02 21:53:17 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2020-12-21 20:52:09 +0100"
     },
     "done": true
   },
@@ -335,6 +379,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2020-12-21 20:58:17 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2020-12-20 23:12:09 +0100"
@@ -344,6 +394,12 @@
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2020-12-04 20:03:01 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2020-12-21 20:52:09 +0100"
     },
     "done": true
   },
@@ -362,6 +418,12 @@
   "minecraft:recipes/misc/bone_meal_from_bone": {
     "criteria": {
       "has_bone": "2020-12-02 22:37:34 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_minecart": "2020-12-21 20:58:17 +0100"
     },
     "done": true
   },
@@ -398,6 +460,18 @@
   "minecraft:recipes/decorations/mossy_cobblestone_wall": {
     "criteria": {
       "has_mossy_cobblestone": "2020-12-04 19:58:05 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stonebrick": {
+    "criteria": {
+      "has_stonebrick": "2020-12-21 20:57:20 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stonebrick": "2020-12-21 20:57:20 +0100"
     },
     "done": true
   }
