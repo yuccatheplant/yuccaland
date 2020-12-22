@@ -391,6 +391,14 @@
             {
                 "Quest": 94,
                 "Date": 13960765L
+            },
+            {
+                "Quest": 96,
+                "Date": 14110720L
+            },
+            {
+                "Quest": 97,
+                "Date": 14157361L
             }
         ],
         "ActiveQuests": [
@@ -1667,6 +1675,33 @@
         },
         {
             "Dialog": 550
+        },
+        {
+            "Dialog": 551
+        },
+        {
+            "Dialog": 552
+        },
+        {
+            "Dialog": 553
+        },
+        {
+            "Dialog": 554
+        },
+        {
+            "Dialog": 555
+        },
+        {
+            "Dialog": 556
+        },
+        {
+            "Dialog": 557
+        },
+        {
+            "Dialog": 558
+        },
+        {
+            "Dialog": 559
         }
     ]
 }

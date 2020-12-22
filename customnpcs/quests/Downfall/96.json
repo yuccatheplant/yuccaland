@@ -1,6 +1,6 @@
 {
     "CompleterNpc": "Legoland",
-    "NextQuestId": -1,
+    "NextQuestId": 97,
     "QuestLocation3": "",
     "RandomReward": 0b,
     "QuestLocation2": "",
@@ -28,7 +28,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1608578954325L,
+        "TimePast": 1608653061449L,
         "Time": 0L,
         "Subject": ""
     },
@@ -37,6 +37,6 @@
         ]
     },
     "CompleteText": "",
-    "NextQuestTitle": "",
-    "QuestLocation": ""
+    "NextQuestTitle": "74. Audience",
+    "QuestLocation": "End of trial"
 }
