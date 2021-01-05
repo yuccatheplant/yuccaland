@@ -394,14 +394,24 @@
             },
             {
                 "Quest": 96,
-                "Date": 14110720L
+                "Date": 14162142L
             },
             {
                 "Quest": 97,
-                "Date": 14157361L
+                "Date": 14164078L
+            },
+            {
+                "Quest": 99,
+                "Date": 14244479L
             }
         ],
         "ActiveQuests": [
+            {
+                "QuestCompleted": 0b,
+                "ExtraData": {
+                },
+                "Quest": 98
+            }
         ]
     },
     "UUID": "2ea0471f-191c-16a1-d8a3-631044199103",
@@ -1702,6 +1712,66 @@
         },
         {
             "Dialog": 559
+        },
+        {
+            "Dialog": 560
+        },
+        {
+            "Dialog": 561
+        },
+        {
+            "Dialog": 562
+        },
+        {
+            "Dialog": 563
+        },
+        {
+            "Dialog": 564
+        },
+        {
+            "Dialog": 565
+        },
+        {
+            "Dialog": 566
+        },
+        {
+            "Dialog": 567
+        },
+        {
+            "Dialog": 568
+        },
+        {
+            "Dialog": 569
+        },
+        {
+            "Dialog": 570
+        },
+        {
+            "Dialog": 571
+        },
+        {
+            "Dialog": 572
+        },
+        {
+            "Dialog": 573
+        },
+        {
+            "Dialog": 574
+        },
+        {
+            "Dialog": 575
+        },
+        {
+            "Dialog": 576
+        },
+        {
+            "Dialog": 577
+        },
+        {
+            "Dialog": 578
+        },
+        {
+            "Dialog": 579
         }
     ]
 }

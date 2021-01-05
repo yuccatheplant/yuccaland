@@ -138,7 +138,30 @@ MuskV2
 
 
 
+Gumli
+1 rotate 30
+2 say What be this supposed ta mean? Gumli?! Who be this human an' what be he doing in here?! An' why be ye nae watching over tha shaft!
+20 say Right. But why in stone axe's name have ye brought here?!
+30 say So?
+40 say WITH AGHAN'S STONE BEARD, GUMLI! YE BE AS STUPID AS YE BE FAT AN' YE BE VERY FAT, I TELL YE!
+57 say Wou' ye finally get ta tha point, Gumli?
+72 say GUMLI! I WANT TA HEAR THOSE ARGUMENTS HE SAID TA YE, YE STUPID DUCK-STUFFED DONKEY!
+87 say What aboot them?
+99 rotate reset
+100 say Well well well. That sounds nice. I think we can talk after all.
+102 command noppes scene reset audience_gumli
 
+Methyas
+1 rotate -150 
+12 say I be sorry, pa, but this human just appeared in that shaft. An' he was asking ta talk ta ye.
+25 say Well, I dinna want ta at first, but 'en, ye see, he had a very good arguments.
+33 say So... I let him in o' course!
+50 say I ain't fat! Mum always said ta me that I have more o' a cubic figure!
+65 say Well... tha point be. That I let him in an' here he stands just like that.
+80 say Oh right! I forgot! he be here aboot those undead.
+92 say Well, as I said, he wants ta talk aboot alliance with humans against tha undead.
+101 rotate reset
+102 command noppes scene reset audience_methyas
 
 
 
