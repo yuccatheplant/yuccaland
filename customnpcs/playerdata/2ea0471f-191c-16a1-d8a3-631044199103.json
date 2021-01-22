@@ -407,7 +407,7 @@
         ],
         "ActiveQuests": [
             {
-                "QuestCompleted": 0b,
+                "QuestCompleted": 1b,
                 "ExtraData": {
                 },
                 "Quest": 98
