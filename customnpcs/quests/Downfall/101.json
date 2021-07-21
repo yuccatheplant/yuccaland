@@ -5,7 +5,7 @@
     "QuestRepeat": 0,
     "QuestCompletion": 0,
     "IgnoreNBT": 0b,
-    "Title": "77. Nutritious delivery",
+    "Title": "77. We need to go deeper",
     "Text": "I need to go into the mines and find Shift leader and deliver him the meat.",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
@@ -27,7 +27,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1612641004216L,
+        "TimePast": 1626899856496L,
         "Time": 0L,
         "Subject": ""
     },

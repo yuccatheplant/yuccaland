@@ -28,7 +28,7 @@
     "AvailabilityQuest4": 0,
     "ModRev": 18,
     "DecreaseFaction1Points": 0b,
-    "DialogQuest": -1,
+    "DialogQuest": 103,
     "AvailabilityDialog2": 0,
     "OptionFactions1": -1,
     "AvailabilityDayTime": 0,
@@ -65,7 +65,7 @@ Our nations be friends again I guess, so good luck.",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1612643402964L,
+        "TimePast": 1626898565144L,
         "Time": 0L,
         "Subject": ""
     }
