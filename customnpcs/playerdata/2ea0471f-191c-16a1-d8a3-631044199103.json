@@ -394,31 +394,31 @@
             },
             {
                 "Quest": 96,
-                "Date": 14162142L
+                "Date": 14531709L
             },
             {
                 "Quest": 97,
-                "Date": 14164078L
+                "Date": 14533124L
             },
             {
                 "Quest": 98,
-                "Date": 14427332L
+                "Date": 14533497L
             },
             {
                 "Quest": 99,
-                "Date": 14426722L
+                "Date": 14533299L
             },
             {
                 "Quest": 100,
-                "Date": 14430639L
+                "Date": 14534019L
             },
             {
                 "Quest": 101,
-                "Date": 14431469L
+                "Date": 14534398L
             },
             {
                 "Quest": 103,
-                "Date": 14431904L
+                "Date": 14554457L
             }
         ],
         "ActiveQuests": [
@@ -429,6 +429,9 @@
     "DialogData": [
         {
             "Dialog": 2
+        },
+        {
+            "Dialog": 3
         },
         {
             "Dialog": 11

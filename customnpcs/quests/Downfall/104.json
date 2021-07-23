@@ -1,14 +1,12 @@
 {
     "CompleterNpc": "Methyas II.",
     "NextQuestId": -1,
-    "QuestLocation3": "",
     "RandomReward": 0b,
-    "QuestLocation2": "Throne room",
     "QuestRepeat": 0,
-    "QuestCompletion": 1,
-    "Title": "78. Ceiling is the limit",
-    "Text": "I need to find a way up from this mineshaft.
-This might take a while.",
+    "QuestCompletion": 0,
+    "IgnoreNBT": 0b,
+    "Title": "79. ",
+    "Text": "",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -18,9 +16,9 @@ This might take a while.",
         "DecreaseFaction2Points": 0b
     },
     "RewardExp": 0,
-    "QuestCommand": "/fill 3655 73 995 3655 73 995 minecraft:redstone_block 0",
+    "QuestCommand": "",
     "ModRev": 18,
-    "Type": 3,
+    "Type": 0,
     "QuestMail": {
         "Sender": "",
         "BeenRead": 0b,
@@ -29,15 +27,20 @@ This might take a while.",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1627058538404L,
+        "TimePast": 1627058119407L,
         "Time": 0L,
         "Subject": ""
     },
+    "IgnoreDamage": 0b,
     "Rewards": {
         "NpcMiscInv": [
         ]
     },
+    "Items": {
+        "NpcMiscInv": [
+        ]
+    },
+    "LeaveItems": 0b,
     "CompleteText": "",
-    "NextQuestTitle": "",
-    "QuestLocation": "Mine exit"
+    "NextQuestTitle": ""
 }

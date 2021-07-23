@@ -1,8 +1,8 @@
 Command to reset player gamemode, inventory and position back to the start:
 /fill 1537 49 2014 1537 49 2014 minecraft:redstone_block
 
-Mine exit
-
+Throne room
+/tp @e[type=customnpcs:customnpc,x=2458,y=50,z=1777,r=1,dx=0,dz=0,c=1] ~ 60 ~
 
 3513 67 752 > 3584 53 641 = ~71 ~-14 ~-111
 
@@ -22,7 +22,7 @@ Darkwellske imperium
   Velka bazina
   
 Windforge
-  Demeldur - Hlavni mesto
+  Demeldur - Hlavni mesto 	/tp @p 3654 63 1013
   Dandarim - Ztracene mesto
   
 Fast travel: 				/tp @p -552 62 2616

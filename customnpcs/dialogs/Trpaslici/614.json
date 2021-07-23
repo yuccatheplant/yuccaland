@@ -18,7 +18,7 @@
     "AvailabilityFactionStance": 0,
     "AvailabilityScoreboard2Value": 1,
     "DialogId": 614,
-    "AvailabilityQuest": 1,
+    "AvailabilityQuest": 3,
     "AvailabilityDialog4": 0,
     "AvailabilityScoreboardObjective": "",
     "AvailabilityDialog3": 0,
@@ -66,7 +66,7 @@ Ain't ye supposed ta be down there?!",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1626899384542L,
+        "TimePast": 1627058171703L,
         "Time": 0L,
         "Subject": ""
     }
